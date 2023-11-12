@@ -1,0 +1,2260 @@
+{
+    "tooltips": [
+        {
+            "uid": "recCmsEBhO1L18UDC",
+            "description": "Живучесть (ЖИВ) - это то, сколько урона может выдержать персонаж. При её истощении спутники терпит поражение на поле боя, однако, большинство врагов в той же ситуации сразу погибают."
+        },
+        {
+            "uid": "recOir21XSHHNsimC",
+            "description": "Сила (СИЛ) используется определёнными умениями. Эти умения можно использовать только в том случае, если у персонажа достаточно СИЛ, чтобы активировать их."
+        },
+        {
+            "uid": "recpRsUvoBEidSXnS",
+            "description": "Уклонение (УКЛ) - это режим защиты, который позволяет защищающемуся полностью избежать повреждений и эффектов от атаки. Некоторые атаки частично или полностью игнорируют уклонение. Успешное уклонение перемещает защитника на случайную соседнюю позицию."
+        },
+        {
+            "uid": "recCoKNPoOwyO2RsS",
+            "description": "Броня (БРН) вычитается из урона, когда боец получает удар. Некоторые атаки игнорируют часть или всю броню."
+        },
+        {
+            "uid": "receRaBjYIfhVuftu",
+            "description": "Действия (ДСТ) - это количество раз, когда боец делает свой ход в раунде. Последующие ходы делаются после того, как все первые ходы сделаны каждым бойцом."
+        },
+        {
+            "uid": "recatk0ho8BYlBnG0",
+            "description": "Твёрдость (ТВР) вычитается из урона при столкновении с препятствием. Некоторые атаки игнорируют часть твёрдости."
+        },
+        {
+            "uid": "recxz5RkSXK6jj0kh",
+            "description": "Прочность (ПРЧ) - это то, сколько повреждений может выдержать препятствие до разрушения."
+        },
+        {
+            "uid": "reciYdO68xcgoaQK3",
+            "description": "*Отмените активный ход и восполните 2 силы.*"
+        },
+        {
+            "uid": "recd9hj9BwdywOd6T",
+            "description": "*Открыть лист персонажа*"
+        },
+        {
+            "uid": "recjqmlj4hchlsTqq",
+            "description": "*Изменить режим защиты*\nНынешний режим защиты: Уклонение"
+        },
+        {
+            "uid": "recxzp0MmNIQ5l6IV",
+            "description": "Ожидаемый урон - это степень потери ЖИВ, которую нанесёт выбранное умение при попадании в цель. Смягчение и предотвращение урона не рассчитывается."
+        },
+        {
+            "uid": "recj7mKpUShcpSsT2",
+            "description": "Точность (ТЧН) - это шанс того, что умение успешно попадёт в цель. Защиты проверяются после попадания в цель."
+        },
+        {
+            "uid": "recwU9FDOieO8OlpU",
+            "description": "Шанс критического попадания (КРТ) - это шанс нанести критическое попадание с помощью умения. Критические попадания наносят х1,5 урона."
+        },
+        {
+            "uid": "rec118DzMBT8KxScp",
+            "description": "Инициатива (ИНИ) определяет, в каком порядке персонажи получают свой ход в раунде. Более высокая ИНИ означает, что персонаж, скорее всего, будет действовать быстрее."
+        },
+        {
+            "uid": "reczdnbqlCE16kQBm",
+            "description": "Потерпев поражение на поле боя, спутник получает немного живучести, но если и эти очки живучести закончатся, то спутник выбывает из строя."
+        },
+        {
+            "uid": "recyuHzQtE93JpIx8",
+            "description": "Количество ЖИВ, которое персонаж восстанавливает каждый раунд."
+        },
+        {
+            "uid": "recDAwOtiW7fedDRY",
+            "description": "Блок (БЛК) - это режим защиты, который предоставляет защитнику дополнительную БРН против текущей атаки. Некоторые атаки игнорируют часть или весь Блок."
+        },
+        {
+            "uid": "reckIqVyh52T39JRv",
+            "description": "Количество СИЛ, которое персонаж восстанавливает каждый раунд."
+        },
+        {
+            "uid": "recJL9QBwkH0QNhMq",
+            "description": "Сколько монет нужно платить спутнику ежедневно."
+        },
+        {
+            "uid": "recNGuHjEi5pMEst8",
+            "description": "%CharacterName% ИНИ %INI% + %RandomINI% за раунд"
+        },
+        {
+            "uid": "recVdQxOhNHMDq9zp",
+            "description": "Шанс противостоять эффектам оглушения и обездвиживания."
+        },
+        {
+            "uid": "recnxEOqptdtnu3Jo",
+            "description": "Шанс противостоять урону от кровотечения в течение определённого времени."
+        },
+        {
+            "uid": "recuukrGU9wYKsXfS",
+            "description": "Снижение урона от урона холодом и шанс сопротивляться урону холодом в течение долгого времени."
+        },
+        {
+            "uid": "reccaSKQDNmkDnGvh",
+            "description": "Уменьшение урона от Ментального урона и шанс сопротивляться Ментальному урону в течение времени, а также Ментальным эффектам."
+        },
+        {
+            "uid": "reci4SzuT7PdKDt1W",
+            "description": "Снижение урона от урона огнём и шанс сопротивляться урону огнём в течение времени."
+        },
+        {
+            "uid": "recWEt7z45dvJJeOR",
+            "description": "Снижение получаемого энергетического урона и шанс противостоять магическому урону с течением времени, а также магическим эффектам."
+        },
+        {
+            "uid": "recrKgh5CoTrf1kuW",
+            "description": "Шанс сопротивляться урону от яда в течение долгого времени."
+        },
+        {
+            "uid": "recUznGzEQu1ZLM6X",
+            "description": "Снижение урона от попадания молнии и повышение шанса сопротивляться урону от молнии с течением времени."
+        },
+        {
+            "uid": "recEBmSa4rNsr98yn",
+            "description": "**Первая помощь**Возвращает сражённого спутника в боеспособное состояние\n%cost% находчивости"
+        },
+        {
+            "uid": "recEBSHfsK5Vz0VNz",
+            "description": "**Уполномочить**Дать СИЛ спутнику.\n1 СИЛ за %cost% находчивости"
+        },
+        {
+            "uid": "recgHBTIBHLawUuF9",
+            "description": "**Вдохновение**\n\nУвеличивает защиту спутника на 3 раунда.\n%cost% находчивости."
+        },
+        {
+            "uid": "reca7Zu7owFnt7JZD",
+            "description": "**Подготовка**\n\nУвеличивает ИНИ спутника на текущий раунд. Спутник мгновенно продвигается вперёд в порядке ИНИ.\nМаксимальное %useage% за раунд.\n%cost% находчивости"
+        },
+        {
+            "uid": "reciNp20OuiJdZaLa",
+            "description": "**Находчивость**\n%current% из %max%"
+        },
+        {
+            "uid": "recpcEaylSZ5a0N6a",
+            "description": "Назначайте заместителей вне лагеря и поселений."
+        },
+        {
+            "uid": "recLl4DoloyoGPIVi",
+            "description": "Не может быть использован в течение (дней): %remainingdays%"
+        },
+        {
+            "uid": "rec99fgKCHUCMdzzs",
+            "description": "Стоимость: %cost% находчивости"
+        },
+        {
+            "uid": "rec34cwL7iTx3af4g",
+            "description": "Вы можете добавлять только %entries% записей для каждой точки интереса."
+        },
+        {
+            "uid": "rec5aDvwjzZXMJSTt",
+            "description": "**Главное меню** (F10)"
+        },
+        {
+            "uid": "recDsG8GEmByas6F2",
+            "description": "**Боевые задачи**\n/недоступно/"
+        },
+        {
+            "uid": "recmwKlJZpEuNNgRj",
+            "description": "**Отступление**\n/нет в наличии/"
+        },
+        {
+            "uid": "recaWbw9L213Xp4e0",
+            "description": "Деньги, которые вы должны платить своему экипажу каждый день."
+        },
+        {
+            "uid": "recqPw6vqpXJVFioJ",
+            "description": "%name%"
+        },
+        {
+            "uid": "recAU6xgR1vTCJKvw",
+            "description": "Люди, которых вы согласились доставить к месту назначения."
+        },
+        {
+            "uid": "recUX229cU6szVo00",
+            "description": "Мера того, сколько припасов потребляет ваш /комитат/ каждый день при стандартном рационе."
+        },
+        {
+            "uid": "recGeZUBKC30fILqD",
+            "description": "Общая сумма вашего долга перед экипажем."
+        },
+        {
+            "uid": "recmvIpMy7xJmfgx5",
+            "description": "Добавить наездника\n/Требуется 1 зверь и 1 боец./"
+        },
+        {
+            "uid": "rect7QdJU270fMI4I",
+            "description": "Спешить наездника\n/Добавит 1 зверя и 1 бойца./"
+        },
+        {
+            "uid": "recUg8RPEvnuhd26o",
+            "description": "Сортировка грузов\n/Объединяет стопки и перемещает одни и те же товары вместе./"
+        },
+        {
+            "uid": "recRzg1CU4Qojy7hn",
+            "description": "**Мастерство**Уровень опыта и умений спутника (1-9).\n/Нажмите, чтобы повысить спутника./"
+        },
+        {
+            "uid": "recJEYNCxs8XboF9g",
+            "description": "Переключение внешнего вида и фонового отображения"
+        },
+        {
+            "uid": "rectarMqCu9iugBfP",
+            "description": "Лояльность вашего спутника к /комитату/ и вам в частности. Лояльность зависит от ваших выборов и действий, но каждому спутнику нравятся и не нравятся разные вещи. Поговорите с ними, чтобы узнать больше. Высокая лояльность может открыть новые сюжетные возможности для вашего спутника, в то время как низкая лояльность может привести к его уходу из комитата. Уровни лояльности:\n3 - Родство\n2 - Дружба\n1 - Товарищество\n0 - Безразличие\n-1 - Недовольство\n-2 - Обида"
+        },
+        {
+            "uid": "receUljPn4gr8vUus",
+            "description": "**Кодекс** (%hotkey%)"
+        },
+        {
+            "uid": "recSdFqbcQQigws4L",
+            "description": "**Вагрус** (%hotkey%)"
+        },
+        {
+            "uid": "recTtvKnsrgUoNXLi",
+            "description": "**Журнал** (%hotkey%)"
+        },
+        {
+            "uid": "recYIKGynbUSufx4o",
+            "description": "**Карта** (%hotkey%)"
+        },
+        {
+            "uid": "recRIsDnO3cDTN3w7",
+            "description": "**Журнал комитата** (%hotkey%)"
+        },
+        {
+            "uid": "recj0kolbnxg7TvN7",
+            "description": "**Глоссарий** (%hotkey%)"
+        },
+        {
+            "uid": "recK5XFzYI006X2NM",
+            "description": "*Движение*"
+        },
+        {
+            "uid": "recZ4jYepuWiezyYQ",
+            "description": "*Марш*"
+        },
+        {
+            "uid": "recWXaOLBfj3oNLLP",
+            "description": "*Разбить лагерь*"
+        },
+        {
+            "uid": "recdW5fDU4NHUygdG",
+            "description": "*Быстро развёрнутый лагерь*"
+        },
+        {
+            "uid": "rec63rBMlOhx2XaU9",
+            "description": "*Разведка*"
+        },
+        {
+            "uid": "recsCiEwuSNL06tNk",
+            "description": "*Приобрести припасы*"
+        },
+        {
+            "uid": "reciuXST0ZJM65eAk",
+            "description": "*Войти*"
+        },
+        {
+            "uid": "recEuZsKGMmS15RXo",
+            "description": "*Исследовать*\nИскать события и встречи на этом узле."
+        },
+        {
+            "uid": "recGlS4Zt47WdjOVX",
+            "description": "*Исследовать*\nИскать события и встречи на этом узле.\n/Недоступно: у вас недостаточно ОД./"
+        },
+        {
+            "uid": "recJZfjS1iKNY8eDd",
+            "description": "Затраты ОД"
+        },
+        {
+            "uid": "recZlgwBbMdqaen6g",
+            "description": "Затраты ОД на марш"
+        },
+        {
+            "uid": "recD9f0io8y4nV23F",
+            "description": "Отображает все изменения в экипаже, произошедшие в текущий день."
+        },
+        {
+            "uid": "recbmaybM0y06FP1z",
+            "description": "Завершить текущий день.\n/Применяются приказы потребления, оплаты и обороны. ОД и находчивость восстанавливаются в начале следующего дня./"
+        },
+        {
+            "uid": "rec97K5Z9MJfCdoI3",
+            "description": "Скормите %rations%% пайков /комитату/ в конце дня.\nПотребление: %consumption%\nУ вас есть %supply% припасов."
+        },
+        {
+            "uid": "recUPhBaJs6kmpXD4",
+            "description": "Оплатите весь свой долг перед вашим экипажем в конце дня, включая то, что вы предлагаете за текущий день."
+        },
+        {
+            "uid": "recSt1fM3nBsfmHla",
+            "description": "Предложите своему экипажу нормальную заработную плату за текущий день."
+        },
+        {
+            "uid": "recpB87Url4lSfxKJ",
+            "description": "Отрыть окно Отдыха в поселении"
+        },
+        {
+            "uid": "recU746MCpscmzbGU",
+            "description": "Исцелить спутников"
+        },
+        {
+            "uid": "recqSQeJvQfirGBpu",
+            "description": "Поговорите со спутником"
+        },
+        {
+            "uid": "rec3rsrDExju6BZ8p",
+            "description": "Выйти из поселения (%hotkey%)"
+        },
+        {
+            "uid": "rec7qKVOo205EBESX",
+            "description": "История (%hotkey%)"
+        },
+        {
+            "uid": "recBQEXKRx9g7hJQO",
+            "description": "Рынок (%hotkey%)"
+        },
+        {
+            "uid": "rec6YGIrUfn8K5WMw",
+            "description": "Мансио (%hotkey%)"
+        },
+        {
+            "uid": "recOhznYIdgt2OSLp",
+            "description": "Фракции (%hotkey%)"
+        },
+        {
+            "uid": "rec4f0opQB47nfrPs",
+            "description": "Вне зоны досягаемости с имеющимися ОД"
+        },
+        {
+            "uid": "reckYIjIwvCorGnT6",
+            "description": "*[red]ЖИВ %vit% из %maxvit%[]*\n*[yellow]СИЛ %pow% из %maxpow%[]*"
+        },
+        {
+            "uid": "recSjEcs5RUYmCbpj",
+            "description": "Конец текущего дня.\n/Применяются варианты потребления, оплаты и отдыха. ОД и находчивость восстанавливаются в начале следующего дня./"
+        },
+        {
+            "uid": "recV3ILOiNvlcQUG8",
+            "description": "Живучесть"
+        },
+        {
+            "uid": "rec07Afw4aIXOMR5K",
+            "description": "Уклониться"
+        },
+        {
+            "uid": "recVUhfS4GYypZdVm",
+            "description": "Блок"
+        },
+        {
+            "uid": "recAn5YT7wRD9qTv2",
+            "description": "Сила"
+        },
+        {
+            "uid": "recEOkJcXT7v4zMwJ",
+            "description": "Броня"
+        },
+        {
+            "uid": "recgkmAwexTE70898",
+            "description": "Действия"
+        },
+        {
+            "uid": "rec7pNky8SZj1GYpR",
+            "description": "Ожидаемый урон"
+        },
+        {
+            "uid": "recpkFmerJyc35CED",
+            "description": "Точность"
+        },
+        {
+            "uid": "rec979fZstUMXS4KH",
+            "description": "Шанс критического попадания"
+        },
+        {
+            "uid": "recgUFZfX3xBsfVBp",
+            "description": "*Изменить режим защиты*\nНынешний режим защиты: Блок"
+        },
+        {
+            "uid": "recyo588BEkt1ZDk7",
+            "description": "Предложите своему экипажу двойное жалование за текущий день (повышает моральный дух)."
+        },
+        {
+            "uid": "recYodW3iaHTU9YMN",
+            "description": "Отложить оплату. К накопленной сумме будет добавлен ваш долг, включая то, что вы предлагаете за текущий день."
+        },
+        {
+            "uid": "recvi4YOfvd3nnX5J",
+            "description": "Исцеление спутников"
+        },
+        {
+            "uid": "recEdsjRi1qXfjZYJ",
+            "description": "Текущий режим защиты: Уклонение"
+        },
+        {
+            "uid": "recwTHTHIyZMziltP",
+            "description": "Текущий режим защиты: Блок"
+        },
+        {
+            "uid": "recgVuD1OTcyaEPro",
+            "description": "История выравнена"
+        },
+        {
+            "uid": "recQZiG1qTZFSLv9q",
+            "description": "История выверена"
+        },
+        {
+            "uid": "recQIiXJ37f3Jpj2a",
+            "description": "%value% %name% требуется"
+        },
+        {
+            "uid": "recyV7KQL6GeZXN11",
+            "description": "Требуется менее %value% %name%"
+        },
+        {
+            "uid": "rec1vf2Tr9amqSXaQ",
+            "description": "Спутник: требуется %name%"
+        },
+        {
+            "uid": "reciXf7bhwt7wxSOR",
+            "description": "Спутник: %name% не может присутствовать"
+        },
+        {
+            "uid": "recSU7wGmmcQS9pbG",
+            "description": "Требуется навык: %name% (%level%)"
+        },
+        {
+            "uid": "rec5Xq5UVEWk2Z82n",
+            "description": "Меньше, чем навык: %name% (%level%) требуется"
+        },
+        {
+            "uid": "recXR7C36xgBMyA5G",
+            "description": "%character% требуется %name% (%level%)"
+        },
+        {
+            "uid": "recxGeYHMXydslV5Y",
+            "description": "%character% требует меньше, чем %name% (%level%)"
+        },
+        {
+            "uid": "recFYJ9j6RRqDpogJ",
+            "description": "Пассажир: требуется %name%"
+        },
+        {
+            "uid": "recfT7nfHM2EZyfvl",
+            "description": "Пассажир: %name% не может присутствовать"
+        },
+        {
+            "uid": "recpLiWq40tMTtDTF",
+            "description": "Товары: %name% (%value%) требуется"
+        },
+        {
+            "uid": "recC5yRLJUsQZcwl6",
+            "description": "Товары: %name% меньше, чем (%value%) требуется"
+        },
+        {
+            "uid": "rectw995FAcvA4f58",
+            "description": "Предмет: %name% меньше, чем (%value%) требуется\n"
+        },
+        {
+            "uid": "rec6LF9p2afttOJbq",
+            "description": "Предмет: %name% (%value%) требуется\n"
+        },
+        {
+            "uid": "recaB9LPccqIFIepO",
+            "description": "Средняя цена собственных акций: %price%"
+        },
+        {
+            "uid": "recoNgq946NbDd2c4",
+            "description": "%value% %name% требуется (у вас есть %count%)"
+        },
+        {
+            "uid": "reczfNNa2UxKzcAae",
+            "description": "максимум %max1% - %max2%"
+        },
+        {
+            "uid": "recHLeDd9M9SXEDaQ",
+            "description": "Доступно: Ежедневно"
+        },
+        {
+            "uid": "reckvDazhVM8UZDEu",
+            "description": "Доступно: Каждые %freq% дней"
+        },
+        {
+            "uid": "recm6tILj9WStcL9c",
+            "description": "Требуется меньше %value% %name% (у вас есть %count%)"
+        },
+        {
+            "uid": "recNMnNeqsAk38a3G",
+            "description": "История приведена в соответствие (%level1name%)"
+        },
+        {
+            "uid": "recGXK9e2qIXQY5gs",
+            "description": "Требуется продвижение по сюжету (%level1name%)"
+        },
+        {
+            "uid": "recn7kDAJrNCSlfDz",
+            "description": "_неиспользованный_"
+        },
+        {
+            "uid": "recEQvdNg4sQN1LQn",
+            "description": "Качество: %name%"
+        },
+        {
+            "uid": "rec92r7ZJaGzWudLo",
+            "description": "Без качества: %name%"
+        },
+        {
+            "uid": "rec8gLEoSrlHgD3me",
+            "description": "История продвинулась дальше (%level1name%)"
+        },
+        {
+            "uid": "recinnxmKl8ZuH6eB",
+            "description": "Завершить изменения"
+        },
+        {
+            "uid": "reckCZdfFlelNEqmp",
+            "description": "Сброс изменений"
+        },
+        {
+            "uid": "recz6yETRRhuasCyV",
+            "description": "Заместители"
+        },
+        {
+            "uid": "recJmkZ08py5MTR9X",
+            "description": "Спутники"
+        },
+        {
+            "uid": "recfX3OaB0c4BY3cs",
+            "description": "Качество: %name% (Необходимо %value% или больше. У вас есть %valueplayer%)."
+        },
+        {
+            "uid": "recpuO6hTHMMV6e6R",
+            "description": "Качество: %name% (Необходимо %value% или меньше. У вас есть %valueplayer%)."
+        },
+        {
+            "uid": "rec3e0Iwb6qRUeSfS",
+            "description": "Механизм: %name% должен принадлежать"
+        },
+        {
+            "uid": "recVLEUiMBqMMUKB4",
+            "description": "Механизм: %name% не может принадлежать"
+        },
+        {
+            "uid": "recoIWMZ1toI0N0V5",
+            "description": "Оборудование: %name% должно быть в собственности"
+        },
+        {
+            "uid": "rec1VxLHyaihbyaeE",
+            "description": "Оборудование: %name% нельзя приобрести"
+        },
+        {
+            "uid": "rec1yAjWuGhBiKlJn",
+            "description": "%value% прошло с начала путешествия"
+        },
+        {
+            "uid": "rec4PBgVg3b5Lz9E1",
+            "description": "Обещана двойная оплата"
+        },
+        {
+            "uid": "recBo1yyQ0Ne04ElW",
+            "description": "Заместителей можно назначить только во время лагеря или отдыха, или потратив находчивость."
+        },
+        {
+            "uid": "rech6sNtnlAY5goGZ",
+            "description": "%value% Необходимые пайки"
+        },
+        {
+            "uid": "rec7YjlVYqrTx7hbN",
+            "description": "Меньше чем %value% требуемых рационов"
+        },
+        {
+            "uid": "reck40yCWz57LFP47",
+            "description": "Запись Кодекса: %name% не может быть разблокирована"
+        },
+        {
+            "uid": "recrZOoabNsAJjOYr",
+            "description": "Запись в кодексе: требуется %name%"
+        },
+        {
+            "uid": "recrNsdPUJeZEnRwj",
+            "description": "Ваша раса должна быть %name%"
+        },
+        {
+            "uid": "recQrg3nMdSDlM8vg",
+            "description": "Ваше призвание не может быть %name%"
+        },
+        {
+            "uid": "recJFyuObjydoexcB",
+            "description": "Ваше призвание должно быть %name%"
+        },
+        {
+            "uid": "recsCkdvMcy53ytRG",
+            "description": "Ваша предыстория должна быть %name%"
+        },
+        {
+            "uid": "recmqerWPuf6pLch9",
+            "description": "Ваши стремление не может быть %name%"
+        },
+        {
+            "uid": "recA1gZcvAiVOtlHI",
+            "description": "Ваша стремление должно быть %name%"
+        },
+        {
+            "uid": "recCJUltiYWwPbrOS",
+            "description": "Ваша раса не может быть %name%"
+        },
+        {
+            "uid": "recivcRGM2pWVhbCk",
+            "description": "Доступно: каждые %freq% - %freq2% дней"
+        },
+        {
+            "uid": "recalnvWWRMu6mONa",
+            "description": "_неиспользованный_"
+        },
+        {
+            "uid": "recEd9JlW8HD5EMpo",
+            "description": "_неиспользованный_"
+        },
+        {
+            "uid": "rectWXptog8I546yx",
+            "description": "Товары: Требуется случайный (%value%)"
+        },
+        {
+            "uid": "recIBRd6DPSaY9no4",
+            "description": "Недостаточно товаров в вашем багаже"
+        },
+        {
+            "uid": "recTLw3BP4SfK9EOo",
+            "description": "Не менее %value% спутников"
+        },
+        {
+            "uid": "recxtlOFuYHVVHRYK",
+            "description": "Меньше чем %value% спутников"
+        },
+        {
+            "uid": "recnrdFD1uGdMJTg5",
+            "description": "Не менее %value% спутников"
+        },
+        {
+            "uid": "recofsDPo8A69m9Y0",
+            "description": "Меньше чем %value% спутников"
+        },
+        {
+            "uid": "recc3VbZJUaNObAVQ",
+            "description": "*Усиление умения*: Используйте боевое умение на его следующем уровне.\n/Нажав на эту кнопку, вы измените умения этого персонажа на их версии следующего уровня. После этого используйте умения в обычном режиме. Повторное нажатие кнопки отменяет усиление./\n%cost% находчивости."
+        },
+        {
+            "uid": "recO8v11B2y1Nvpfx",
+            "description": "Увеличение максимальной находчивости (%resourcefulnesscost%)"
+        },
+        {
+            "uid": "rec3IWnxVV3ROUcNp",
+            "description": "*ЛКМ*: Купить 1 единицу\n*Shift+ЛКМ*: Купить 1 стопку.\n\nЧтобы купить определённое количество, нажмите *Shift+ЛКМ* на *значок* товара."
+        },
+        {
+            "uid": "recO5Cjrj1sZUnrp0",
+            "description": "*ЛКМ*: Продать 1 единицу\n*Shift+ЛКМ*: Продать 1 стопку\nЧтобы продать определённое количество, нажмите *Shift+ЛКМ* на *иконке* товара."
+        },
+        {
+            "uid": "rec9ocMdiDZ2WL30B",
+            "description": "*ЛКМ*: Удалить 1 единицу\n*Shift+ЛКМ*: Удалить 1 стопку"
+        },
+        {
+            "uid": "recXHVkhiuNooS4G8",
+            "description": "*ЛКМ*: Добавить 1 единицу\n*Shift+ЛКМ*: Добавить 1 стопку"
+        },
+        {
+            "uid": "recUl6xASKECJAJuo",
+            "description": "Установите значение на минимум."
+        },
+        {
+            "uid": "recvq74zStBGGJR90",
+            "description": "Установите максимальное доступное значение."
+        },
+        {
+            "uid": "recCcsucANGTCPT5a",
+            "description": "Показать все товары"
+        },
+        {
+            "uid": "recfbzrgQPUdWqxVR",
+            "description": "Повысьте свой статус, чтобы получить доступ к этому предложению фракции. Уровни предложений фракции зависят от вашего положения в данной фракции и её специализации. Торговые дома обычно имеют предложения фракций более высокого уровня,\nв то время как церкви и преступные организации дают доступ только к резервам своей фракции."
+        },
+        {
+            "uid": "recZqR84QiDBRQt23",
+            "description": "*Заблокировано*\n/Для разблокировки требуется соответствующий навык лидерства./"
+        },
+        {
+            "uid": "recPLIWKBxP48LsuG",
+            "description": "Недостаточно *находчивости*."
+        },
+        {
+            "uid": "rec7lLinMdVDieJ4X",
+            "description": "Нет доступной цели."
+        },
+        {
+            "uid": "recgJGKa4ydqDWJK4",
+            "description": "Просмотр соответствующих записей Кодекса (если они уже разблокированы)."
+        },
+        {
+            "uid": "recZI5i0HRpp2jKDK",
+            "description": "Отмеченные места остаются видимыми независимо от масштаба карты."
+        },
+        {
+            "uid": "recdgvpxR1aVfSePS",
+            "description": "Недостаточно *%prop%*"
+        },
+        {
+            "uid": "recDDCsCCDdazajsY",
+            "description": "Этот спутник *должен* быть размещён."
+        },
+        {
+            "uid": "rec9UK51wn6BLdAhX",
+            "description": "Этот спутник был размещён."
+        },
+        {
+            "uid": "recQ3Xs4C0iKjSqEo",
+            "description": "Этот спутник заблокирован на своей позиции на поле боя."
+        },
+        {
+            "uid": "recKXStHRO5g3Y6Pa",
+            "description": "Этот спутник ранен, но доступен для размещения."
+        },
+        {
+            "uid": "recGnLHxwdhGKpgTz",
+            "description": "Этот спутник смертельно ранен и не может быть размещён."
+        },
+        {
+            "uid": "recMYI10nL06ERLWf",
+            "description": "Этот спутник недоступен для размещения."
+        },
+        {
+            "uid": "recZovhCJ1hVjqNpc",
+            "description": "Недостаточно проницательности для повышения мастерства."
+        },
+        {
+            "uid": "rec5yHOpJUpiSfPOR",
+            "description": "Вам нужно пройти историю этого спутника, чтобы открыть следующий уровень мастерства."
+        },
+        {
+            "uid": "recQByiL9rD9oV4H6",
+            "description": "Максимальное мастерство уже достигнуто."
+        },
+        {
+            "uid": "recjHaaq4Q2mXfw38",
+            "description": "Вы не можете позволить себе отдых в мансио.\n/Покиньте поселение, чтобы разбить лагерь на улице или получить %money%, чтобы заплатить за мансио./"
+        },
+        {
+            "uid": "recW8obQsTueRcEQr",
+            "description": "Лидерские действия на данный момент отключены."
+        },
+        {
+            "uid": "recFkFR0BkkN6vxEj",
+            "description": "Вы не можете использовать это снова до следующего раунда."
+        },
+        {
+            "uid": "recYqPGlhSD1B0VX9",
+            "description": "Не может повышать умение дальше."
+        },
+        {
+            "uid": "recfS4uWFTI0rbISg",
+            "description": "Не %name% %value%"
+        },
+        {
+            "uid": "recPsjsu6NaY4UXzU",
+            "description": "%name% %value%"
+        },
+        {
+            "uid": "reck589VIw82yGMB0",
+            "description": "Слухи: %name%"
+        },
+        {
+            "uid": "recQxY469TlebnOhC",
+            "description": "Неизвестный слух: %name%"
+        },
+        {
+            "uid": "recWLKXP4Z6Bnaetm",
+            "description": "Не %name% %value%"
+        },
+        {
+            "uid": "reck0aFKNgLSskpmm",
+            "description": "%name% %value%"
+        },
+        {
+            "uid": "recfFRsk1073NPMp6",
+            "description": "Нет новостей от %node%"
+        },
+        {
+            "uid": "recfCJ89zTERxRqmq",
+            "description": "Новости от %node%"
+        },
+        {
+            "uid": "recoOpsBr1tnwk5Mr",
+            "description": "%status%"
+        },
+        {
+            "uid": "recT3tK24tcEbZySo",
+            "description": "Не %status%"
+        },
+        {
+            "uid": "recZozLh5CpXmtHrf",
+            "description": "%character% не имеет %status%"
+        },
+        {
+            "uid": "reclhM9Cx7Prup4Uk",
+            "description": "%character% имеет %status%"
+        },
+        {
+            "uid": "recozVapsuhgtMVX8",
+            "description": "%name% повреждён, ранен или тяжело ранен"
+        },
+        {
+            "uid": "recd8yj7X5GXbLeSJ",
+            "description": "%name% не повреждён, ранен или тяжело ранен"
+        },
+        {
+            "uid": "recpTkicoLKKVL5z5",
+            "description": "%name% - %healthstatus%"
+        },
+        {
+            "uid": "recyH1YJLtIz3EQ6Q",
+            "description": "%name% не является %healthstatus%"
+        },
+        {
+            "uid": "recKrjALtxTaxpX0E",
+            "description": "Допускается только %maxtrigger% раз"
+        },
+        {
+            "uid": "recKJ4qV2SbP6z4kp",
+            "description": "Этот спутник доступен для размещения."
+        },
+        {
+            "uid": "recrtjsn1P1RtrqRS",
+            "description": "Повышает шанс успешной разведки в этом направлении. Затрачивает 1 *находчивость*."
+        },
+        {
+            "uid": "rec6O617JjbKdWf3J",
+            "description": "Указывает, есть ли у вас назначенный мастер разведки. Вы можете назначить заместителей на панели заместителей.\nНазначенный мастер разведки даёт следующие бонусы:\n- Одно дополнительное направление без затрат находчивости\n- Повышает шанс критического успеха\n- Снижает шанс критического провала"
+        },
+        {
+            "uid": "reczIGwkndknj2BAM",
+            "description": "Обновляйте новости из этого места и делитесь своими новостями за монеты."
+        },
+        {
+            "uid": "recBVsu8Uou9Rxiih",
+            "description": "/Истекает через %days% дней./"
+        },
+        {
+            "uid": "recWFtIWkvitUvXMm",
+            "description": "Показать результаты разведки."
+        },
+        {
+            "uid": "recHTSbRW48oSIhCd",
+            "description": "Гарантировать успех разведчику в этой категории, потратив две единицы находчивости."
+        },
+        {
+            "uid": "recMA31BnAgZ1oy01",
+            "description": "Разведчик прямо перед траекторией движения /комитата/."
+        },
+        {
+            "uid": "recZwtJtQMzZDggeM",
+            "description": "Разведать все соседние узлы, связанные с текущей траекторией /комитата/."
+        },
+        {
+            "uid": "recolw81ZIXKoq0fN",
+            "description": "Установите условия, связанные с охотой и добычей пищи, которые останавливают /комитат/."
+        },
+        {
+            "uid": "rec5BkpxbkRTazw04",
+            "description": "Установите условия, относящиеся к боевым столкновениям, которые останавливают /комитат/."
+        },
+        {
+            "uid": "recVImfvNQevEEpZz",
+            "description": "Установите условия, относящиеся к событиям или задачам, которые останавливают /комитат/."
+        },
+        {
+            "uid": "recEzxgwpI3z4RL3r",
+            "description": "Установите %stopcriteria% критерии для остановки /комитата/."
+        },
+        {
+            "uid": "rec1LNMZYXMRYaMc9",
+            "description": "У вас уже есть последние местные новости и ничем новым не поделятся."
+        },
+        {
+            "uid": "recf9P7BWHbdohEaa",
+            "description": "Отправить своих разведчиков в выбранных направлениях.\n/Вы не можете изменить свои приказы после этого, но вы можете отправить их снова./"
+        },
+        {
+            "uid": "recVZv2scInOw9dQG",
+            "description": "Недостаточно *находчивости* или *очков движения* или *разведчиков* для выполнения этого действия."
+        },
+        {
+            "uid": "recRFJc4o4kmf1RKW",
+            "description": "Вернуться на карту кампании.\nНажав на иконку *Глаза*, вы снова откроете результаты разведки, где вы сможете снова отправить своих разведчиков."
+        },
+        {
+            "uid": "reco3D7xwwRGZsiUB",
+            "description": "Каждое дополнительное направление после первого (с мастером разведки: после второго) расходует *находчивость*.\nПовышение шанса на успех также расходует по одной единице *находчивости* на направление."
+        },
+        {
+            "uid": "recW1OsWPvcIBm1Vk",
+            "description": "Стоимость *очков движения* разведки равна направлению с наибольшей стоимостью ОД."
+        },
+        {
+            "uid": "recozqppGjAZJtlFo",
+            "description": "Отправить ещё одного разведчика в этом направлении."
+        },
+        {
+            "uid": "recUpYThD4ktErdhE",
+            "description": "Вероятность того, что событие произойдет на этом узле, равна %chance%."
+        },
+        {
+            "uid": "recWbhqOEeTKSAs3j",
+            "description": "В этом направлении вы найдёте что-то связанное с историей."
+        },
+        {
+            "uid": "recWaF32GmwNgIzxJ",
+            "description": "Вы можете снова отправить своих разведчиков в надежде на лучший результат."
+        },
+        {
+            "uid": "recrRKZnOU4JfDxvq",
+            "description": "Недостаточно *Разведчиков* или *ОД* для выполнения этого действия."
+        },
+        {
+            "uid": "reccL3XNDnKAoEgpo",
+            "description": "Здесь поджидают враги."
+        },
+        {
+            "uid": "recFbI0UL3ynsY6d2",
+            "description": "Отправьте хотя бы одного *разведчика* в этом направлении, чтобы увеличить шансы на успех."
+        },
+        {
+            "uid": "rec3stfSEpUoAGSQU",
+            "description": "Каждое дополнительное направление после первого (с мастером разведки: после второго) стоит *Находчивости*.\nУвеличение шанса на успех также стоит одну *Находчивость* за направление."
+        },
+        {
+            "uid": "recQwRkkliwEaGRWJ",
+            "description": "Затраты *Очков движения* разведчика равна направлению с наибольшей стоимостью ОД."
+        },
+        {
+            "uid": "recISeZzFl3Ol2cOe",
+            "description": "*Вероятность критической неудачи*\n/Потерять одного или нескольких ваших разведчиков, посланных в этом направлении, в случае *критической неудачи*./"
+        },
+        {
+            "uid": "recPTSJDlrasMXbAJ",
+            "description": "*Вероятность критического успеха*\n/Вы получите точную информацию об узле, который разведывали, в случае *критического успеха*./"
+        },
+        {
+            "uid": "recxLUjygT478X8Gb",
+            "description": "Вероятность *успеха*\n/В случае *успеха* вы получите достоверную информацию об узле, который исследовали./"
+        },
+        {
+            "uid": "recBZtAghNehx63iS",
+            "description": "*Вероятность провала*\n/Можно потерять одного или нескольких разведчиков, отправленных в этом направлении, в случае *Неудачи*./"
+        },
+        {
+            "uid": "recEwbqUDOu63G6rG",
+            "description": "Отправить в этом направлении на одного разведчика меньше."
+        },
+        {
+            "uid": "recYBP1F9RdwnTkCV",
+            "description": "Недостаточно *находчивости* для выполнения этого действия."
+        },
+        {
+            "uid": "recYhjmTYvfYvO9N9",
+            "description": "У вас недостаточно разведчиков, чтобы увеличить пройденное расстояние."
+        },
+        {
+            "uid": "recOXfigcAKV6GTq8",
+            "description": "У вас недостаточно очков движения, чтобы увеличить пройденное расстояние."
+        },
+        {
+            "uid": "recsqFgs8fXZW3fFD",
+            "description": "История выравнена."
+        },
+        {
+            "uid": "rec0jP13XIrty5mbr",
+            "description": "История в согласовании."
+        },
+        {
+            "uid": "rec3APCA45JgxjEGQ",
+            "description": "Скоро будет"
+        },
+        {
+            "uid": "recjc4oqBKgj3Bgr2",
+            "description": "Не менее %value% спутников"
+        },
+        {
+            "uid": "recP8G01VWDrlJeN2",
+            "description": "Меньше чем %value% спутников"
+        },
+        {
+            "uid": "rec3DoJFCOcWe4zSO",
+            "description": "Дисциплинируйте одного или нескольких своих рабов, чтобы получить Повиновение. /Обратите внимание, что дисциплинирование ваших рабов имеет убывающую отдачу и может иметь противоположный эффект на Повиновение./\n/ Не требует ОД, если вы уже находитесь в лагере./"
+        },
+        {
+            "uid": "recBwlDJTrOyuRGEW",
+            "description": "Освободите одного или нескольких своих рабов, чтобы добиться послушания. Освобождённые рабы становятся рабочими. /Обратите внимание, что эффект от Послушания уменьшается./\n/ Не требует затрат ОД, если вы уже находитесь в лагере./"
+        },
+        {
+            "uid": "recjt1FU6mHOS46cg",
+            "description": "Убейте одного или нескольких ездовых зверей, чтобы получить припасы. /Грузоподъемность будет снижена./"
+        },
+        {
+            "uid": "recEgDbx3L726YWCY",
+            "description": "Забейте одного или нескольких ваших вьючных зверей, чтобы получить припасы. /Вместимость груза значительно снизится/."
+        },
+        {
+            "uid": "rec6XN3RXIp9mANW7",
+            "description": "Ваше происхождение не может быть %name%"
+        },
+        {
+            "uid": "recy5cO2lpLZH2Zk0",
+            "description": "Посмотрите, чем закончится этот бой."
+        },
+        {
+            "uid": "recDFzfmbjbKk4vaA",
+            "description": "Попробуйте убежать от столкновения. Вы можете увеличить свои шансы, предложив противнику то, что он хочет."
+        },
+        {
+            "uid": "recRt8wt11Q6zlR5S",
+            "description": "Пока не доступно"
+        },
+        {
+            "uid": "rec6gukFdxd2Rly0A",
+            "description": "Выдвигайте требования в обмен на то, чтобы отпустить врага. Чем больше вы потребуете, тем меньше вероятность того, что они согласятся без боя."
+        },
+        {
+            "uid": "recf3NFxTuOdMGCVF",
+            "description": "Пока не доступно"
+        },
+        {
+            "uid": "recYHJnx0TtezOW2N",
+            "description": "Двигайтесь дальше, оставив встречу без ссоры."
+        },
+        {
+            "uid": "rec1N6buwUpW1wyc2",
+            "description": "Вы можете выбрать этот вариант, только если вы - Нападающий и встреча не была инициирована Событием."
+        },
+        {
+            "uid": "recEUjUEL5X4gxkeY",
+            "description": "Сразитесь с врагом в кровопролитной битве."
+        },
+        {
+            "uid": "recCCvnCX38dUQeFb",
+            "description": "У вас нет экипажа, который бы боролся за вас."
+        },
+        {
+            "uid": "recZFvqTefM4zLQz5",
+            "description": "Лечить раненых после боя."
+        },
+        {
+            "uid": "recP29vErCXYnG0Hu",
+            "description": "Вы должны выбрать хотя бы одну боевую группу, которая будет сражаться за вас."
+        },
+        {
+            "uid": "recB7ZMLqg7eWcNka",
+            "description": "Преследуйте врага."
+        },
+        {
+            "uid": "recYpIYXnGcEtT1w5",
+            "description": "Вы должны выбрать хотя бы одну боевую группу, которая будет сражаться за вас."
+        },
+        {
+            "uid": "recHLs8WUf8CVvIXt",
+            "description": "Сразитесь с врагом в кровопролитной битве."
+        },
+        {
+            "uid": "recqcMRtOv4rWugOP",
+            "description": "Пока нет."
+        },
+        {
+            "uid": "reced27vGJAwoGmHR",
+            "description": "У вас нет свободного времени для исцеления."
+        },
+        {
+            "uid": "recpC9bJQtjo6UKIe",
+            "description": "Потратить %Tweak.StopForHealMoveCost% ОД, чтобы увеличить шансы на успешное исцеление вашего экипажа. Не требует ОД, если вы уже находитесь в лагере."
+        },
+        {
+            "uid": "recYyasDf3tgNPIUq",
+            "description": "Не хватает находчивости."
+        },
+        {
+            "uid": "reckyYt4sY7wawkdE",
+            "description": "Потратьте %Tweak.HealResourcefulnessCost% находчивости, чтобы увеличить шансы на успешное исцеление вашего экипажа. Не расходует находчивость, если вы уже находитесь в лагере."
+        },
+        {
+            "uid": "recF7W4zy4wmzGJqM",
+            "description": "Вооружение рабов повышает их боевую мощь, но снижает послушание."
+        },
+        {
+            "uid": "recqgdgpxtgRrTdoz",
+            "description": "У вас нет Пассажиров, которые могли бы сражаться."
+        },
+        {
+            "uid": "recGgc6CHnWd6mIQz",
+            "description": "У вас нет рабов, которых можно было бы вооружить."
+        },
+        {
+            "uid": "recZUrbwX0AdPekqo",
+            "description": "Размещение ваших пассажиров в бою повышает вашу боевую мощь, но они могут быть ранены, что приведёт к потере награды после их доставки."
+        },
+        {
+            "uid": "recCG2Kn7VuRtuvFd",
+            "description": "Выберите расу вашего персонажа."
+        },
+        {
+            "uid": "recOyDLwCJXUrrK8K",
+            "description": "Ваше происхождение даёт дополнительные преимущества и навыки."
+        },
+        {
+            "uid": "recE7cFd02pwMnSGE",
+            "description": "Ваше стремление определяет, как вы выиграете игру."
+        },
+        {
+            "uid": "reck8pCGVZavmoXmm",
+            "description": "Ваше призвание определяет дополнительные стартовые навыки, имущество и экипаж."
+        },
+        {
+            "uid": "recaHk5olKAbgeHVi",
+            "description": "Пока недоступно. Появится в будущем выпуске."
+        },
+        {
+            "uid": "recgjIFPpZ418Cmie",
+            "description": "Выберите свой силуэт и подтвердите своё имя."
+        },
+        {
+            "uid": "recmjkHvgvpEp3YOf",
+            "description": "Распределите навыки, используя проницательность"
+        },
+        {
+            "uid": "recDqR4S1uhPGohQy",
+            "description": "Недоступно для выбранной расы."
+        },
+        {
+            "uid": "recrdrffSYzSgIYks",
+            "description": "Мужчина; Женщина; Любой пол"
+        },
+        {
+            "uid": "recvRYuwN4hqsm9es",
+            "description": "Чтобы выбрать это, у вас должно быть установлено дополнение '%dlc%'."
+        },
+        {
+            "uid": "recU2CHz3Dm1Q8baD",
+            "description": "У вас есть несохранённые изменения."
+        },
+        {
+            "uid": "recWu2NlOJFARBSZS",
+            "description": "Предыдущий этап."
+        },
+        {
+            "uid": "recejJcfpDhq4WSbx",
+            "description": "Выберите портрет."
+        },
+        {
+            "uid": "recXdrNVQrziBTmm9",
+            "description": "Потратьте все очки проницательности, чтобы продвинуться вперёд."
+        },
+        {
+            "uid": "recXZYGLTeggHkgJh",
+            "description": "Сброс навыков."
+        },
+        {
+            "uid": "recJamWcBmPg3s85i",
+            "description": "Подтвердите свой выбор."
+        },
+        {
+            "uid": "recklvIbiL2yoLPbf",
+            "description": "Никаких изменений при сбросе."
+        },
+        {
+            "uid": "recndCc2c6iEN8S7n",
+            "description": "VagrusCreateGenerateName"
+        },
+        {
+            "uid": "recxdQwiTKFEVuxKl",
+            "description": "Возвращаться"
+        },
+        {
+            "uid": "recRH6wpemWaXWFMc",
+            "description": "Недостаточно проницательности (%authoritycost%)"
+        },
+        {
+            "uid": "recySzQerisj3cmYi",
+            "description": "Увеличение авторитета (%authoritycost%)"
+        },
+        {
+            "uid": "recCrkFlBGDh38fqL",
+            "description": "Недостаточно проницательности (%resourcefulnesscost%)"
+        },
+        {
+            "uid": "recbdrgCMfhLFnwfQ",
+            "description": "Нет увеличения для возврата"
+        },
+        {
+            "uid": "recUI9Kd9JJswIB6v",
+            "description": "Возврат"
+        },
+        {
+            "uid": "recToL6NK82pBonI3",
+            "description": "Нет увеличения для возврата"
+        },
+        {
+            "uid": "recZEeoq3NrQHZwOp",
+            "description": "Введите имя, прежде чем продолжить."
+        },
+        {
+            "uid": "recM0ElNkcwp4M4tr",
+            "description": "Никаких изменений для сброса"
+        },
+        {
+            "uid": "recw8NU6odoXLWDsP",
+            "description": "Нет изменений для завершения"
+        },
+        {
+            "uid": "recNdpPVxiEm9pdEG",
+            "description": "Неактивный"
+        },
+        {
+            "uid": "recbntB2XWqM9pvCU",
+            "description": "Неактивный"
+        },
+        {
+            "uid": "recKdlfeJLFQOnkpp",
+            "description": "Не удается закрыть. Следуйте руководству, чтобы продолжить работу."
+        },
+        {
+            "uid": "recqm3sW1D7E0xX7J",
+            "description": "Закрыть"
+        },
+        {
+            "uid": "recc4vtD5d64LjL8t",
+            "description": "Пока нет."
+        },
+        {
+            "uid": "recZj7k1SMawzqVHG",
+            "description": "Здесь перечислены активные статусные эффекты."
+        },
+        {
+            "uid": "rec1lOHi5m2VprrJY",
+            "description": "Пока нет."
+        },
+        {
+            "uid": "recTGvBkPF8WV15PH",
+            "description": "Информацию о фракции можно посмотреть здесь."
+        },
+        {
+            "uid": "rec11EBqs4Dva2r8v",
+            "description": "Пока нет."
+        },
+        {
+            "uid": "recao1s0Jq2yum712",
+            "description": "Здесь можно найти краткое описание навыков (от вашего персонажа, спутников, снаряжения, экипировки, статусных эффектов и т.д.)."
+        },
+        {
+            "uid": "recj1KbQlI2s4ZXj9",
+            "description": "Неполноценный"
+        },
+        {
+            "uid": "recGPQ3goPsWJ9i69",
+            "description": "Здесь перечислены навыки вашего персонажа."
+        },
+        {
+            "uid": "recKTr029DIzjSiSk",
+            "description": "**Предлагаемая сделка**\nПродать %qty% %name% %stack% за %money%\n/У вас есть: %actqty% из %guestimate%/"
+        },
+        {
+            "uid": "rec8gbJjHKU4khxIe",
+            "description": "**Предлагаемая сделка**\nКупить %qty% %name% %stack% за %money%\n/У вас есть: %actqty% %cargospace% из %guestimate%/"
+        },
+        {
+            "uid": "recdAgvvMWfx4Jwt8",
+            "description": "Заместитель %name% не может быть назначен."
+        },
+        {
+            "uid": "recqE5EFIVhuf3EJQ",
+            "description": "Должен быть назначен заместитель %name%."
+        },
+        {
+            "uid": "rectIH4uLPC4C4uGb",
+            "description": "Мастерство показывает, насколько силён и опытен спутник.\nКаждый раз, когда повышается уровень мастерства, он получает очки мастерства, которые вы можете потратить на его улучшение.\n/Чтобы открыть 4, 6 и 8 уровни мастерства, вам нужно пройти сюжетную линию спутника до определённого момента. В 'Пилигримах пустошей' мастерство ограничено 3-им уровнем./"
+        },
+        {
+            "uid": "recowSgpU2VKpzao0",
+            "description": "Tooltips.LeaderBackDisabledButton"
+        },
+        {
+            "uid": "recppewvUrbsyW9vr",
+            "description": "Вернуться к сводке фракций"
+        },
+        {
+            "uid": "recwvHm4HuDe4fya7",
+            "description": "Известное место"
+        },
+        {
+            "uid": "recYIEYEctYUzCoKA",
+            "description": "Неизведанное место"
+        },
+        {
+            "uid": "recgUcJqsAEctTtBM",
+            "description": "Неизвестная фракция"
+        },
+        {
+            "uid": "recFimxsnIJ0PMICr",
+            "description": "Используйте поощрение, чтобы поднять моральный дух на %effect%.\n/Затрачивает %rf% находчивости и может выполняться каждые %freq% дней./"
+        },
+        {
+            "uid": "rec0fssBIUuh79A0Z",
+            "description": "Заблокировать настройки"
+        },
+        {
+            "uid": "rec3BPbSfSHNNEBlv",
+            "description": "Заблокировать настройки"
+        },
+        {
+            "uid": "recDapRWWMR9XY0m9",
+            "description": "Переключить использование медицинских припасов\n/Медицинские припасы будут использоваться для лечения, повышая шансы и эффективность исцеления, но есть шанс потерять медикаменты./"
+        },
+        {
+            "uid": "rec3nQ9QrEzpGR22n",
+            "description": "Блокировка настроек"
+        },
+        {
+            "uid": "recKSVJdl32044vXM",
+            "description": "Отключить результаты лечения"
+        },
+        {
+            "uid": "recMOOwJae8wZuB6B",
+            "description": "Отключить результаты охоты и собирательства."
+        },
+        {
+            "uid": "rec2IuzwywbsaiYS5",
+            "description": "Требовать награду"
+        },
+        {
+            "uid": "rec0pGEywpSibyUR0",
+            "description": "Недоступно"
+        },
+        {
+            "uid": "recMjkXKCya6EuDNP",
+            "description": "Эффект восстановления"
+        },
+        {
+            "uid": "receEIs5TY02rYobk",
+            "description": "Отправить своих разведчиков на охоту. Они могут вернуться с припасами, а иногда и с другими товарами.\nРезультаты зависят от броска охоты.\n/Критический успех - припасы умножаются.\nУспех - припасы увеличиваются.\nНеудача - припасы уменьшаются.\nКритическая неудача - можно потерять разведчиков и бодрость./"
+        },
+        {
+            "uid": "recZTu8mnxDpkTiDs",
+            "description": "Отправьте своих рабочих на собирательство. Они могут вернуться с припасами, а иногда и с другими товарами.\nРезультаты зависят от броска на собирательство.\n/Критический успех - припасы умножаются.\nУспех - припасы получены.\nНеудача - припасы уменьшаются.\nКритическая неудача - могут быть потеряны рабочие и моральный дух./"
+        },
+        {
+            "uid": "recVA6evV8KLRcdMA",
+            "description": "Отправьте своих рабов на собирательство. Они могут вернуться с припасами, а иногда и с другими товарами.\nРезультаты зависят от броска на собирательство.\n/Критический успех - припасы умножаются.\nУспех - припасы получены.\nНеудача - припасы уменьшаются.\nКритическая неудача - можно потерять раба и послушание./"
+        },
+        {
+            "uid": "recerUK7wnFcPAkYf",
+            "description": "Отправить своих работников заработать немного монет, работая на случайных работах. Они могут вернуться с дополнительными товарами.\nРезультаты зависят от броска 'Странная работа'\n/Критический успех - приличный заработок\nУспех - посредственный заработок\nНеудача - плохой заработок\nКритическая неудача - можно потерять работника и моральный дух./\n"
+        },
+        {
+            "uid": "recioy7EweeEc0G6q",
+            "description": "Отправить своих рабов заработать немного монет, работая на случайных работах. Они могут вернуться с дополнительными товарами.\nРезультаты зависят от броска 'Странная работа'n/Критический успех - приличный заработок\nУспех - посредственный заработок\nНеудача - плохой заработок\nКритическая неудача - можете потерять раба и послушание/"
+        },
+        {
+            "uid": "recnukriRMfPNFU1W",
+            "description": "Пока нет в наличии."
+        },
+        {
+            "uid": "recJ1UbErOLFfA90g",
+            "description": "Вероятность боя экипажа на этом узле составляет %chance%."
+        },
+        {
+            "uid": "recXsnnlaKM2WbvPC",
+            "description": "Пока нет в наличии."
+        },
+        {
+            "uid": "recuQsqefO2dSBRGV",
+            "description": "Вероятность того, что на этом узле ничего не произойдёт, равна %chance%."
+        },
+        {
+            "uid": "recsKEDnEqHxjF7Fo",
+            "description": "*Добыть припасы*\nДобыча припасов вручную может переопределить настройки автоматической добычи."
+        },
+        {
+            "uid": "rec5xATpCdRhQOTk1",
+            "description": "*Автоматическое приобретение припасов*\nУстановите условия, при которых припасы будут автоматически приобретаться в лагере или быстром лагере. "
+        },
+        {
+            "uid": "rec5csjmYTRgqBLsS",
+            "description": "*Разрешить использование энергии*\nПри выборе этого пункта будет использоваться 1 энергия вместо 2 ОД, когда нет доступных ОД."
+        },
+        {
+            "uid": "recqMDC7puLlLqGmy",
+            "description": "Базовый шанс собирательства на этом узле равен %chance%."
+        },
+        {
+            "uid": "rec12agnYppC5muuO",
+            "description": "Базовый шанс охоты на этом узле составляет %chance%."
+        },
+        {
+            "uid": "recOoHJh0oFSuERW6",
+            "description": "%qty% из %currentmax%\nГруз никогда не может превышать 600 (30 слотов),\nабсолютный максимум."
+        },
+        {
+            "uid": "recuVFU7tl0hgDASl",
+            "description": "Выбросить\n/Выберите и выбросьте груз, чтобы освободить место./"
+        },
+        {
+            "uid": "recTwbu7Uk3zoa6bB",
+            "description": "Уровни навыков, получаемые от /вагруса/ и связанных с ним статусных эффектов."
+        },
+        {
+            "uid": "rec9xqt8PsDzyQHYo",
+            "description": "Уровни навыков, полученные от экипировки и статусных эффектов, применяемых к /комитату/."
+        },
+        {
+            "uid": "recx6arhTgCwvDjp0",
+            "description": "Уровни навыков, полученные от спутников, их снаряжения и связанных с ними статусных эффектов."
+        },
+        {
+            "uid": "rectdtjqRlLYqLJh3",
+            "description": "ЛКМ: Вычесть 1 лирг\nShift+ЛКМ: Вычесть 1 бросс\nCtrl+ЛКМ: Вычесть 10 броссов"
+        },
+        {
+            "uid": "rec3hGkU2qzmbP04y",
+            "description": "ЛКМ: добавить 1 лирг\nShift+ЛКМ: добавить 1 бросс\nCtrl+ЛКМ: добавить 10 бросс"
+        },
+        {
+            "uid": "recbtQ1xXnNgppqdI",
+            "description": "Нет эффекта вычитания монет или монет не осталось."
+        },
+        {
+            "uid": "recQTC8DO4W599gvS",
+            "description": "Нет дальнейшего эффекта от добавления большего количества монет или монет, которые можно было бы предложить."
+        },
+        {
+            "uid": "recy9p4UkvdTDrUaq",
+            "description": "Сбросить ваше предложение."
+        },
+        {
+            "uid": "recdyzLXX9AzZ0bO6",
+            "description": "Создайте предложение, которое могло бы удовлетворить врага, что позволит вам успешно *бежать*.\nЭто может быть не самое оптимальное предложение, учитывая финансовое положение и возможности вашего /комитата/."
+        },
+        {
+            "uid": "recUVQcqZStUnJW4P",
+            "description": "Сброс предложения недоступен."
+        },
+        {
+            "uid": "recpJBF8PZ0EDhCCE",
+            "description": "Сброс навыков и умений спутника"
+        },
+        {
+            "uid": "recUyzZZwG0UKScXo",
+            "description": "Разбить лагерь"
+        },
+        {
+            "uid": "recORTVXh9LcqWft1",
+            "description": "Невозможность разбить лагерь"
+        },
+        {
+            "uid": "recuw3V4WbVOpqGHP",
+            "description": "Больше нет наездников, которых нужно спешить."
+        },
+        {
+            "uid": "rec8GjDEN5kXh133E",
+            "description": "Спешиться - разделяет наездника на воина и ездового зверя."
+        },
+        {
+            "uid": "recRBuxLyStYslX5E",
+            "description": "Недостаточно зверей или бойцов для создания наездников."
+        },
+        {
+            "uid": "recIK4ZF6Kq8KSoTx",
+            "description": "Создать наездника, посадив бойца на ездового зверя."
+        },
+        {
+            "uid": "recNfwxveU9i6wRqP",
+            "description": "/Невозможно переключить цель/"
+        },
+        {
+            "uid": "recIasHj3uNXomGjH",
+            "description": "Сменить цель"
+        },
+        {
+            "uid": "recypjjxEjT4C5XJM",
+            "description": "Недостаточно морального духа и бодрости, чтобы преследовать врага."
+        },
+        {
+            "uid": "rec1xggUPXbISyNqw",
+            "description": "Пусть враг бежит."
+        },
+        {
+            "uid": "recISbuAdGk9Sw6f7",
+            "description": "нет сведений"
+        },
+        {
+            "uid": "recqKddWmh3QapVrB",
+            "description": "Бойцы не могут оседлать зверей из-за засады."
+        },
+        {
+            "uid": "recFGKTDnPWWVgY8K",
+            "description": "Наездники не могут спешиться из-за засады."
+        },
+        {
+            "uid": "recCn09TTz8jAt4K7",
+            "description": "*Заблокировано*\n/Для разблокировки требуется соответствующая навык лидерства./"
+        },
+        {
+            "uid": "recL5mPrEUi6G7ndg",
+            "description": "**Команда**\nИспользуется для разблокировки продвинутых действий.\n%cost% находчивости"
+        },
+        {
+            "uid": "recg0A4g3GsKB3Kc0",
+            "description": "Недостаточно *находчивости*."
+        },
+        {
+            "uid": "receCrbJWnFigiJLX",
+            "description": "Переключить на сделки стопками\n/Пока включено, кнопки + или - добавляют и отнимают полные стопки./"
+        },
+        {
+            "uid": "recr1w4ZFDd9FuT6z",
+            "description": "Показать съестные припасы"
+        },
+        {
+            "uid": "recvemOkTn1RyZjzU",
+            "description": "Отображать исходный материал"
+        },
+        {
+            "uid": "recQCV4XWItJmLs6I",
+            "description": "Показать металлы"
+        },
+        {
+            "uid": "rec5v9bTpt3L1jf52",
+            "description": "Показать ремесленные товары"
+        },
+        {
+            "uid": "rec6cnyKEruFVOP7I",
+            "description": "Переключатель оптовых сделок\n/Если включен, то выбор количества всегда появляется при покупке и продаже./"
+        },
+        {
+            "uid": "reciUJ8GyLugG4y3U",
+            "description": "/Пока нет в наличии./"
+        },
+        {
+            "uid": "recn9reY5f8AC6Wx2",
+            "description": "История цен"
+        },
+        {
+            "uid": "recXxRI3DuYtdCaDU",
+            "description": "Откажитесь от текущих торговых Задач в пользу набора новых, используя ваше влияние на фракции. Нет никакой гарантии, что новые Задачи будут лучше.\n/Затрачивает %rf% находчивости и может выполняться каждые %freq% дней./"
+        },
+        {
+            "uid": "recBzzkV3svi4ClYx",
+            "description": "Не может быть использован в течение (дней): %remainingdays%"
+        },
+        {
+            "uid": "recIOBa9TvfJBicTI",
+            "description": "Откажитесь от текущих заданий наёмников в пользу набора новых, используя своё влияние во фракциях. Нет никакой гарантии, что новые задания будут лучше.\n/Затрачивает %rf% находчивости и может выполняться каждые %freq% дней./"
+        },
+        {
+            "uid": "recOMNZbAlBAhKKzY",
+            "description": "Не может быть использован в течение (дней): %remainingdays%"
+        },
+        {
+            "uid": "recXnfaztYiXWhFJu",
+            "description": "Откажитесь от текущих Задач разведки в пользу набора новых, используя ваше влияние на фракции. Нет никакой гарантии, что новые Задачи будут лучше.\n/Затрачивает %rf% находчивости и может выполняться каждые %freq% дней./"
+        },
+        {
+            "uid": "recxFM99L7jmnN9cz",
+            "description": "Пока нет."
+        },
+        {
+            "uid": "recYkJHXertZklZf6",
+            "description": "Включить/выключить сортировку по фракции, уровню задачи и релевантности репутации.\n/Релевантность репутации показывает задачи, которые можно взять и дать репутацию, затем те, которые можно взять, но не дают репутацию, затем остальные задачи./"
+        },
+        {
+            "uid": "recOWe7DmZPJhLOWY",
+            "description": "Переключите фильтрацию на 'Показать всё', 'Скрыть заявленные задания' и 'Показать только доступные'.\n/'Показать только доступные' скрывает заявленные задания, а также те, для которых у вас недостаточно фракционного влияния./"
+        },
+        {
+            "uid": "recB9Ukae9GPW3MF7",
+            "description": "Недостаточно *находчивости*."
+        },
+        {
+            "uid": "rec1iTTmxZUDwRNfu",
+            "description": "Недостаточно *находчивости*."
+        },
+        {
+            "uid": "recMdeYGMNBLWJuOQ",
+            "description": "Недостаточно *находчивости*."
+        },
+        {
+            "uid": "recpxz0dbm31L77iA",
+            "description": "При выборе этого параметра на вкладках отображается разница в ценах по сравнению с прикреплённым (крайним левым) списком."
+        },
+        {
+            "uid": "rec4XzNkP51k4srn5",
+            "description": "Отсортировать историю цен по расстоянию от закреплённого места (крайнее левое). Расчёт расстояния до поселения идёт от самого близкого к самому дальнему (слева направо)."
+        },
+        {
+            "uid": "recrrQneASBfyFoIt",
+            "description": "Если этот параметр выбран, то можно сортировать историю расчётных цен по расстоянию, дате цены или имени."
+        },
+        {
+            "uid": "recOre8a347iFKNLu",
+            "description": "При выборе этого параметра на вкладках отображаются фактические цены."
+        },
+        {
+            "uid": "recCHgTAMNGATm1yz",
+            "description": "При выборе этой опции вы можете сохранить пять наборов списков истории цен, состоящих из пяти поселений."
+        },
+        {
+            "uid": "recdtWT86b5LTqdWz",
+            "description": "Сортировка истории цен по алфавитному порядку названий населённых пунктов."
+        },
+        {
+            "uid": "recZGIyDqFFYqKvyq",
+            "description": "Сортировка истории цен по свежести информации о ценах, начиная с самой свежей истории цен слева."
+        },
+        {
+            "uid": "reczeLbo3lGESx8jP",
+            "description": "Отметьте населённый пункт на своей карте."
+        },
+        {
+            "uid": "recw5qUNd2d1b1NAv",
+            "description": "Используйте контакты фракции, чтобы получить актуальную информацию о ценах в поселении. Затрачивает репутацию фракции. Может быть использовано, только если у вас есть необходимый статус хотя бы в одной фракции, присутствующей как в вашем текущем местоположении, так и в выбранном поселении."
+        },
+        {
+            "uid": "recTG46gyiHqVZ6Zz",
+            "description": "Может быть использовано только в том случае, если у вас есть необходимая репутация хотя бы с одной фракцией, присутствующей как в вашем текущем местоположении, так и в выбранном поселении."
+        },
+        {
+            "uid": "recpfhTuA4iYZFgps",
+            "description": "Невозможно отметить."
+        },
+        {
+            "uid": "recDGn3MKiLHmqx1J",
+            "description": "Закрепите список истории цен поселения к самому левому столбцу."
+        },
+        {
+            "uid": "recmcb5bW85T9XF95",
+            "description": "Показать цены на полную стопку."
+        },
+        {
+            "uid": "recEr1WqRytfHyXV2",
+            "description": "Показать цены за одну единицу."
+        },
+        {
+            "uid": "recARyPUUnclhAjJh",
+            "description": "**История цен** (%hotkey%)"
+        },
+        {
+            "uid": "recWRhH92FKWqRmSp",
+            "description": "Этот слот заблокирован. Вы можете разблокировать его, назначив заместителя на соответствующую роль."
+        },
+        {
+            "uid": "rec2JnBvbLdFkyZ6s",
+            "description": "Отсутствует в данном населённом пункте"
+        },
+        {
+            "uid": "reckiCrSVO9AXAfUg",
+            "description": "Ездовые и вьючные звери-рептилии"
+        },
+        {
+            "uid": "recmg7jg1CecRHkhJ",
+            "description": "Отсутствует в данном населенном пункте\n"
+        },
+        {
+            "uid": "recLK8Hs2NjgxpQq0",
+            "description": "Млекопитающие ездовые и вьючные звери"
+        },
+        {
+            "uid": "recZGlRz3zGF4XIJh",
+            "description": "Отсутствует в данном населённом пункте\n"
+        },
+        {
+            "uid": "rec2suzO489tzBm6H",
+            "description": "Насекомоподобные ездовые и вьючные звери"
+        },
+        {
+            "uid": "rec7OGsDDsseGx9k3",
+            "description": "Этот спутник тяжело ранен и не может быть размещён."
+        },
+        {
+            "uid": "recNiYOlpBnaYzCUI",
+            "description": "Оседлайте весь свой экипаж, чтобы путешествовать со скоростью ваших скакунов. Это также увеличивает шанс сбежать от боевых столкновений экипажа, но значительно увеличивает расход средств на зверей.\n\n/Они автоматически спешиваются, если размер экипажа превышает количество ваших ездовых зверей или если у вас есть вьючный зверь./\n\n/Вам нужно %crewCompanionPlus1% ездовых зверей. У вас есть %mountQty%.\nУ вас есть %beastQtywName%/"
+        },
+        {
+            "uid": "recbvkeO0I85O8DSv",
+            "description": "Спешите свой экипаж. /За исключением ваших наездников./"
+        },
+        {
+            "uid": "recJ8crMneWvSl1X6",
+            "description": "Вы можете сесть верхом только в том случае, если у вас нет вьючного зверя и у вас достаточно средств передвижения для всех членов вашего экипажа, включая ваших спутников, пассажиров и вас самого./Вам нужно %crewCompanionPlus1% средств передвижения. У вас есть %mountQty%.\nУ вас есть %beastQtywName%/"
+        },
+        {
+            "uid": "rec6sB7IxFOrrV1ZV",
+            "description": "*ЛКМ*: Купить определённое количество"
+        },
+        {
+            "uid": "rec7N6osxG4UOI1uu",
+            "description": "*ЛКМ*: Продать определённое количество"
+        },
+        {
+            "uid": "reckKQ5rrvs8dDolx",
+            "description": "*ЛКМ*: Купить 1 стопку.\n\n/Цены указаны за полную стопку/"
+        },
+        {
+            "uid": "recb5ImdNEkzaC7SY",
+            "description": "*ЛКМ*: Продать 1 стопку\n\n/Цены указаны за полную стопку/"
+        },
+        {
+            "uid": "recOVTTiOqU6QBbo8",
+            "description": "Этот мансио не предоставляет никаких вариантов размещения."
+        },
+        {
+            "uid": "recvdTL9oSqk66jll",
+            "description": "Лидер"
+        },
+        {
+            "uid": "recaofP1z8H9uz3dN",
+            "description": "Элитное подразделение"
+        },
+        {
+            "uid": "recZm40HRNjVOhOkY",
+            "description": "*Заблокирован*\n/Для разблокировки требуется навык лидерства 'Усиление'./"
+        },
+        {
+            "uid": "rec5hHopnHMea4erQ",
+            "description": "Недостаточно %rf% находчивости, чтобы увеличить шанс успеха в испытании на %value%%."
+        },
+        {
+            "uid": "recc6fQTpSI2rf9Tr",
+            "description": "Повысить шанс успеха в Испытании на %value%%.\n/Стоимость: %rf% находчивости./"
+        },
+        {
+            "uid": "reccNCzObUXooSO1D",
+            "description": "Перераспределить %traverseeffect% очки движения маршем на обычные очки движения\n/Затрачивает %rf% находчивости и может быть сделано каждые %freq% дней./\n"
+        },
+        {
+            "uid": "reckzQ6VR5j6TLssn",
+            "description": "Этот спутник является небоевым наёмником и не может быть размещён."
+        },
+        {
+            "uid": "recH675CdJeu6CwDg",
+            "description": "Недостаточно *находчивости* для выполнения этого действия."
+        },
+        {
+            "uid": "recA7tIo49Qr4m3YC",
+            "description": "*Заблокирован*\n/Для разблокировки требуется навык лидерства 'Переход'./"
+        },
+        {
+            "uid": "receeEs1bOaZQ5fKY",
+            "description": "Недостаточно *Очков движения маршем* для выполнения этого действия."
+        },
+        {
+            "uid": "rechy9xyG3W29QbF9",
+            "description": "В данный момент недоступен. Подождите %freq% дней, пока навык 'Переход' снова станет доступным."
+        },
+        {
+            "uid": "rec7xmDkejLIMM37L",
+            "description": "Вы можете отключить навык 'Переход' только до тех пор, пока у вас не будет хотя бы %traverseeffect% очков движения, чтобы превратить их обратно в очки движения маршем."
+        },
+        {
+            "uid": "rec1m4hpFGLB99Ii9",
+            "description": "Ваша история соответствует действительности."
+        },
+        {
+            "uid": "reclRnZtaQc57opJv",
+            "description": "Вы не соответствуете требованиям для данного действия. Должно произойти что-то иное."
+        },
+        {
+            "uid": "recyIeZdQAOzZGycy",
+            "description": "Повысить шанс успеха в испытании на %value%%.\n/Стоимость: %rf% находчивости./"
+        },
+        {
+            "uid": "rec9vNR4wlltvSv3r",
+            "description": "На данный момент недоступно. Подождите %freq% день(я,ей), пока поощрение снова станет доступным."
+        },
+        {
+            "uid": "recIQ6KNixZY0vRBD",
+            "description": "Недостаточно *находчивости* для выполнения этого действия."
+        },
+        {
+            "uid": "recBm2aQN85sxS2p4",
+            "description": "*Заблокирован*\n/Для разблокировки требуется навык лидерства 'Поощрение'./"
+        },
+        {
+            "uid": "rectQpQ7vSSmHqUEw",
+            "description": "(Вдвое меньше против стрелков)"
+        },
+        {
+            "uid": "recGzEiNxldhARZuc",
+            "description": "В настоящее время спешивание недоступно. Вы можете спешиться на следующее утро, накормив своих зверей и экипаж."
+        },
+        {
+            "uid": "rec3gdyDjfP86ILMB",
+            "description": "Лояльность спутника выровнялась. (%name%)"
+        },
+        {
+            "uid": "recNHtMwEzvefSlMd",
+            "description": "Лояльность спутника выровнялась. (%name%)"
+        },
+        {
+            "uid": "recfMtAUgr2xbxDoI",
+            "description": "Достигнут максимальный уровень авторитета (%maxauthority%)."
+        },
+        {
+            "uid": "recFWb7IgH4TW520N",
+            "description": "Предложите своему экипажу тройную зарплату за текущий день (повышает моральный дух)."
+        },
+        {
+            "uid": "recb1TXtCrsMGfqvo",
+            "description": "Предложите своему экипажу четырёхкратную зарплату за текущий день (повышает моральный дух)."
+        },
+        {
+            "uid": "rec4ExnTblEwudoCy",
+            "description": "Нет достижений пока играете в режиме Диссонанса или после окончания лимита времени"
+        },
+        {
+            "uid": "recCX3GXRVcIkIQbB",
+            "description": "Достижения недоступны, пока не будет установлена связь с вашей игровой платформой хотя бы один раз."
+        },
+        {
+            "uid": "recJwnCTyIqKXDFxl",
+            "description": "Отсутствие достижений из-за несоответствия идентификатора пользователя между файлом сохранения и игроком"
+        },
+        {
+            "uid": "recnpfyc6f4swzdQj",
+            "description": "Сохранить в режиме диссонанса"
+        },
+        {
+            "uid": "recln4sQHRIINQkdW",
+            "description": "Сохранение прошло лимит времени игры"
+        },
+        {
+            "uid": "rec0QHsbuY4ElSExT",
+            "description": "Вы не можете торговать рабами в этом поселении."
+        },
+        {
+            "uid": "reclE5u0z0E8MsLVe",
+            "description": "Сначала вы должны переключиться на этот тип зверя."
+        },
+        {
+            "uid": "recjXj39sKl5hSkha",
+            "description": "Стоимость: %insightcost% проницательности и %RFcost% находчивости"
+        },
+        {
+            "uid": "recleh8nJBuo5m9K8",
+            "description": "Тип: ближний бой\n/Это умение может быть использовано только из переднего ряда. Можно направить на передний ряд противника или на незаблокированные цели в заднем ряду противника./"
+        },
+        {
+            "uid": "recJEp6GoI88fpFHl",
+            "description": "Тип: Дальний бой\n/Это умение может быть нацелено на любую %side% позиции./"
+        },
+        {
+            "uid": "recuubCRfl2nGUvrM",
+            "description": "Тип: дальний бой (без ограничений)\n/Это умение может быть нацелено на любую позицию %side%./"
+        },
+        {
+            "uid": "recoBACv1AFeB5t50",
+            "description": "Тип: дальний бой (линия видимости)\n/Это умение может быть направлено на любую позицию противника, но получает штраф к точности, когда цель заблокирована./"
+        },
+        {
+            "uid": "rechrfReEDf3toyWi",
+            "description": "Цель: Сосед или сам\n/Этот навык может быть направлен как на дружественных персонажей рядом с пользователем навыка, так и на самого пользователя./"
+        },
+        {
+            "uid": "recYqVOshQXuRhPdl",
+            "description": "Цель: сосед\n/Это умение может быть направлено на дружественных персонажей, находящихся рядом с пользователем умения./"
+        },
+        {
+            "uid": "recsxSQi0qqhXYyAM",
+            "description": "Цель: на себя\n/Это умение всегда направлено на персонажа, который его использует./"
+        },
+        {
+            "uid": "recPuQ9nVG6d5JrdW",
+            "description": "Цель: любая сторона\n/Цель этого умения может быть с любой стороны поля./"
+        },
+        {
+            "uid": "rec2Nr9GJvXvftiJ3",
+            "description": "Цель: любая сторона (не на себя)\n/Цель этого умения может быть с любой стороны поля, кроме самого пользователя./"
+        },
+        {
+            "uid": "recttcXnVaNuC3IGQ",
+            "description": "Цель: один персонаж\n/Умение должен быть направлено на одного персонажа./\n"
+        },
+        {
+            "uid": "reclqVG8UglPZ76tT",
+            "description": "Цель: два персонажа в одном ряду\n/Одной цели достаточно, чтобы использовать навык./"
+        },
+        {
+            "uid": "recFh042PbmhyYUnD",
+            "description": "Цель: персонажи в квадрате\n/Могут быть атакованы до четырёх целей, стоящих в форме квадрате. Одной цели достаточно, чтобы использовать умение./"
+        },
+        {
+            "uid": "reckVOlCjCjVpGoAT",
+            "description": "Цель: любой ряд\n/Все персонажи в ряду будут целью, но для использования умения достаточно одной цели./"
+        },
+        {
+            "uid": "recyVk0Rr0veMzXyO",
+            "description": "Цель: передний ряд\n/Все персонажи в переднем ряду будут поражены, но для использования умения достаточно одной цели./"
+        },
+        {
+            "uid": "recuDELTAC1Tp9S42",
+            "description": "Цель: задний ряд\n/Все персонажи в заднем ряду будут поражены, но для использования умения достаточно одной цели./"
+        },
+        {
+            "uid": "recJNxu9UnO6dZh2n",
+            "description": "Цель: линия\n/Оба персонажа в линии будут выбраны в качестве цели, но для использования умения достаточно одной цели./\n"
+        },
+        {
+            "uid": "recOXgPDUa8DimBMy",
+            "description": "Цель: одна сторона\n/Все персонажи на одной стороне поля боя становятся мишенью, но для использования умения достаточно одной цели./"
+        },
+        {
+            "uid": "recnQlqpHoqhUc5ZF",
+            "description": "Цель: поле боя\n/Все персонажи на обеих сторонах поля боя становятся мишенью, но для использования умения достаточно одной цели./"
+        },
+        {
+            "uid": "reciluIj2RBVFQkn1",
+            "description": "Цель: Одиночная пустая позиция\n/Умение должно быть направлено на одиночную пустую позицию./"
+        },
+        {
+            "uid": "reccJ2k1xW94pgIbe",
+            "description": "Цель: два пустых места в одном ряду\n/Умение должно быть направлено на две пустые позиции./"
+        },
+        {
+            "uid": "recg634HcnnQmaZCO",
+            "description": "Цель: пустой квадрат\n/Умение должно быть нацелено на четыре соседние пустые позиции./"
+        },
+        {
+            "uid": "rec12jSDIbSapJBWU",
+            "description": "Цель: Любой пустой ряд\n/Умение должно быть направлено на пустой ряд./"
+        },
+        {
+            "uid": "recwGzCUrziKjm0q4",
+            "description": "Цель: пустой передний ряд\n/Умение должно быть направлено на пустой передний ряд./"
+        },
+        {
+            "uid": "recd3LI3QX7YF1RMB",
+            "description": "Цель: пустой задний ряд\n/Умение должно быть направлено на пустой задний ряд./"
+        },
+        {
+            "uid": "recWcjXJg6D48ewiE",
+            "description": "Цель: пустая линия\n/Умение должно быть направлено на пустую линию./"
+        },
+        {
+            "uid": "recQ5lVOzOorq4Eko",
+            "description": "TargetOneSideEmpty"
+        },
+        {
+            "uid": "recLWJSzDA3AAOHV2",
+            "description": "TargetBothSidesEmpty"
+        },
+        {
+            "uid": "recKeY41nDlA3Z1Uv",
+            "description": "Цель: одиночная позиция\n/Умение может быть направлено на одну пустую или занятую позицию./"
+        },
+        {
+            "uid": "recpINcKFyhM5sAPK",
+            "description": "Цель: два места в одном ряду\n/Умение может быть нацелено на два пустых или занятых места в одном ряду./"
+        },
+        {
+            "uid": "recbPnWhhFzTCPa4a",
+            "description": "Цель: позиции в квадрате\n/Можно указать до четырёх персонажей или пустых позиций в квадрате./"
+        },
+        {
+            "uid": "recVGixUagMBas1AF",
+            "description": "TargetRowAnyAny"
+        },
+        {
+            "uid": "recPHoCivJKqUsnl4",
+            "description": "TargetRowFrontAny"
+        },
+        {
+            "uid": "recWDJ0coEiEjhWmi",
+            "description": "TargetRowBackAny"
+        },
+        {
+            "uid": "recLQZAJ7pTIJYYPB",
+            "description": "TargetLineAny"
+        },
+        {
+            "uid": "recHzKgrQ1eHJ39oO",
+            "description": "TargetOneSideAny"
+        },
+        {
+            "uid": "recnYwK6u0MA82v3y",
+            "description": "TargetBothSidesAny"
+        },
+        {
+            "uid": "recNmwJOV4TxfgFQt",
+            "description": "Подавление\n/Это умение игнорирует %value% блока цели./\n"
+        },
+        {
+            "uid": "rec41dIP6zjLi4ou2",
+            "description": "Преодоление\n/Это умение игнорирует весь Блок цели./"
+        },
+        {
+            "uid": "recE5gH6lsNMs2WcY",
+            "description": "Пробивание брони\n/Это умение игнорирует %value% брони цели./"
+        },
+        {
+            "uid": "rechAMTgWvadM8zX1",
+            "description": "Проникающее\n/Это умение игнорирует всю броню цели./"
+        },
+        {
+            "uid": "recH2N1eK9toiJEME",
+            "description": "Точный\n/Это умение игнорирует %value% уклонения цели./."
+        },
+        {
+            "uid": "reck4klNXIXkF6vKV",
+            "description": "Точный\n/Это умение игнорирует все уклонения цели./"
+        },
+        {
+            "uid": "recLhKM40jJBamfSQ",
+            "description": "Бестелесный\n/Это умение игнорирует все Блоки и Уклонение цели./"
+        },
+        {
+            "uid": "reccuDOwUTIvxbnWf",
+            "description": "Сокрушение\n/Это умение игнорирует %value% твёрдости целевого препятствия./"
+        },
+        {
+            "uid": "recKDHtFsaKQaaxjf",
+            "description": "Разрушение\n/Это умение игнорирует %value% твёрдости целевого препятствия./"
+        },
+        {
+            "uid": "recoOOp1v4GiuopkP",
+            "description": "Зачарованный\n/Это умение способно нанести урон врагам с чертой 'Непроницаемость'/\n"
+        },
+        {
+            "uid": "recUmrZyHAkdI7rtU",
+            "description": "Обездвиживание\n/Это умение может привести к тому, что цель становится обездвиженной на %rounds% раунда(ов). Обездвиженные персонажи не могут двигаться и уклоняться./"
+        },
+        {
+            "uid": "rec0xCxHVyvxQ9eZy",
+            "description": "Притягивание\n/Это умение позволяет перетянуть цели из заднего ряда в передний./"
+        },
+        {
+            "uid": "recnHtQMnKtrQOD5H",
+            "description": "Толчок\n/Это умение может толкать цели переднего ряда в задний./"
+        },
+        {
+            "uid": "recA4sKuEZlqwS3sk",
+            "description": "Оглушение\n/Это умение может вызвать оглушение цели. Оглушённые персонажи пропускают свои активации./"
+        },
+        {
+            "uid": "recchhMTblVEwD3n6",
+            "description": "Контроль\n/Это умение может заставить цель действовать под вашим контролем в течение короткого времени./\n"
+        },
+        {
+            "uid": "recKV35R3EzgHVG4g",
+            "description": "Наблюдение\n/Это умение устанавливается, а затем срабатывает, когда враги перемещаются в указанную позицию./ %followup%"
+        },
+        {
+            "uid": "recTruE2jRMly3mGQ",
+            "description": "Ограниченный\n/Это умение может быть использовано только при выполнении следующего требования: %restriction%./\n"
+        },
+        {
+            "uid": "recE22kKL47ZPgjpl",
+            "description": "Последующая новая цель\n/У этого умения есть еще одна фаза против другой цели:/ %followup%"
+        },
+        {
+            "uid": "recY6vsJy89viUkZm",
+            "description": "Последующий\n/Это умение имеет ещё одну фазу против той же цели:/\n%followup%"
+        },
+        {
+            "uid": "recVvYUEkRMM85eAc",
+            "description": "Повторение\n/Это умение повторяется против одной и той же цели, пока не промахнётся. Последующие повторы влекут за собой штраф к точности./\n\n%followup%"
+        },
+        {
+            "uid": "recaGTSWbaPgyAGR5",
+            "description": "Очищение\n/Это умение отменяет эффекты %type% на цели./"
+        },
+        {
+            "uid": "recpSQXEREftt9Mtm",
+            "description": "Провокация\n/Это умение заставляет цель атаковать пользователя умения./"
+        },
+        {
+            "uid": "rec4ELHrbT8lHc8Am",
+            "description": "Призыв\n/Это умение порождает %summon% в целевой пустой позиции./"
+        },
+        {
+            "uid": "recuOWxPjzM76BWwm",
+            "description": "Усиление\n/Это умение накладывает на цель продолжительный положительный эффект./"
+        },
+        {
+            "uid": "recOikPPoVVec8VcS",
+            "description": "Строка"
+        },
+        {
+            "uid": "recMZCTje6U8GExIN",
+            "description": "Линия"
+        },
+        {
+            "uid": "recJyyUfRtaC0T9fS",
+            "description": "Область"
+        },
+        {
+            "uid": "reccf5mgU4teEd1qs",
+            "description": "Пустая позиция"
+        },
+        {
+            "uid": "recjjUhDApilpsRsC",
+            "description": "Ослабление\n/Это умение может наложить на цель постоянный негативный эффект./"
+        },
+        {
+            "uid": "recBFazLRWQqFlVaC",
+            "description": "Постепенный урон\n/Это умение может накладывать на цель эффект, который наносит ей урон в начале каждого раунда./"
+        },
+        {
+            "uid": "recTulpPPtot2rbyG",
+            "description": "Настройки игры\n/Настройки, связанные с игровым процессом, можно найти здесь./"
+        },
+        {
+            "uid": "recRF2ElFPUzuyOnP",
+            "description": "Регулирует размер текстов Событий и записей Кодекса. Изменения появятся при следующей загрузке События или Кодекса."
+        },
+        {
+            "uid": "recBZ0mseTyYGVqQj",
+            "description": "Регулирует время появления всплывающей подсказки после наведения курсора на что-либо."
+        },
+        {
+            "uid": "rec3HS1zx0GYlRtsu",
+            "description": "Определяет скорость сглаживания при прокрутке в событии."
+        },
+        {
+            "uid": "recBgon75dokGwVgH",
+            "description": "Определяет скорость прокрутки в Событиях."
+        },
+        {
+            "uid": "recTg6I9KOv2DxHMe",
+            "description": "Переключение между активацией одного или всех вариантов выбора при предварительном просмотре эффектов навыка лидерства 'Испытание улучшений' в событиях."
+        },
+        {
+            "uid": "rec7oVVYdZeQOc1eC",
+            "description": "Включение и выключение стрелок прокрутки события на странице события."
+        },
+        {
+            "uid": "recmb7iduamiDgG1J",
+            "description": "Регулирует скорость следования камеры за вашим /комитатом/ на карте кампании."
+        },
+        {
+            "uid": "rec9TcPBZ08l695iA",
+            "description": "Если включено, Главное меню открывается при нажатии правой кнопки мыши."
+        },
+        {
+            "uid": "recJAKdqJvs1XrPyF",
+            "description": "Включение и выключение пользовательского курсора."
+        },
+        {
+            "uid": "recfZ79EkengMTCxh",
+            "description": "Включает и выключает автоматический марш.\nВключение этой настройки приведёт к тому, что ваш комитат автоматически израсходует очки марша, когда вы выберете узел за пределами диапазона, в который могут довести ваши очки перемещения.\n\n/Эта настройка недоступна на ранних этапах обучения./"
+        },
+        {
+            "uid": "recPDZ7QRJsHLcLvc",
+            "description": "Включает и выключает опцию 'Быстрый лагерь'.\nЭта настройка добавит в радиальное меню опцию 'Быстрый лагерь', с помощью которой вы сможете обойти интерфейс лагеря, закончив день сразу лагерем, когда вы достигнете выбранного места назначения.\n\n/Эта настройка недоступна в начале обучения./"
+        },
+        {
+            "uid": "rech7ZqB2vB4gfRPs",
+            "description": "При включении помечаются узлы, которые вы уже посетили в мире."
+        },
+        {
+            "uid": "rec7vdGELyuofTYTj",
+            "description": "Включает и выключает обучение в кампании с открытым миром."
+        },
+        {
+            "uid": "recZlytST3UjeqCzv",
+            "description": "Настройки видео\n/Настройки, связанные с отображением и графикой./"
+        },
+        {
+            "uid": "recuqyr85Ts8YIzdN",
+            "description": "Устанавливает разрешение экрана."
+        },
+        {
+            "uid": "reccIvKk83hsM1tc5",
+            "description": "Устанавливает режим отображения."
+        },
+        {
+            "uid": "rec0je7WirdPIfT0H",
+            "description": "Включение и выключение вертикальной синхронизации. Включение этого параметра приводит к уменьшению разрывов экрана, но может повлиять на производительность."
+        },
+        {
+            "uid": "recV41pxCGI4T4O0q",
+            "description": "Настраивает детализацию графических эффектов. Сюда входят анимации карты кампании, отличительные знаки и эффекты частиц. Более высокие настройки могут повлиять на производительность."
+        },
+        {
+            "uid": "recJFQfsY8jTvkPjA",
+            "description": "Показывает номер версии игры при включении."
+        },
+        {
+            "uid": "recyFCYzSkTvNcL1i",
+            "description": "Настройки аудио\n/Настройки, связанные с музыкой и звуковыми эффектами./"
+        },
+        {
+            "uid": "rec9t9zpS5YcSyEWU",
+            "description": "Регулирует уровень основной громкости."
+        },
+        {
+            "uid": "recnrPhotKBJ599TK",
+            "description": "Регулирует громкость фоновой и боевой музыки."
+        },
+        {
+            "uid": "rechf5t8txGd4Evkh",
+            "description": "Регулировка громкости звуковых эффектов."
+        },
+        {
+            "uid": "recPhEsZgtS6z4BQy",
+            "description": "Регулирует громкость окружающих эффектов."
+        },
+        {
+            "uid": "recG8qjhDOGqNTIjU",
+            "description": "Регулирует громкость повествования."
+        },
+        {
+            "uid": "recDHdpqUC87TFVcP",
+            "description": "Устанавливает длительность (в минутах) периодов тишины между повторяющимися дорожками фоновой музыки."
+        },
+        {
+            "uid": "recvzI2QGt10KfJCh",
+            "description": "Настройки боя\n/Настройки, относящиеся к бою спутников./"
+        },
+        {
+            "uid": "reczM4f9YaKvPuKuY",
+            "description": "Включает и выключает анимацию бездействия в режиме битвы спутников. Включение этого параметра может повлиять на производительность."
+        },
+        {
+            "uid": "rectw8O9yXrSYbIXO",
+            "description": "Включает мгновенную анимацию боя экипажа."
+        },
+        {
+            "uid": "recVbYwVJeEXGhjtg",
+            "description": "При включении отображает номер текущего раунда в битве спутников."
+        },
+        {
+            "uid": "recN3U8iI4q0Zozm8",
+            "description": "Регулирует насколько быстро персонажи сталкиваются при действии умений."
+        },
+        {
+            "uid": "recTE1OBHCiWyDhkn",
+            "description": "Если эта функция включена, то персонажи автоматически нацеливаются на первого доступного врага после выбора умения, и вам нужно только подтвердить или циклически переключать цели."
+        },
+        {
+            "uid": "rec12YgWd4p1yl05G",
+            "description": "Если эта функция включена, цели выбираются сразу же при наведении на них курсора."
+        },
+        {
+            "uid": "recbu98IDFUo7YU1d",
+            "description": "Использование умений требует повторного щелчка для подтверждения действия."
+        },
+        {
+            "uid": "recQvvFchwQxOk7Xg",
+            "description": "Когда включено, рамка вокруг позиции видна только при прицеливании в битве спутников, а не постоянно."
+        },
+        {
+            "uid": "recT7JsYg3dQ5Cf5S",
+            "description": "Планируются машинные переводы, рецензируемые сообществом, но мы по-прежнему ищем языковых координаторов и добровольцев почти для всех языков, особенно для: CN, DE, ES, FR, HU, PL и PT-BR. \nПрисоединяйтесь к нашему серверу Discord и принимайте участие, чтобы помочь сделать Вагрус доступным для игроков на вашем родном языке."
+        }
+    ]
+}

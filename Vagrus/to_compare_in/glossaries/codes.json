@@ -1,0 +1,582 @@
+{
+    "C:\\Users\\Barma\\Desktop\\localis\\vargus\\to_compare_in\\glossaries\\codes.json": {
+        "glossaries": {
+            "0": {
+                "uid": "11d3XdmgwS83qpgN",
+                "description": 0
+            },
+            "1": {
+                "uid": "2En3XdmTxS83qpgE",
+                "description": 1
+            },
+            "2": {
+                "uid": "2Y93XZEofS83qrFd",
+                "description": 2
+            },
+            "3": {
+                "uid": "4cS3XdmL2S83qpg4",
+                "description": 3
+            },
+            "4": {
+                "uid": "4UE3XcKBqS83qiJZ",
+                "description": 4
+            },
+            "5": {
+                "uid": "5d83XZF3aRHbu7BP",
+                "description": 5
+            },
+            "6": {
+                "uid": "5dx3XcKKRS83qiJk",
+                "description": 6
+            },
+            "7": {
+                "uid": "5Ea3XdminS83qpgP",
+                "description": 7
+            },
+            "8": {
+                "uid": "6KR3XZEnQRHbu7BL",
+                "description": 8
+            },
+            "9": {
+                "uid": "74H3XcKbuS83qiK1",
+                "description": 9
+            },
+            "10": {
+                "uid": "7563XcLsaS83qiKH",
+                "description": 10
+            },
+            "11": {
+                "uid": "7D83XSycrRHbuYjZ",
+                "description": 11
+            },
+            "12": {
+                "uid": "7Du3XZFKPS83qrFr",
+                "description": 12
+            },
+            "13": {
+                "uid": "8y23XcLuHS83qiKJ",
+                "description": 13
+            },
+            "14": {
+                "uid": "8YS3XdmaWS83qpgG",
+                "description": 14
+            },
+            "15": {
+                "uid": "AbN3XZEvoS83qrFe",
+                "description": 15
+            },
+            "16": {
+                "uid": "AFc3XSyMPRHbuYjU",
+                "description": 16
+            },
+            "17": {
+                "uid": "an13XZF46S83qrFh",
+                "description": 17
+            },
+            "18": {
+                "uid": "BfR3XSyZgRHbuYjX",
+                "description": 18
+            },
+            "19": {
+                "uid": "BgL3XZFJSS83qrFq",
+                "description": 19
+            },
+            "20": {
+                "uid": "bJf3XcKGzS83qiJf",
+                "description": 20
+            },
+            "21": {
+                "uid": "BJk3XcLqnS83qiKF",
+                "description": 21
+            },
+            "22": {
+                "uid": "Bvv3XZEzBS83qrFg",
+                "description": 22
+            },
+            "23": {
+                "uid": "BzY3XSyP2RHbuYjV",
+                "description": 23
+            },
+            "24": {
+                "uid": "Cjt3XRaAFCGM6Gmg",
+                "description": 24
+            },
+            "25": {
+                "uid": "cwm3XdjqVS83q3Sn",
+                "description": 25
+            },
+            "26": {
+                "uid": "cxx3XdmndS83qpgR",
+                "description": 26
+            },
+            "27": {
+                "uid": "db63XZFCXS83qrFk",
+                "description": 27
+            },
+            "28": {
+                "uid": "dEe3XSxr1RHbuYjR",
+                "description": 28
+            },
+            "29": {
+                "uid": "DHn3XZFG9S83qrFo",
+                "description": 29
+            },
+            "30": {
+                "uid": "DQs3XdmSuS83qpgC",
+                "description": 30
+            },
+            "31": {
+                "uid": "Dro3XZFFDS83qrFn",
+                "description": 31
+            },
+            "32": {
+                "uid": "Dsn3XZF78RHbu7BQ",
+                "description": 32
+            },
+            "33": {
+                "uid": "dZt3XcKJyS83qiJj",
+                "description": 33
+            },
+            "34": {
+                "uid": "EE83XcLPRS83qiK9",
+                "description": 34
+            },
+            "35": {
+                "uid": "EiS3XcKFiS83qiJd",
+                "description": 35
+            },
+            "36": {
+                "uid": "emG3XcMQES83qiKM",
+                "description": 36
+            },
+            "37": {
+                "uid": "Eqo3XcLNFS83qiK8",
+                "description": 37
+            },
+            "38": {
+                "uid": "eRB3XdjrgS83q3So",
+                "description": 38
+            },
+            "39": {
+                "uid": "Esf3XdjhpS83q3Sh",
+                "description": 39
+            },
+            "40": {
+                "uid": "fDn3XSxr4S83qufB",
+                "description": 40
+            },
+            "41": {
+                "uid": "fJm3XdjpTS83q3Sk",
+                "description": 41
+            },
+            "42": {
+                "uid": "FLe3XZEvrRHbu7BN",
+                "description": 42
+            },
+            "43": {
+                "uid": "fms3XcKJ4S83qiJh",
+                "description": 43
+            },
+            "44": {
+                "uid": "fnj3XcLVTS83qiKB",
+                "description": 44
+            },
+            "45": {
+                "uid": "FSw3XcKdYS83qiK3",
+                "description": 45
+            },
+            "46": {
+                "uid": "GEL3XSy2DS83qufC",
+                "description": 46
+            },
+            "47": {
+                "uid": "gkE3XcJzJS83qiJT",
+                "description": 47
+            },
+            "48": {
+                "uid": "Gni3XZFD5S83qrFm",
+                "description": 48
+            },
+            "49": {
+                "uid": "gqs3XcKHVS83qiJg",
+                "description": 49
+            },
+            "50": {
+                "uid": "GtS3XZFGrS83qrFp",
+                "description": 50
+            },
+            "51": {
+                "uid": "GWp3XcKcPS83qiK2",
+                "description": 51
+            },
+            "52": {
+                "uid": "H8E3XZF5wS83qrFi",
+                "description": 52
+            },
+            "53": {
+                "uid": "h9k3XdmZfS83qpgF",
+                "description": 53
+            },
+            "54": {
+                "uid": "HaG3XcKELS83qiJb",
+                "description": 54
+            },
+            "55": {
+                "uid": "hEo3XdjpxS83q3Sm",
+                "description": 55
+            },
+            "56": {
+                "uid": "hhv3XcJjPS83qiJR",
+                "description": 56
+            },
+            "57": {
+                "uid": "Hiz3XZEdpRHbu7BK",
+                "description": 57
+            },
+            "58": {
+                "uid": "HkJ3XcLStS83qiKA",
+                "description": 58
+            },
+            "59": {
+                "uid": "HS93XZEa5RHbu7BJ",
+                "description": 59
+            },
+            "60": {
+                "uid": "hTz3XcKM7S83qiJn",
+                "description": 60
+            },
+            "61": {
+                "uid": "huF3XcMQgS83qiKN",
+                "description": 61
+            },
+            "62": {
+                "uid": "HV63Xdjn6S83q3Si",
+                "description": 62
+            },
+            "63": {
+                "uid": "i8q3XcLqDS83qiKE",
+                "description": 63
+            },
+            "64": {
+                "uid": "iJD3XSyfvRHbuYjb",
+                "description": 64
+            },
+            "65": {
+                "uid": "j4e3XZFAgS83qrFj",
+                "description": 65
+            },
+            "66": {
+                "uid": "JbR3XZEPCRHbu7BH",
+                "description": 66
+            },
+            "67": {
+                "uid": "jgo3XcKWvS83qiJs",
+                "description": 67
+            },
+            "68": {
+                "uid": "JmW3XdjvSS83q3Sp",
+                "description": 68
+            },
+            "69": {
+                "uid": "JNx3XcKGHS83qiJe",
+                "description": 69
+            },
+            "70": {
+                "uid": "JXd3XdmEfS83qpg1",
+                "description": 70
+            },
+            "71": {
+                "uid": "ki83XdmNTS83qpg6",
+                "description": 71
+            },
+            "72": {
+                "uid": "KKV3XcKa8S83qiJx",
+                "description": 72
+            },
+            "73": {
+                "uid": "kMN3XcKN6S83qiJp",
+                "description": 73
+            },
+            "74": {
+                "uid": "KNb3XZFPhS83qrFs",
+                "description": 74
+            },
+            "75": {
+                "uid": "kpJ3XcKDpS83qiJa",
+                "description": 75
+            },
+            "76": {
+                "uid": "KS23XcK5eS83qiJU",
+                "description": 76
+            },
+            "77": {
+                "uid": "kyx3XdmQaS83qpg9",
+                "description": 77
+            },
+            "78": {
+                "uid": "Lj93XcJgjS83qiJQ",
+                "description": 78
+            },
+            "79": {
+                "uid": "LQd3XSy1wRHbuYjS",
+                "description": 79
+            },
+            "80": {
+                "uid": "Mb83XcK8WS83qiJW",
+                "description": 80
+            },
+            "81": {
+                "uid": "mDs3XcKexS83qiK5",
+                "description": 81
+            },
+            "82": {
+                "uid": "mhC3XdmJNS83qpg2",
+                "description": 82
+            },
+            "83": {
+                "uid": "mQj3XZFBBRHbu7BR",
+                "description": 83
+            },
+            "84": {
+                "uid": "MqQ3XSyazRHbuYjY",
+                "description": 84
+            },
+            "85": {
+                "uid": "n163Xdjo4S83q3Sj",
+                "description": 85
+            },
+            "86": {
+                "uid": "NbJ3XSyXkRHbuYjW",
+                "description": 86
+            },
+            "87": {
+                "uid": "NEG3XdmbCS83qpgH",
+                "description": 87
+            },
+            "88": {
+                "uid": "nfg3XcKY8S83qiJu",
+                "description": 88
+            },
+            "89": {
+                "uid": "nju3XcKYcS83qiJv",
+                "description": 89
+            },
+            "90": {
+                "uid": "nmd3XdmBiS83qpfw",
+                "description": 90
+            },
+            "91": {
+                "uid": "nPr3XZEphRHbu7BM",
+                "description": 91
+            },
+            "92": {
+                "uid": "nRa3XcJrmS83qiJS",
+                "description": 92
+            },
+            "93": {
+                "uid": "nRS3XdmcBS83qpgJ",
+                "description": 93
+            },
+            "94": {
+                "uid": "NvZ3XdmDVS83qpfz",
+                "description": 94
+            },
+            "95": {
+                "uid": "nW33XcKbLS83qiJz",
+                "description": 95
+            },
+            "96": {
+                "uid": "Pdy3XcKXfS83qiJt",
+                "description": 96
+            },
+            "97": {
+                "uid": "PHm3XcKarS83qiJy",
+                "description": 97
+            },
+            "98": {
+                "uid": "pqk3XcKF7S83qiJc",
+                "description": 98
+            },
+            "99": {
+                "uid": "qqm3XcKJVS83qiJi",
+                "description": 99
+            },
+            "100": {
+                "uid": "QtV3XdmPnS83qpg8",
+                "description": 100
+            },
+            "101": {
+                "uid": "qWe3XcK9aS83qiJX",
+                "description": 101
+            },
+            "102": {
+                "uid": "qWf3XSyjsRHbuYjc",
+                "description": 102
+            },
+            "103": {
+                "uid": "rEb3XcK77S83qiJV",
+                "description": 103
+            },
+            "104": {
+                "uid": "rSD3XdmRHS83qpgA",
+                "description": 104
+            },
+            "105": {
+                "uid": "sF93XRa77CGM6Gmf",
+                "description": 105
+            },
+            "106": {
+                "uid": "Sg63XdmSCS83qpgB",
+                "description": 106
+            },
+            "107": {
+                "uid": "sHs3XcLuwS83qiKK",
+                "description": 107
+            },
+            "108": {
+                "uid": "SYF3XSy8SRHbuYjT",
+                "description": 108
+            },
+            "109": {
+                "uid": "tyD3XSyQLS83qufE",
+                "description": 109
+            },
+            "110": {
+                "uid": "U3R3XdmNyS83qpg7",
+                "description": 110
+            },
+            "111": {
+                "uid": "U5U3XcLrsS83qiKG",
+                "description": 111
+            },
+            "112": {
+                "uid": "UCi3XcMEdS83qiKL",
+                "description": 112
+            },
+            "113": {
+                "uid": "ud33XZFQxS83qrFt",
+                "description": 113
+            },
+            "114": {
+                "uid": "uLo3XdmCtS83qpfy",
+                "description": 114
+            },
+            "115": {
+                "uid": "UmY3Xdmg1S83qpgM",
+                "description": 115
+            },
+            "116": {
+                "uid": "UX83XcKZaS83qiJw",
+                "description": 116
+            },
+            "117": {
+                "uid": "V8r3XdmdqS83qpgL",
+                "description": 117
+            },
+            "118": {
+                "uid": "vfX3XSystRHbuYjf",
+                "description": 118
+            },
+            "119": {
+                "uid": "Vjt3XSyw9RHbuYjh",
+                "description": 119
+            },
+            "120": {
+                "uid": "vUK3XcKANS83qiJY",
+                "description": 120
+            },
+            "121": {
+                "uid": "VwD3XdmCDS83qpfx",
+                "description": 121
+            },
+            "122": {
+                "uid": "vXu3XcKKvS83qiJm",
+                "description": 122
+            },
+            "123": {
+                "uid": "W1D3XdmK6S83qpg3",
+                "description": 123
+            },
+            "124": {
+                "uid": "wCh3XcKWBS83qiJr",
+                "description": 124
+            },
+            "125": {
+                "uid": "wCu3XcKeTS83qiK4",
+                "description": 125
+            },
+            "126": {
+                "uid": "wS43XZExiS83qrFf",
+                "description": 126
+            },
+            "127": {
+                "uid": "Wts3XSyptRHbuYjd",
+                "description": 127
+            },
+            "128": {
+                "uid": "WZ43XcLKVS83qiK7",
+                "description": 128
+            },
+            "129": {
+                "uid": "xtd3XSyP5S83qufD",
+                "description": 129
+            },
+            "130": {
+                "uid": "XuJ3XcKNnS83qiJq",
+                "description": 130
+            },
+            "131": {
+                "uid": "XWG3XdmczS83qpgK",
+                "description": 131
+            },
+            "132": {
+                "uid": "XwK3XcKMbS83qiJo",
+                "description": 132
+            },
+            "133": {
+                "uid": "XYN3XdmpPS83qpgS",
+                "description": 133
+            },
+            "134": {
+                "uid": "YNT3XdmkHS83qpgQ",
+                "description": 134
+            },
+            "135": {
+                "uid": "ypm3XcMTnS83qiKP",
+                "description": 135
+            },
+            "136": {
+                "uid": "YpN3XcKfPS83qiK6",
+                "description": 136
+            },
+            "137": {
+                "uid": "z5d3XcLWNS83qiKC",
+                "description": 137
+            },
+            "138": {
+                "uid": "ZcY3XSye6RHbuYja",
+                "description": 138
+            },
+            "139": {
+                "uid": "zhX3XcLnRS83qiKD",
+                "description": 139
+            },
+            "140": {
+                "uid": "zrx3XdmTLS83qpgD",
+                "description": 140
+            },
+            "141": {
+                "uid": "ZtC3XSyrWRHbuYje",
+                "description": 141
+            },
+            "142": {
+                "uid": "ZyH3XdmLvS83qpg5",
+                "description": 142
+            },
+            "143": {
+                "uid": "Zym3XSyuMRHbuYjg",
+                "description": 143
+            }
+        }
+    }
+}

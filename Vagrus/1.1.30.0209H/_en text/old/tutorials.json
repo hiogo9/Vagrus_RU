@@ -1,0 +1,604 @@
+{
+    "tutorials": [
+        {
+            "uid": "rec1UPq9TIfbqQkZI",
+            "description": "The Scouting icon is now active on the node's radial menu.",
+            "actionDescription": "Click on the node you currently occupy  #1 and then on the eye icon. #2"
+        },
+        {
+            "uid": "rec1YXfKxZ50ATg5p",
+            "description": "You need to select your *Goal* for the fight. Your options are often limited based on the type of enemy you are fighting, and the circumstances you have met them under. When you are ambushed, your options are severely diminished.\n\nThe available targets or loot are listed right below the Goal options.\n\nYou can change your Goal after each round of the fight, as well as attempt to Flee, Retreat, or Disengage - risking a chase in these cases.",
+            "actionDescription": "Select a Goal for this fight. (#1)"
+        },
+        {
+            "uid": "rec1ZLH7bIvq5owxb",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "rec1hu6dyeMogwSwF",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "rec1jkgvOtQPPyPqX",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "rec2exozU2EqVGuFE",
+            "description": "Morwen’s Skills include options to push front row enemies back (Savage Kick) and to pull back row enemies to the front (Whiplash). Some Skills are more complex, for example, including a Move and an attack (Strafe). These type of Skills can be used to great effect in controlling your enemies.",
+            "actionDescription": "Use Morwen’s Savage Kick (Skill 3) to send the Jhakra enemy to the back row, denying it an attack (Select Skill 3 #1, select available target position, click again to confirm). #2"
+        },
+        {
+            "uid": "rec3RRSepAMlHPPce",
+            "description": "*Vagrus* is a difficult game in a variety of ways. One of the most common mistakes you can make is to *expand too fast* initially, since nothing warns you of the more hidden economical consequences. Instead, focus on *Faction Trade Tasks* - these will take you to new locations and by working on them, you accumulate much needed money reserves. Many *Mercenary Tasks* are extremely difficult for a new /comitatus/.\n\nFighting outlaws or creatures is not an income source in general. Try to avoid conflict whenever you can unless on an active Mercenary Task or quest to combat them.\n\nYou are likely to run into a few death spirals before getting the hang of it, so do not be discouraged if it happens. If you feel that the learning curve is too steep, though, we recommend starting a new game in *Dissonance Mode* and once you are confident there, consider returning to the *Wasteland Mode*.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "rec3kcZrtJWZxDc87",
+            "description": "Combat is cruel and in general you can not heal during it. Your defenses are your main way to mitigate damage.\n\n*Evade* allows you to completely avoid an attack but you will be moved to an adjacent unoccupied position after a successful Evade. That also means that they may move away from a position that protects another Companion.\n\nA successful *Block* provides extra ARM against the attack, mitigating more damage. However, you can still suffer damage while blocking and also suffer adverse effects from an attack.\n\nEach Companion has different Evade and Block chance but because certain Skills are better against one or the other, you often have to change these by clicking the *Defense Mode* icon (shield or dodging figure) at the character portrait. You can only do this for the Companion whose turn it is.",
+            "actionDescription": "Continue the combat. Hold Space."
+        },
+        {
+            "uid": "rec46oAPVkLG13XoB",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "rec4kzHkvX5exFiCF",
+            "description": "Victory or Defeat are determined based on a number of factors. Success and Critical Success in rounds earns one and two victory points, respectively. Additionally, Attackers gather points for succeeding in fulfilling their goal. Defenders get points both for preventing Attackers and for keeping their crew alive.\n\nThe side with more victory points in the end wins, while in case of a tie, the side with the more wins during the three rounds is considered victorious.\n\nThe post-victory sequence involves looting. You can receive Items, Goods, or even Beast and Mounts depending on the enemy you defeated. As with all opportunities of revenue in the game, relying on this sort of loot alone will not keep you afloat.",
+            "actionDescription": "Click on Move On. (#1)"
+        },
+        {
+            "uid": "rec4x3Vhx9yMyEDZZ",
+            "description": "The *News* tab lists all the settlements you currently have news from. Theses can be acquired either through stories or by using the Exchange News option in /mansios/. News entries are worth some money each time you use the Exchange News in /mansios/, providing a constant side-revenue to help out with your journeys.\n\nNews entries degrade over time, becoming less fresh, which means less valuable in general. You can refresh them to their maximum by using Exchange News in settlements (and sometimes through stories).",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "rec54oVGgEsjQMDnM",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "rec56Wa8avUUjghX3",
+            "description": "When you set conditions to stop for combat encounters, you choose the conditions relating to Crew Combat power for which you stop, dependent on the two buttons, Avoid Foes and Find Foes.\n\nWhen you highlight Avoid Foes (red slider) you set the power threshold for which you will stop when your current trajectory includes a foe that meets or is above that threshold, allowing you to divert your course. With auto-scouting critical success, however, you may simply pass through that node. \n\nIn the case of Find Foes (green slider), you stop when you scout opponents on any adjacent node if they meet or are below the threshold you set, allowing you to divert your course toward your foe if you wish. If they are on your current trajectory you will not stop, as you intend to engage them. When you achieve critical success with scouting and are using Find Foes, you automatically ambush your opponent, giving you an advantage during the first round of combat.\n\nFor more information with examples, consult Auto-Scouting in the glossary.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "rec5BVOpVlnAqXAMI",
+            "description": "You can now see the *results* of your scouting. The success of your scouting in each direction is indicated by the chevron icons next to numbered emblems. These emblems are also shown on the campaign map, where they remain and can be checked for three in-game days. Mousing over them brings up the same percentage-based information that is normally shown in a list format on the scouting UI.\n\nFor each node where scouting was successful, percentages appear with icons related to the certain encounter types. The *Scroll* icon indicates an Event (either a priority or a chance Event), the *Axe* icon indicates a combat encounter, the *Crossed-out Circle* icon indicates the chance of nothing happening, and the arrow and berries icons representing hunting and foraging base success chances on that node, respectively.\n\nIn the case of a *Critical Success*, you get more precise information. The *blue Scroll* icon indicates an available priority Event (story-related or fixed local Event), while the *golden Scroll* icon indicates a random Event (general or specific to the region).\n\n*Failed* scouting provides no information on Events, while a *Critical Failure* also incurs losses to your Scouts. Results are still shown for failed results when resourcefulness was used with manual scouting to guarantee success in that category.",
+            "actionDescription": "Close the Scouting results by clicking 'x' or the 'Move on' button."
+        },
+        {
+            "uid": "rec5GxecdJYjdaa0y",
+            "description": "Some skills can *target friendly* units to support, protect, or even heal them. In this fight, a lot of Javek’s Skills can not be used because undead enemies are immune to mind-affecting effects. Javek is far from useless, however, as you can use his Premonition Skill to keep his allies buffed with additional INI, ACC, Evade, and Block. Buffs do not stack but are refreshed when recast.",
+            "actionDescription": "Use Premonition (Skill 4) to buff an ally."
+        },
+        {
+            "uid": "rec6cVkr6XsrqbYxo",
+            "description": "The Crew Management UI is now active.",
+            "actionDescription": "Click on the sheet in the top left corner to open it. #1"
+        },
+        {
+            "uid": "rec7SAqv6pW6c9osy",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "rec7tQky0EiKwPXUl",
+            "description": "‘I only learned later what happened afterwards, as I had… left the night before. Call me a coward, good master, but I felt the inevitable coming and I did not want to challenge fate. What I gleaned from the hazy accounts of the very few survivors much later kept convincing me that it was the right choice.’",
+            "actionDescription": ""
+        },
+        {
+            "uid": "rec7uFS5auQdNv8ON",
+            "description": "‘There they were, with a full cargo hold and filled with newfound hope. Yet, the road ahead still promised hardships and peril. I traveled with them southwards, expecting to reach more habitable lands beyond the Molten Tongue’s river of lava.’",
+            "actionDescription": ""
+        },
+        {
+            "uid": "rec8DUdG9Tarllv91",
+            "description": "Not available yet.",
+            "actionDescription": ""
+        },
+        {
+            "uid": "rec8pRwOofmV9Gta2",
+            "description": "The summary of what happened to your crew that day can be seen on the right. #1\n\nYou can also *talk* to your *Companions* using the speech bubble icons beneath their portraits. #2\n\nCompanions *heal* naturally during camp. The chance of healing (or worsening condition) can be seen on the bar below the portraits. #3 Using the button on the right allows #4 the use of *Medical Supplies* for increased healing chances and effectiveness. Medical Supplies are quite valuable - use them wisely. Healing *results* appear after you end the day.\n\nYou must also set your *defense orders* for the night. A more lenient defense has a higher risk of a nighttime ambush and a negative effect on Obedience. #5",
+            "actionDescription": "When you have set everything up, click the End Day button. #6 This will sometimes trigger camp Events. "
+        },
+        {
+            "uid": "rec9L96S3jYVGyjCB",
+            "description": "The Deputies pane is now active.",
+            "actionDescription": "Navigate to it by clicking the Assign Deputies button #1 (or clicking the Deputies sheet on the top left). #2"
+        },
+        {
+            "uid": "recAFVs4txFhyrjfO",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recAf8OBzfSfVWupN",
+            "description": "The Companions pane allows you to view and manage your Companions, characters that can join you in your travels and serve you in varied ways. This pane is accessible from a number of other windows, including the Leader and Camp windows.\n\nTheir *stats* are displayed on the top left (consult the tooltip for each to learn more), while their *combat skills* are on the bottom left. Both the current and the next level of each combat skill is displayed (click the node icon to change the display).\n\nThe *scroll icon* at the bottom of the companion’s image can be clicked to reveal their backstories (click the icon again to revert to the image).",
+            "actionDescription": "Click the arrow icon next the Companion name to display Morwen's character sheet. #1"
+        },
+        {
+            "uid": "recBtbtiw55HToWFf",
+            "description": "Cultivating a good relationship with certain factions will benefit you in many ways, one of these being special *Trade Offers* they provide at the Market, but only where the given faction has a presence. You can check if you have access to Trade Offers on the Faction details tab on the Leader UI. Higher standing with a faction unlocks better Offers.\n\nOffers can be for *buying and selling* goods and are always for *full stacks*. Two prices are give: normal and preferential, with the latter costing you reputation with the faction. These prices are fixed as opposed to dynamic market prices.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recCB9O3VOecFZaHS",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recDLRLnMc5AELisd",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recDk57KdXAkmS7xL",
+            "description": "On the *Rumor* pane you can find all the rumors you have found or bought in settlements. Rumors are bits of information that can unlock Points of Interest on your Chart, tip you off on business opportunities, or give you hints on storylines. Essentially, they are guides you can follow to find interesting things. Entries are on the left - by clicking on one you can see its contents on the right.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recDlFQsJRBwLhZUj",
+            "description": "‘The dark knight joined us after we rescued him from the clutches of the mindless undead horrors that slaughtered his companions. He was a grim sort, displaying no gratitude or companionship. Yet, we were stuck with him, for a lawman such as the knight could make his dreadful will ours by command. So we set out, bound for Avernum, the greatest city in the vicinity.’",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recFKyCsFyQP15zeB",
+            "description": "On these Faction View pages, you can observe all the details related to specific factions.\n\nYou can see which *locations* they have a *presence* at. Visiting these places lets you interact with factions in settlements. Known locations can be viewed on the Chart by clicking on the compass icon.\n\nYou can also check your current *standing* and the *benefits* it provides (if any), as well as the rewards of higher tiers.\n\nEach Faction has *allies and enemies* as presented here. Reputation gained for a faction also provides a small reputation boost with their Allies and Associates while gives a penalty to reputation with their Opponents and Adversaries.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recG9DOOp2AwghsOK",
+            "description": "*Leadership Perks* are perks specific to the /vagrus/. Each of them lets you use *Resourcefulness* to boost your action in a certain way when unlocked. Consult with their descriptions to learn more.\n\n*Resourcefulness* allows you to boost various actions. It replenishes each day. Its maximum can be raised by spending Insight on it (click the ‘+’ button). What you can spend Resourcefulness on depends on your unlocked Leadership Perks.\n\n*Authority* is the maximum number of Deputies you can have at any given time. Higher Authority also makes your Companions less likely to abandon you in the open-world campaign. You need no additional Authority in 'Pilgrims of the Wasteland'.",
+            "actionDescription": "Click on the helmet icon on the Leader medallion to navigate to the Companions pane. #1"
+        },
+        {
+            "uid": "recGXbiOEU01WJuWK",
+            "description": "Sedarias is a very tough Companion due to his Armor (ARM) and good defenses. His Skills also include a support Skill that enhances his stats (Vengeance) and one that debilitates an enemy (Bane) - both for several rounds.\n\nSome Skills can affect multiple targets. Sedarias’ Cleave deals less damage than his single-target Unholy Strike but it targets two enemies that stand side by side.",
+            "actionDescription": "Use any Skill."
+        },
+        {
+            "uid": "recGfP8ckC90c7V7N",
+            "description": "*Vagrus* is a hard game and while Dissonance Mode includes a number of ways to make it easier, it is in no way easy, so you must keep your wits about you. One of the most common mistakes you can make is to *expand too fast* initially, since nothing warns you of the more hidden economical consequences. Instead, focus on *Faction Trade Tasks* - these will take you to new locations and by working on them, you accumulate much needed money reserves. Many *Mercenary Tasks* are extremely difficult for a new /comitatus/.\n\nFighting outlaws or creatures is not an income source in general. Try to avoid conflict whenever you can unless on an active Mercenary Task or quest to combat them.\n\nYou are likely to run into a few death spirals before getting the hang of it, so do not be discouraged.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recHLuZ4YpKEqltcy",
+            "description": "‘I was just jesting, good master. That is not what happened. Heh heh. Just checking if my audience is attentive. Forgive an old man for being silly.’",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recHmXtN3i0v16HEH",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recHuL2KCGLal7f8l",
+            "description": "Some crew combat encounters offer you the option to *flee*.\n\nWhile trying to flee, your Combat Strength is significantly reduced. The *chance to flee successfully* is derived from a variety of sources, including crew composition, equipment, crew combat attributes, and the opponent's *Chase* value. Even in case of a successful flee, the /comitatus/ suffers damage.\n\nIn some cases, you also have the option to *appease* your opponent.\n\nDoing so offers you the chance to leave behind cargo and other resources to lessen the damage of fleeing or outright get away unharmed. Different foes are appeased by different offerings while they are indifferent to other offerings. This can often be discerned by studying their combat attributes.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recIkBzGZ62ikkAxp",
+            "description": "You can consult the *Combat Log* (the sheet at the mid bottom) any time to see what exactly occurred. The log is scrollable but if you wish to see more of it, click it to open it fully. It can be closed by clicking it again.\n\nThe *Character Sheet* can be opened by clicking its icon (three lines) at the portrait. You can see all the combat-relevant stats of the active Companion there and consult the tooltips to learn more.\n\nThe *Forfeit* button (bent arrow icon) at the character portrait allows you to pass your current turn.",
+            "actionDescription": "Defeat your enemies. Hold Space."
+        },
+        {
+            "uid": "recJ1eRKJHEYQsX66",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recJDJPsojQY9MG9e",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recJLfUFMhJDi8055",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recJcKJKmIAmTFinv",
+            "description": "Crew Combat typically lasts for *three rounds* (#1) during which you need to manage who of your crew fights and who does not, as well as increase your chances of success or modify outcomes by performing special actions each round.\n\nEach round you roll to see how successfully you attack or defend. The chances of success and failure (derived from the Combat Strengths, Defense, and action modifiers of the two sides) can be seen in the middle. (#2)\n\nIf the enemy successfully Flees, Retreats, or Disengages at any given round, you can choose to pursue them or to stand down. The enemy can do the same to you in case your side withdraws. Additionally, if it is not wiped out at the end of the third round, your crew - if not in a hurry - has the chance to save the wounded by healing them.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recJdTIwWpXh6w06V",
+            "description": "Similarly, the pendant icons #1 can be clicked to reveal the available *Gear* the Companion can equip into one of the two slots and gain its benefits by *dragging and dropping* from the list. Gear can be unequipped by dragging it back to the list.\n\nGear is shared among all Companions, but only one of them can wear a piece of Gear at any given time. No Companion can wear two of the same piece of Gear.",
+            "actionDescription": "You can equip Morwen with the Luck Talisman Gear #2 (drag and drop into an empty gear slot), #3 then click on the laurels at the top of her image. #4"
+        },
+        {
+            "uid": "recJp42EL4MQq9T81",
+            "description": "‘As we were coming up to the gates of Scrapheap, this trash pile town of cutthroats and scavengers, we could see the vast mountain ranges of shattered Dvendar Tharr looming ominously over the horizon, half-shrouded in the gaseous vapors belched forth by the volcanoes in the far west. My companions prepared to do their business in town as fast as they could, not wishing to tarry in this notorious place.’",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recKIR1TqwNgyKGuV",
+            "description": "‘No, no. I got confused for a moment there. We never turned back, not even in the face of all the adversity.’",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recKkZRLi4KcRNaoo",
+            "description": "This is the *Mansio* pane. /Mansios/ are inns specialized for /comitati/. When you *Rest* in the /mansio/, the day ends and you’ll get an end day scene similar to when you camp in the wilderness.\n\nYou can see your own /comitatus/ crew pane on the left and the /mansio's/ stock on the right. You can hire or dismiss *crew* as well as buy or sell *beasts* in the /mansio/. Switch between crew and beasts with the buttons at the top. The type of beasts can also be changed here at great cost but this is locked in 'Pilgrims of the Wasteland'.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recL5wsZE5IiWQA9z",
+            "description": "*Melee Skills* can only be used from the front row. They can only target front row enemies that are adjacent to the attacker’s position or back row enemies if no front row enemy blocks them. Because of these rules, positioning in melee is paramount.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recM65EUwCqj6m3d1",
+            "description": "In Crew Combat encounters, your whole /comitatus/ fights the enemy: either to protect themselves or when you happen upon another group who you decide to pick a fight with.\n\nYou can see the *Combat Strength* and *Defense* of your crew (#1) and the enemy (#2). These describe your crew’s ability to perform attacks and defend themselves, respectively. Purple icons indicate magical attacks and defense. The side that initiated the combat encounter is the *Attacker*, indicated by a *fist*.",
+            "actionDescription": "Click on Fight (#3), Flee\\Sack, or Move On (#4).\n\n/Moving on is only an option if your comitatus is not the Defender./\n/Sack is not available yet and Flee cannot be used during Events./"
+        },
+        {
+            "uid": "recNTrXmZGztVlOBq",
+            "description": "Under *Acquire Supplies*, you can send your crew out into the wasteland to find supplies and sometimes even other goods. Base chances for these activities depend on your related Perks, Deputies, crew, and the region you are in. You can also see the expected yields below each activity. The cost of Hunting and Foraging is Movement Points or Vigor (if you are out of MPs).\n\n*Hunting* uses scouts and has a chance to get you a large number of Supplies. Critical failure might kill scouts. Click on the scouts to allow hunting. #1\n\n*Foraging* is more reliable but yields fewer Supplies. It can use workers and slaves - you can add them to or remove them from the activity by clicking on their crew portraits. Critical failure might kill workers or slaves. #2 #3\n\nFrom the camp UI, Hunting and Foraging *results* appear after you end the day.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recO4oc7DLg89k6Kd",
+            "description": "Each Companion has *4 Combat Skills* besides Move, represented by the row of icons below their name on the character information bar. When you select a Skill, its stats are displayed below the Skill icons.\n\nYou can select *Skills* or Move by clicking on them or pressing their number (1-5) . Selected Skills are highlighted, as are all available targets for the selected Skill. Skill details can be viewed in the information sheet on the bottom left after a Skill is chosen.",
+            "actionDescription": "Use Mind Blast (Skill 1) to attack one of your opponents (select Skill 1 #1, select available target position, click again to confirm). #2"
+        },
+        {
+            "uid": "recORzBnM797Ks3oS",
+            "description": "Your Journal, located in the bottom left, is now active. It is your means to follow stories and tasks.",
+            "actionDescription": "Open your Journal now by clicking on the book in the bottom left corner. #1"
+        },
+        {
+            "uid": "recOcDNzYW7TC3HGq",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recOiwdF62PUsWcuq",
+            "description": "Forced March allows you to move further than your maximum *Movement Points (MPs)* in a given day. Forced March movement uses *Marching MPs* (indicated next to your MPs on the top left). Marching along paths and its cost is indicated by red on the campaign map.\n\nAlthough Forced Marches get you further, use them carefully. Your crew loses Vigor and even Morale rapidly if you March too often without extra resting.\n\nWe strongly suggest refraining from frequent Forced Marches until you have more experience. High Vigor, Morale, and a well-supplied /comitatus/ are required for Forced Marches to have a less negative impact.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recQMcbh967Qaon0p",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recQYqNJ43zY6Rwpe",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recQhc0TvfN7xz24Z",
+            "description": "*Rumors* can also be purchased here. These bits of information can unlock Points of Interest on your Chart, tip you off on business opportunities, or give you hints on storylines. Purchased rumors can be found in your *Journal* under the *Rumors* tab.\n\n*Passengers* can sometimes also be found in /mansios/. When taken to their destination, they reward you for your efforts but often you have to reach the place within a time limit. The passengers' consumption and potential Crew Combat Strength is also shown here.\n\n*Exchange News* allows you tap into local sources about the settlement you are in, which could be information people might pay for in other places. At the same time, you also pass on the news you've gathered from elsewhere, providing a few coins. The list of settlements you carry news from can be found in your *Journal* under the *News* tab.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recRgsiQGDdms7TDL",
+            "description": "Before the first round is started, you have to deploy your Companions to the available *positions* on the friendly (left) side. You do not need to deploy all your Companions; sometimes it is best to avoid sending a wounded Companion into battle or simply to leave some space to maneuver. You can start combat by clicking the *Begin Fight* button.\n\nYou can *deploy* a Companion by selecting their portrait from the roster and clicking on an empty position (or dragging it there). Revert a deployment by clicking on the base of a character. Certain Companions may have different deployment conditions - hover over their portraits to learn more.\n\nBefore deploying a Companion, you can switch between their defense mode (Block or Evade) by clicking the Defense Mode button (shield icon) next to their portrait. Defense modes are set to the higher value mode by default.\n\nYou can use the top right section of the deployment window to save three deployment templates (use Save after selecting a template number) that you can use later (by selecting a template number).",
+            "actionDescription": "In this fight, some allies are already deployed and you will take control of them but you cannot change their deployment. Morwen #1 is useful in the front row #2, while Javek’s #3 abilities favor the back row #4. When you are done deploying, initiate combat by clicking the Begin Fight button."
+        },
+        {
+            "uid": "recSIi80y0tPVEyNe",
+            "description": "The Codex is a collection of *entries* you find throughout your travels. Entries contain information about the world and its inhabitants. When you have unread entries, the *crystal* on the cover of the closed Codex emanates light.\n\nEntries are displayed in a list on the left. You can *search* entries and *filter* them by category using the buttons on the top. *Unread* entries are marked by a blue icon and appear on top, while already read entries have a gold icon. The text of the selected entry appears on the right.\n\nInformation in the Codex is supplementary. It is there for those who wish to learn more about the Riven Realms.",
+            "actionDescription": "You can close the Codex now and continue your journey. #1 You can open it again by clicking on the book in the bottom right corner."
+        },
+        {
+            "uid": "recSQm6VXAFDFIveB",
+            "description": "All characters can *Move* (footprint icon, bottom left section) to any adjacent *position* on their own side. If they move into a position that is occupied by another character, that character is pushed out of the position it occupies and has to be moved into an adjacent free position (even to the position the other character has just left).\n\nNot only do characters in the front row prevent melee attacks against characters directly behind them but also make them more difficult to hit with certain *Ranged Skills* (those that have the Line of Sight property).\n\nWhen you want to move, *select* the Move icon and then the target position by *clicking* on it, then *confirm* with a second click.",
+            "actionDescription": "Move Morwen in front of Javek to protect him (select Move #1, select target position, click again to confirm #2)."
+        },
+        {
+            "uid": "recSS86rCDnyxXCsE",
+            "description": "The Leader window allows you to observe and interact with your character, the /vagrus/. Your current *Insight* is displayed at the top right. Insight is gained mainly through Events and can be used to purchase *Perks* and other *improvements* for the /vagrus/ and to your Companions.\n\n*Perks* are abilities that have levels and are used in various situations. Initial and maximum Perk levels, as well as available Perks are specific to each character. *Attributes* and *Professions* are used in Events. You can find more information below about each of these by clicking on their names.\n\nYou can *purchase* any number of Perks if your Insight allows you by clicking on the empty nodes next to each Perk representing its next level. When you want to finalize the changes you’ve made, use the *confirm button* (bottom right). You can undo a change by using the *revert button* (bottom left).",
+            "actionDescription": "Select and Purchase the Prepare #1 Leadership Perk now. #2"
+        },
+        {
+            "uid": "recSqfOp4idoxKCBv",
+            "description": "This is the *Prowess* window, where you can upgrade your Companions. Prowess is the general power level of the Companion, ranging from 1 to 9. Each unlocked level of Prowess gives the Companion an amount of *Proficiency* points that can be spent on upgrading their Perks. Raising Prowess costs *Insight* from the Leader (click on the next Prowess node and confirm  to unlock it). In the main campaign, levels 4, 6, and 8 of Prowess can only be unlocked after the Companion’s storyline progresses beyond a certain point. In Pilgrims of the Wasteland, companions can be upgraded up to the third Prowess level.\n\nPerk descriptions and Proficiency costs can be observed by clicking on their names. Deputy Perks, Combat Traits, and Combat Skills are unique to Companions. Combat Traits give them passive bonuses in combat, while Combat Skills are what they use in battle - each level of skill is represented by a Perk. Attributes are used in Event Tests as well as requirements for Combat Skills and Traits, but have no direct effect in combat.\n\n*Upgrading* works the same way as with Leaders: you can spend any amount of Proficiency, then confirm changes with the *confirm button* (bottom right). You can undo all changes by using the *revert button* (bottom left).\n\nBe very careful what you spend Proficiency on: once purchased, Perks can not be changed!",
+            "actionDescription": "Upgrade Morwen's Prowess #1 and purchase any Perks or Skills you’d like. #2 When finished close this window by clicking the X (top right corner). #3"
+        },
+        {
+            "uid": "recTGv2UiXKTQe598",
+            "description": "‘Just as we were about to leave that damnable lake behind, we heard it… An abominable shriek pierced the air and made us gasp. It came from behind some hills nearby, coupled with the ruckus of a battle. The armed women and men of the /comitatus/ looked at their /vagrus/ questioningly.’",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recTdxGXHCkJXLrww",
+            "description": "Combat Actions are commands you can issue before each round of Crew Combat to alter the course of battle, raise your chances of success, or mitigate losses. Maximum two Actions can be performed per combat round - both cost Resourcefulness (the second one costs more than the first).\n\nActions that are in tune with your disposition (Offensive for the Attacker and Defensive for the Defender side) cost less Resourcefulness. Additionally, Marauder Prime and Guard Captain Deputies lower the Resourcefulness cost of Offensive and Defensive Actions, respectively.\n\nApart from the cost, Actions have all sorts of requirements and effects, making them situational to use. Consult each tooltip on these and pick the right ones to optimize your tactics in Crew Combat.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recUOKfDskVG3y6BU",
+            "description": "The Chart is your tool in navigating the wastelands of Xeryn and planning out journeys. You can *move* around by holding *LMB* and moving the mouse and you can *zoom* with the *mouse wheel*. Your /comitatus/ is represented by a red banner.\n\nAny discovered settlement or point of interest can be marked by clicking on their icon and choosing *Flag icon* in the bottom left box, which highlights them on the Chart. You also have the option to navigate to the *Codex* from the box.\n\n*Please note* that although a sizable chunk of the continent of Xeryn is accessible in the open world campaign, the rest is not reachable and is merely part of world-building.",
+            "actionDescription": "Mark Avernum (south of you) on your Chart and then close it (top right corner or Esc). #1"
+        },
+        {
+            "uid": "recV1EWzpSC4LPjlr",
+            "description": "*Auto-acquire Supplies* allows you to set conditions through which you can automatically acquire Supplies at the end of the day. Once the conditions are met, *Hunting* and *Foraging* will automatically occur when you end the day from the Camp screen. If you use Quick Camp, the acquisition of the Supplies will happen automatically as well if the preset conditions are met.\n\nThe conditions are represented by two *sliders* underneath Auto-acquire Supplies. The top slider represents the lowest base chance of success through which the auto-acquisition will trigger, while the bottom slider represents the minimum amount of Supplies yielded on average by that node for the auto-acquisition to occur.\n\nIf you switch on the *Vigor symbol* (fist icon), Auto-acquisition will cost 1 Vigor instead of 2 Movement Points (MP) when you have less than 2 MPs left. If this is not switched off, *Auto-acquire Supplies* will only trigger when you have 2 or more MPs.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recV2SYBvl15OZFrW",
+            "description": "Items, the third type of cargo do not take up cargo space and are not equippable. They are used and traded in certain Events.\n\nYou can switch panes in a settlement and the active pane will open the corresponding pane of the /comitatus/ management on the left. You can now freely check the settlement tabs.",
+            "actionDescription": "When you are done exploring, click on the Exit arrow on the top right to leave Scrapheap. #1\n\nOnce you leave, you can not come back to this place in 'Pilgrims of the Wasteland', so be sure to do everything you want to before venturing forth."
+        },
+        {
+            "uid": "recXQdRLj02kpiKA7",
+            "description": "Companion Combat is turn-based, where 1-6 enemies fight against your team of 1-6 Companions. You can use the Skills of your Companions to defeat your enemies, protect your Companions, and set yourself up in advantageous positions on the combat board.\n\nCompanion combat is made up of *rounds*. Each round, all the participants take *turns* to act, and when everyone has had their turn, the current round ends and a new round is started. This goes on until either your Companions or your enemies are defeated.\n\nCombat board is divided into two *sides*: the friendly side (left) where your Companions and occasional allies are, and the opponent side (right) where your enemies are. Each side has a *front row* (melee row) and a *back row* (ranged row). Each row has 3 *positions*. Certain skills can only be used when standing in a position in the appropriate row.",
+            "actionDescription": "Click on the Begin Fight button."
+        },
+        {
+            "uid": "recXRacyNU82GaMJf",
+            "description": "‘Our hands were bloodied and our hearts ached with the cruelty of the hunt but at last the /comitatus/ had a glimmer of hope. Only one battle remained and we would be released from our bonds to the Empire. We journeyed on with a heavy conscience and prepared for the peril that lay ahead.’",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recZIg555e45y6O9Q",
+            "description": "The order in which combatants receive their turns is according to their *Initiative (INI)*: at the beginning of each round all active combatants add 1-6 (random) to their INI to determine in what order they will progress through the round (starting from the highest INI).\n\nThe INI order (top left) shows the order in which combatants receive their turns. Wise leaders use this information to plan ahead.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recZdrPnsVNSeFZoh",
+            "description": "Most of the story is presented through interactive texts called *Events*. Events let you make different choices at each step. Some choices can have a number of consequences, while others have various dependencies. Dependencies mean that you can only pick a certain choice if you have the right prerequisite – skills, perks, characters, and so on. To select a choice, click on it or use 1-9 to select the one you like.",
+            "actionDescription": "Navigate this Event to its end. #1"
+        },
+        {
+            "uid": "recc2Y9J68BTsLxvR",
+            "description": "A Companion is *Downed* after losing all their Vitality (VIT) in combat. They are not removed from combat but can not perform actions. They receive their Downed VIT and occupy their previous position. Enemies can still target them and if they lose all their Downed VIT, they are Out of Action (OOA). This means that they become severely wounded and can even die following combat. Some rare healing skills can bring back Companions from a Downed state. Be sure to protect Downed Companions as much as you can.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recdPWKycgnA6FSgR",
+            "description": "*Upkeep* is how much you owe your crew. You can pay them at the end of each day or keep collecting debt.\n\n*Consumption* is how much food your crew consumes each day. Running out of supplies leads to a quick death in the wastelands.\n\n*Workforce* is generated by workers and slaves. You have to have enough workforce to cover the /comitatus'/ needs, including beasts, crew, and passengers. Going below the required number bestows serious penalties.\n\n*Passengers* are people your /comitatus/ takes to their destinations for rewards. You can take on passengers in some Events and settlements. They also consume supplies (lizard icon).",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recdcLKf1k4D6faYg",
+            "description": "When text in an Event is highlighted <color=#4890c8>pale blue</color>, it means that you have found a *Codex Entry*. Clicking these opens the Codex and navigates you to the entry.",
+            "actionDescription": "Click on highlighted words to open the Codex.  #1"
+        },
+        {
+            "uid": "recdyFJ02Nc2lBOTs",
+            "description": "‘That could have happened easily, see, but praise Irafons it didn’t. I just added it for dramatic effect. Now, where was I?’",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recdz5wzCLGczWU6h",
+            "description": "Your crew tends to the wounded in the Heal Phase, rolling for the recovery of each unit one by one. Severely wounded units can only be healed with a Critical Success. Every healing attempt has a chance to consume a Medical kit.\n\nThe Healer Perks of Companions or the /vagrus/, as well as certain gear and other sources, can increase the chances to heal units. You can also take additional time (deducting Movement Points) and\\or use Resourcefulness to increase your chances.",
+            "actionDescription": "Click on Heal. (#1)"
+        },
+        {
+            "uid": "rece7E17ZpKUt3rz6",
+            "description": "The Mansio pane is now active.",
+            "actionDescription": "Navigate to the mansio pane by clicking on the decanter icon #1"
+        },
+        {
+            "uid": "receXdAL3kQPoPR4b",
+            "description": "The Crew Management window allows you to manage your /comitatus/.\n\n*Morale* is the general mood of your /comitatus/. If it ever drops to 1, there’s a chance that the /comitatus/ dissolves and you lose the game. You can see the current effects of your morale below the rating.\n\n*Obedience* indicates how satisfied your slaves are. Low Obedience leads to theft, runaways, and worse. Be sure to guard your slaves with enough Fighters and treat your slaves well (or punish them consistently) to raise Obedience.\n\n*Nutrition* shows you how well-fed your crew is. Low Nutrition incurs penalties. Extra rations raise Nutrition while starving your crew repeatedly lowers it.\n\n*Vigor* indicates how tired the /comitatus/ is. Low Vigor results in penalties on Tests and in a drastically slower /comitatus/, which can spell doom quite fast. You can see the current effects of your vigor below the rating.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recf1Bpynv6iCWG4U",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recf4i4mwjjva7K9K",
+            "description": "On the campaign map, your /comitatus/ (traveling company) always occupies a *node* and moves between nodes through *paths*. Moving along paths costs *Movement Points*, indicated next to each path. Every in-game day you have a number of Movement Points to spend before you need to camp.\n\nTo move, click on a nearby node and select *Move* from the radial menu. You can select a node that is farther away, the MP cost of moving there will be calculated and the path highlighted.",
+            "actionDescription": "Move to Scrapheap. #1"
+        },
+        {
+            "uid": "recfctEzdUG0IA56G",
+            "description": "*Auto-scouting* allows you to scout ahead of your /comitatus/ without spending movement points. The main trade-off of doing so is that your chances of *success* are significantly reduced when compared to *manual scouting*, which also means you may lose scouts more frequently.\n\nThere are two modes of *auto-scouting*. One is represented by a single rightward arrow on the UI beside *auto-scout mode*, and the second by the icon with multiple arrows leading in different directions. With the former, your /comitatus/ will stop on any node along its current trajectory when certain conditions are met, while the latter mode stops you when any of the adjacent surrounding nodes meet the conditions. These conditions can be set up corresponding to various thresholds for *acquiring supplies* (hunting and scouting), the strength of a Crew Combat encounter, or through *ventures* by indicating the minimum chance of an event or task occurring on a given node.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recg6ES5e3NrOcdnQ",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recgC4JiPeOSO4A9l",
+            "description": "When a /comitatus/ enters a *settlement*, you can select from a variety of options, each on its separate *pane*, revolving around resting, re-supplying, and trading. You also have the opportunity to initiate stories located in the settlement.",
+            "actionDescription": "This time, only the Story pane is active. Follow the only available Story. #1"
+        },
+        {
+            "uid": "rechFM3LDtU5kNDve",
+            "description": "When occupying a settlement node, you can enter the settlement using the Enter button on the radial menu. You can always choose not to enter and even camp outside.",
+            "actionDescription": "Enter Avernum. #1"
+        },
+        {
+            "uid": "rechNH8kVmIN9Gywj",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recjDSCOVNaN61sLg",
+            "description": "You can enter *Companion Combat* against a fraction of the foe's forces using the appropriate *Action*. When you do, you can choose who to focus on: their leaders, their regular combatants, or a mixture of the two. You will return to Crew Combat after 6 rounds of Companion Combat no matter the result of the fight.\n\nAny combatant falling in this Companion Combat will be removed from the Crew Combat but defeating all of the enemies damages their Grit significantly while losing the fight pertains to a Morale loss to your crew.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recjN9SghCTMWIr46",
+            "description": "‘No, wait. That’s not… That’s not how it went. I apologize, good master. My memory is not what it used to be.’",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recjO9yDPUURsBsxQ",
+            "description": "Equipment you own are in a pool below the /comitatus/ illustration. In order to gain their bonuses, you need to *equip* them first by *dragging and dropping* them into an appropriate slot on the illustration.\n\nEquipment can only be placed in a slot that matches its type, except that Equipment of any type can be placed into the Miscellaneous slot. You can unequip Equipment by dragging it back to the list.",
+            "actionDescription": "Equip the Awnings #1 on your /comitatus/. #2"
+        },
+        {
+            "uid": "recjg9rbmgzM9yudd",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recji8cb6ie8av4Zx",
+            "description": "Your Chart is now active.",
+            "actionDescription": "Open it by clicking on the chart (top right corner). #1"
+        },
+        {
+            "uid": "recjpkw3YH1Db86yB",
+            "description": "‘With the black knight’s investigation concluded in Avernum, we were yet again chained to his will and purpose. Commandeered from our original venture, we set out across vast plains of sand and rock in search of escaped slaves that preyed upon travelers. We could only dream that we’d make it out of this predicament alive and could return to our journey eastwards.’",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recl3KbfejqQWmp1M",
+            "description": "Scouting allows you to gather information about what is going to happen in nearby nodes before committing your /comitatus/ to a path forward. This is done by sending your scouts out. Scouting is divided into two categories: *manual scouting* and *auto-scouting*. Both forms serve the purpose of revealing important information about combat encounters, hunting, foraging, and events in the surrounding area.\n\nManual scouting covers anything from the node you occupy to a larger surrounding area that stretches out far into the distance. The more distance covered, the higher the movement point (MP) cost. The amount of movement points needed is also dependent on the number of scouts you choose to send, and the extent of the area you elect to cover surrounding the /comitatus/. These factors, among others, also indicate your probability of *success* or *failure*, as indicated beside *odds*.  \n\nThe colored icons represent the different things that you can find, and the upward arrow on the right side allows you to use resourcefulness to guarantee results in a specific category, regardless of your normal chances to succeed or fail at scouting.  \n\nScouting is not without risks: your scouts may not return in case of a failure.\n",
+            "actionDescription": "Use the plus button to set up a minimum scouting distance of 3, then click on the Send Scouts button to send out your scouts. #1"
+        },
+        {
+            "uid": "reclq8fqGFrnxVixQ",
+            "description": "Welcome to 'Pilgrims of the Wasteland', a standalone story of *Vagrus - The Riven Realms*! It serves as an introduction to the setting and also as a tutorial to the game. It behooves you to read the tutorial text and follow the instructions to gain a better understanding of how the game works.\n\nThe #1 icon can be clicked in tutorial windows to show what the section is referring to (via a pointer). Note that you have to be on the right UI screen for the pointer to appear.\n\nAlthough Vagrus is an open world game, due to 'Pilgrims of the Wasteland' being a tutorial, it progresses along a narrow, guided path in the beginning and opens up only later, after the core mechanics have been introduced.\n\nYou can access the Hotkey list by pressing F11.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recm9vDz3PHzUn92f",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recmyHtxcsGAU14yD",
+            "description": "You, the /vagrus/, may not take part directly in Companion combat but that does not mean you have no means to influence it. Many of your *Leadership Perks* allow you to use *Resourcefulness* in various ways in combat. Whichever you have unlocked can be found on the Leader medallion in the form of buttons along with the Menu button (three lines icon). Consult their tooltips to learn what to use them for.\n\nYou have two options for now: \n\n*Aid*, which allows you to revive Downed Companions. The button is only active if you have a Downed Companion. A Companion is *Downed* after losing all their Vitality (VIT). They are not removed from combat but can not act and have to be protected because if their Downed VIT is depleted, they become severely wounded. Downed characters also do not provide cover from Line of Sight attacks to those behind them.\n\n*Inspire*, which gives a substantial defense buff to a target character for 3 rounds.",
+            "actionDescription": "Use Inspire to give a character additional defenses (select Inspire, #1 click on the target, then click again to confirm). #2"
+        },
+        {
+            "uid": "recoFXy7oIVuuI8ss",
+            "description": "Many settlements have *Faction panes* like this one where you can interact with Factions with a presence at the given location.\n\nEach faction provides a variety of *Tasks* you can take on. Tasks are procedurally generated, non-story related objectives you can complete for *money and reputation* with Factions.\n\nYou can take on Tasks under the *Available* tab. Each has requirements including Faction Standing tiers and free cargo space.\n\nThe *Active* tab is where you can turn in Tasks (if you are at the right place) or discard them. Be mindful that doing so will result in serious penalties.\n\nThe *Rewards* tab lists all the faction standing rewards you can potentially claim. You are unable to claim rewards if you do not meet the faction standing requirement or the faction's presence in the settlement is too low for the given reward. Note that you can only claim Equipment and Gear rewards once. Effects can be reclaimed if you lose them (due to losing faction standing) but become eligible for them again later on. In this case, any level of the corresponding faction's presence is sufficient.\n\nBy default, you can take on one Task from a given faction but a better Standing allows you to take on more.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recpfeDUHbYqjdLfV",
+            "description": "The Market pane displays the available *goods* you can buy at the settlement’s market on the right and opens your *Cargo pane* on the left. You can buy goods from the market or sell your own goods from your cargo hold here. The maximum cargo space is 600 (30 slots), it can not be expanded further.\n\nWhen buying or selling:\n\n- Buy or sell one increment only by *clicking* on the Buy or Sell button next to the listed goods.\n- Holding *Shift and clicking* the Buy and Sell *buttons* buys or sells a whole stack, respectively.\n- *Drag and drop* the icon for buying or selling stacks of goods.\n- Holding *Shift and clicking* the *icon* opens a window where you can specify the quantity you wish to buy or sell.",
+            "actionDescription": "Purchase 24 Scrap Metal #1 and additional Supplies #2 to have at least 800 units."
+        },
+        {
+            "uid": "recpt1p75kHhtmEyI",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recqBHFoAssSYaOhr",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recqy1Ug57NylbXId",
+            "description": "‘Hmmm… I can’t be certain, as it happened a long time ago but I believe I might be mistaken here. Uhm… I might have gone off on a tangent.  Let me go back a bit.’",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recrDOPFruVsVWVup",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recrtFPMkTHl4OwXB",
+            "description": "Some choices have *dependencies*, meaning you can only pick a certain choice if you have the right prerequisite – Perks, Companions, Resources, Journal Entries, and so on.\n\nSome choices involve *Tests* that can be failed or succeeded with different consequences. Perks, characters, and resources can change the chance of success in Tests. Test difficulty is represented by a number between 1 and 100 that you need to roll equal to or below.",
+            "actionDescription": "Continue with this event. #1"
+        },
+        {
+            "uid": "recsCm9BtodGUjMS7",
+            "description": "During the battle, you can see your units (left) and the enemy's (right). You can click on your groups of units (#1) to add them to or exclude them from the fight before you commit to the current Round’s roll. The selected units add their Combat Strength\\Defense to the total but have a chance to be wounded or killed. Workers and Slaves become mortally wounded after a single hit, while other combatants become wounded first. Severely wounded Companions and mortally wounded crew can not fight, while wounded crew grants lower Combat Strength than healthy ones. Check the detailed result of each round by clicking the scroll button. (#4)\n\nIncluding Passengers and\\or Arming Slaves (#2) is an option but these have their consequences, like losing Morale and Obedience. Many factors have an impact on Combat Strength, Defense, damage dealt and sustained, and other stats. Consult the tooltips to learn more.",
+            "actionDescription": "Select your combat groups, then click Fight. (#3)"
+        },
+        {
+            "uid": "recsdraW7MVi3utkV",
+            "description": "*Factions* are organizations you can cooperate with to gain their favor and with that, rewards and boons. You have a *reputation score* with each faction that defines your standing with them, indicated in the bottom left corner of each faction icon. Tiers range from negative 5 to positive 5 and are shown on the top left of the icons.\n\nBy clicking on a faction icon, you can learn more about them, your standing, and what rewards you can gain from them.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recsfsOOHEKOFWoak",
+            "description": "Quick Camp and Automarch can make exploration easier. While they are turned off by default, you can turn them on in the Options menu under *Game Settings*.\n\nToggling *Automarch* on will make it so that when you choose to travel beyond your normal Movement Points (MP) limit, your /comitatus/ will proceed forward and expend March Points automatically. Without this feature on, you will instead automatically stop moving when you run out of MPs.\n\nToggling *Quick Camp* on will give you an additional option from the radial menu when you travel, which allows you to instantly camp, ending the day without the usual camp UI popping up. *Quick Camp* will use all the settings you have locked in from your previous camp. ",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recsyrSWN1KFqQl4r",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "rectzld4oKCHkTFS1",
+            "description": "*Equipment* that you can attach to the /comitatus/ is sold on some markets or found throughout your travels. They provide bonuses and upgrades. You can switch between the market of Goods and Equipment using the buttons over the list of items on the Market pane.",
+            "actionDescription": "Switch to the Equipment tab #1 and purchase the Awnings equipment from the market. #2"
+        },
+        {
+            "uid": "recuJ0qXkQ5tUqFAQ",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recuq3rGduhgLMhZj",
+            "description": "Leader management is now active.",
+            "actionDescription": "Click on the medallion (bottom left corner) to open the Leader window. #1"
+        },
+        {
+            "uid": "recvFEQ7n848bHNCD",
+            "description": "The Journal allows you to view your *quests*, *tasks*, and other related information. You can *search* for entries (search field) and *filter* them (drop-down filter buttons) on the top left. Entries are separated into *objectives* and *qualities* into their respective panes.\n\n*Objectives* are your quests and ongoing stories. The text of a selected list item appears on the right. These describe the quest or task and provide active objectives. *Unread* entries have a blue exclamation mark icon and appear on top, while already read entries are marked by gold dots (active), a green check mark (completed), or a red crossed circle (failed).\n\n*Tasks* are non-narrative missions and goals you can complete for rewards. There are several types, like trade opportunities or mercenary work but in 'Pilgrims of the Wasteland' you can only find passengers here. *Passengers* have to be taken to their destination where they will compensate you for your trouble. Be careful because sometimes passengers will leave if you take too long to get to their destination.\n\n*Qualities* can be statuses, gathered information, secrets, and so on. *Unread* entries have a blue exclamation mark icon and appear on top, while already read entries are marked by a gold circle icon.",
+            "actionDescription": "Close your Journal after checking your objectives. #1"
+        },
+        {
+            "uid": "recvJ2YX899uixn01",
+            "description": "‘Dark omens. Ominous apparitions of an otherworldly covenant of specters. A grim knight out for vengeance. Time and coin running out slowly. Yet, against all odds, we journeyed to the city of Avernum on the Smolderbone Flats. A place bustling with travelers, merchants, and lowlifes, it was supposed to be a short stop on our way east but… we got more than we bargained for.’",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recvYEAbOa2uF83D8",
+            "description": "At the end of each in-game day, the /comitatus/ makes camp and settles down for the night. Supplies are consumed and Movement Points are refreshed after camping.\n\nAt each camp, you can decide to offer *normal* or *double* wages for the current day independently of whether you pay them or not. Double payment increases Morale. #1 You can also choose to *pay* all your debts to your crew at this time (Pay Now) or *accrue payments* (Pay Later) but the longer you delay the grumpier the crew gets. #2\n\n*Obedience* and *Nutrition* also appear here as well as the options to discipline or liberate slaves. #3 *Workforce* shows how much workforce (generated by workers and slaves) you need to maintain the /comitatus/. #4 Going below the required value bestows serious penalties.\n\nYou have the option to give out less or more supplies under *Rations*, which penalizes or boosts Vigor and Morale, respectively. Starving your crew will have long-term negative effects on *Nutrition* as well but it may be necessary sometimes to save rations. #5\n\nAll the *lock icons* allow you to save the current setting of the corresponding UI element so that it remains the same for the next camp. #6 #7",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "recvfCZnZzu3XpHcI",
+            "description": "The *Market pane* is now active.",
+            "actionDescription": "Navigate to the Market pane by clicking on the scales icon. #1"
+        },
+        {
+            "uid": "recvuf98arRkxTu8m",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recwkgUwUlU9iYIVH",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recwlAbVlp3aK2Tn8",
+            "description": "",
+            "actionDescription": ""
+        },
+        {
+            "uid": "recx7yTCREGpHj4Wu",
+            "description": "You have run out of Movement Points and need to *camp*, ending the day. Being on the road all day (spending most of your MPs) lowers the *Vigor* of your /comitatus/ that you can replenish by camping.  You can also camp earlier than running out of MPs, which helps raise Vigor faster.",
+            "actionDescription": "Select the Camp icon (tent) from the radial menu of the node you currently occupy. #1"
+        },
+        {
+            "uid": "recxJl1n8DkSEzKmg",
+            "description": "As an alternative to acquiring supplies when you camp and end the day, you may also acquire supplies during the day.  This can often be useful, as the node you choose to hunt or forage on may have a significant impact on the results.\n\nIn almost all cases, this will cost 2 Movement Points (MP). If you do not have any remaining MP, it will instead cost 1 Vigor. You can send out multiple *Hunting* and *Foraging* expeditions during a day, though these will face diminishing returns depending on the outcome of previous attempts.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "reczNxA7KVdu33fnM",
+            "description": "‘This /comitatus/ I speak of had fallen under hard times. Perhaps it was due to Imperial harassment or unfortunate decisions; or simply bad luck. Irafons, Saint of Roads, does not always smile on us mere mortals. But however it came to pass, their coin was drying up, and their opportunities seemed few and far between. One of the last chances their /vagrus/ saw was to travel to the remote town of Scrapheap and spend their remaining funds to stock up on cheap scrap metal. This metal could be sold for great profit over in the east and south. It wasn’t a bad plan, truly. But it was not without risks, either.’",
+            "actionDescription": ""
+        },
+        {
+            "uid": "reczkRByHfRUFwLTY",
+            "description": "Deputies are your officers in the comitatus.  On this pane, you can assign your Companions to Deputy roles and check what boons each Deputy provides.\n\nYou can *assign* a Companion to a Deputy role by dragging and dropping their portrait in an available slot (available slots are signified by a coin). Only Companions with a *Deputy Perk* can be assigned.\n\nOne Companion can only fill one role (even if they are eligible to more), and each role can be filled only once. The maximum number of assigned Deputy roles depend on your *Authority* (a Leader characteristic). Assigned Deputies unlock new Equipment slots for the /comitatus/.\n\nThough you can only assign or remove Deputy roles while in camp or resting, you can always consult this pane through the Comitatus Management window or directly from the Leader window.",
+            "actionDescription": "Assign Morwen #1 to the Scout Master Deputy role. #2 Then close this window."
+        },
+        {
+            "uid": "reczshwoe4XyrrIpE",
+            "description": "Your progress is saved at checkpoints. Whenever you leave a *settlement*, reach a story-related *checkpoint*, as well as at the *start of each in-game day*, your game is saved *automatically* (overwriting the previous Autosave save).\n\n*Manual saving* is unavailable in  the standalone story 'Pilgrims of the Wasteland'. In the open-world main campaign, you can save  manually in the game menu (F10, Escape), except during combat and Events.\n\nYou can *load* your saved games from the Load menu (F9 to access directly) or from the main menu.",
+            "actionDescription": "Hold Space."
+        },
+        {
+            "uid": "reczzWETA9yVRdXt3",
+            "description": "Here you can see the number of each crew and beast type you have in your /comitatus/. Consult the tooltip for each type to learn more about their role.\n\n*Outriders* are special because you need a Fighter and a Mount to be able to create an Outrider by using the '+' button. While Outriders are excellent fighters, Mounts without riders carry cargo. You can always dismount Fighters using the '-' button.",
+            "actionDescription": "For now, add an Outrider #1, then close this window by clicking the X (top right corner). #2"
+        }
+    ]
+}

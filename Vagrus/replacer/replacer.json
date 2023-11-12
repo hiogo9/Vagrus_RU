@@ -1,0 +1,12 @@
+{
+	"dir" : "text",
+	"extensions" : ["txt","csv","nut","json"],
+	"replacements" : {
+					"\\":"/",
+					"\`":"'",
+					"\‘":"'",
+					"\’":"'",
+					"\'":"'"
+					},
+	"filename_exceptions" : ["do_not_touch.txt","do_not_touch.csv"]
+}

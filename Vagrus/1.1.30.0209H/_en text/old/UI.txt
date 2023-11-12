@@ -1,0 +1,306 @@
+Resolution
+Display Mode
+Gfx Level
+Show Version
+Full UI Zoom
+UI Zone Zooming
+CoC Animations
+CrC Instant Anim
+Display Round
+Confirm Target
+General
+Primary
+Secondary
+Close UI / Open Main menu
+Load Game
+Help
+Main Menu
+Enter / Explore
+Scouting
+Camp
+Quick Camp
+End Camp
+Codex
+Journal
+Notes
+Leader
+Game Log
+Chart
+I understand
+Language
+Secondary Language
+Video
+Audio
+Combat
+Controls
+New Game
+Continue
+Options
+Credits
+Extras
+Quit Game
+Save Game
+Resume
+Reset to Default
+Main Campaign
+Pilgrims of the Wasteland
+Select Game Mode
+Crew
+Cargo
+Companions
+Deputies
+Slaves
+Workers
+Scouts
+Fighters
+Outriders
+Mounts
+Beasts of Burden
+Total
+Crew Details
+Crew Status
+Enduring Effects
+Passengers
+Equipment
+Cargo Hold
+Owned Equipment
+Items
+Morale
+Obedience
+Nutrition
+Vigor
+Accrued Upkeep
+Daily Upkeep
+Consumption
+Workforce
+Vitality
+Armor
+Evade
+Power
+Initiative
+Accuracy
+Downed Vit.
+Regeneration
+Block
+Power Regen.
+Action
+Upkeep
+Impediment
+Bleed
+Fire
+Electric
+Magic
+Poison
+Cold
+Mind
+Insight
+Professions
+Attributes
+Combat Skills & Traits
+Deputy
+Perks
+Resistances
+Skills
+Gear
+Guard Captain
+Scout Master
+Chief Handler
+Slavedriver
+Marauder Prime
+Supercargo
+Venatoris
+Spellweaver
+Stories
+Faction offers
+Factions
+Buy
+Sell
+Beasts
+Take
+Exchange
+Rest
+Swap
+Rumors
+Available
+Active
+Rewards
+Hire
+Slave
+Worker
+Scout
+Fighter
+Market
+Give up
+Claim
+Claimed
+Leadership
+Reputation
+Tasks
+Race:
+Calling:
+Ambition:
+Background:
+Resourcefulness
+Authority
+Perk Summary
+Status Effects
+Allies
+Associates
+Opponents
+Adversaries
+Race
+Calling
+Ambition
+Background
+Name
+Exit to main menu
+Discoveries
+Scout now
+Combat Encounter
+Foraging
+Hunting
+Event / Task
+Distance
+Send scouts
+Stop the comitatus for...
+Odds
+Cost
+Source Location:
+Village
+Ruin
+Major Ruin
+Sunken Ruin
+Fort
+Major Fort
+Tower
+Quarry
+Point of Interest
+Oasis
+Town
+City
+Settled Oasis
+Harbor
+Encampment
+Mine
+Search...
+Time
+Entry Title...
+New Entry
+Objectives
+News
+Qualities
+Completed
+Failed
+Archived
+Ready
+Confirm
+Companion Select
+Companion Pool
+Auto fill
+Status
+Daily Upkeep
+Accrued Upkeep
+Rations
+Acquire Supplies
+End Day
+Assign Deputies
+Crew Change
+Heal
+Defense Orders
+Auto-acquire Supplies
+Price History
+Custom Notes
+Send
+Sorted
+Custom
+Full
+Difference
+Sort by:
+Display price:
+Price date
+Loyalty
+Deploy Companions
+Enemies
+Formation templates:
+Save
+Comitatus Log
+Combat Log
+Activate
+Deactivate
+Offered Cargo
+Your Items
+Offered Items
+Deal with the enemy
+Your Attributes
+Enemy Attributes
+Enslave
+Choose goal
+Give them time
+Pursue
+Stand down
+Auto offer
+Arm
+Fight
+Actions
+Kill them
+Move on
+Sack
+Ambush
+Potential Loot
+Potential Targets
+Warded
+None
+Active Action
+Companion Combat
+Aftermath
+Appeased
+Flee
+Sack Result
+Victory
+Defeat
+No offer
+Conscript
+Recruit
+Counts as kind
+Counts as cruel
+Counts as Malevolent
+Imprison
+Release
+Execute
+Goal
+Unknown
+Medkit
+Round
+Taken by the enemy
+Gained by your comitatus
+Units/Stack
+Nothing
+Lure Away
+Buy Off
+Very Low
+Low
+Moderate
+High
+Very High
+chance of success
+No effect
+Killed or wounded crew
+You
+Valuables Protected
+Crave FulFilled
+Defenders Kept Alive
+Defender Fled
+Attacker Retreated
+Attacker Disengaded
+Defender Surrendered
+Enemy Destroyed
+Critical fail
+Fail
+Success
+Critical Success
+Enemy
+Resistances
+vagrus
+vagri
+comitatus
+comitati

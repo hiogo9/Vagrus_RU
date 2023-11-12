@@ -1,0 +1,636 @@
+"*Lost Pilgrims Studio*
+
+Character and UI Art % Szonja Tóth
+Lead Writer, Narrative and Game Design % Gergely Mácsai
+Programming % Norbert Biri (Nobo)
+Programming % László Petrovánszki
+Programming % Viktor Majoros
+Programming % Benjámin Sólyom-Tisza
+Project Lead and Game Design % Gábor Szutorisz (Sztaszov)
+Quality Assurance % Csaba Opra-Szabó
+User Interface, Video, and Social Media % Ákos Porcsin
+
+*Main Contributors*
+
+Character and Environment Art % Bazsó Lossonczy
+Character and Environment Art % Attila G. Varga
+Environment Art % Péter Kovács
+Music % Humming Composer
+Narrative Designer % Iván Kemenes
+Narrative Designer % Robert James Pugsley
+Narrative Designer % Gábor Zeller
+Narrative Designer % Zoltán Demendy
+Narration % Charles H. W.
+Sound Editing and Effects % Gábor Szabó
+
+*Contributors*
+
+Additional Programming % Marcell Lesch 
+Additional Artwork % Tamás Z.
+Additional Artwork % János Kiss
+Additional Artwork % Zsolt Szabados
+Additional Artwork % Sándor D.
+Additional Quality Assurance % Viktor M.
+Additional Video Editing % Péter Makai
+
+*Our Principal Sponsors*
+
+Co-Sponsor % Emőke T. 
+% Julianna SzM.
+% Erika B-T.
+% Vera Sz. & Károly P.
+% István Cs.
+% Balázs B.
+% Bálint V.
+% Levente Sz.
+% Tamás F.
+% Szabolcs Zs.
+
+*Our Supporters via Patreon*
+
+Sponsor tier % Chauncey St John
+% Deviant
+Patron tier % Károly P.
+% Sage Pirotess
+Benefactor tier % Erika Macsai-Balog
+% Austin Anderson
+% Mason Dillon
+% Matei Opris
+% Peter Jeaiem
+% Péter Kiss
+% Péter László 
+% Solus
+% TheSpookyWarrior
+Long time patrons on other tiers % Ábel Szerepi
+% Anna Holló
+% Attila Kerekes
+% Csongor Szutorisz
+% Lukasz Cyran
+% Máté Nemes
+% Norbert Biri
+% Norman Földvári
+
+*Special Thanks To*
+
+% Atcsi | Maci
+% Dinó |  Nerg
+% Szabi | Balázs V.
+% Richard Cobbett
+% GoFig
+% CCCP (Dead in Vinland)
+% Dark Crystal Games (Encased)
+% Iron Tower Studio (Age of 
+% Decadence)
+% Muha Games (Thea I-II)
+% Poetic Studio (Sacred Fire)
+% Sharkbomb Studios (Nowhere Prophet)
+% Stoic Studio (The Banner Saga)
+% Worldwalker Games
+% (Wildermyth)
+
+*Creative Commons Sound Effects Licensed*
+
+Under Attribution 3
+'Whip' % Mike Koenig
+'Opening Casket' % Mike Koenig
+'Party Crowd' % Daniel Simion
+'Campfire1' % matucha
+
+Under Sampling Plus 1.0 
+'Psycho Scream' % FreqMan
+
+Under CC 0 (all rights waived)
+From Freesound.org % Zott820 | thefilmbakery
+% amoyssiadis | SilverIllusionist
+
+*Our Fig.co Campaign Supporters*
+
+Dread Reaver tier % Callum
+% Matthew T Campbell
+% Revek
+Grim Scavenger tier % Andrew Yeats
+% Ankur Butala
+% Brad Kirkwood
+% Christoph Licht
+% Chryseus Ensis
+% Devudu
+% Elliott Lansdown-Bridge
+% Glen 'Autobahn' Bucher
+% Hayden Basick
+% Inghalaz
+% Jared 'Cabrill' Bagley
+% Kreationko
+% Le Xander DeusNightFire
+% Martin Schuster
+% Pegana
+% Ralph G
+% Shard Halyard
+% Sharon Eun
+Dark Scout tier % AC Hawke
+% Adam Cowie
+% Adam Goeske
+% Aldilenn
+% Alloni Kramer
+% Amir Jonis
+% Annella_dawn99
+% Anthony Previtera 
+% Asymmetric
+% B Emord
+% Beau Moylan
+% Big Chungus
+% Blackjack Barret
+% Blaine 'Big Game' Atkinson
+% BourbonTrail
+% Chris Frazier 
+% Chris Pagano
+% Christian Otto
+% Damian Zaj
+% Dane Milne
+% Danejar
+% Daniel Ruiz 'TheBrightKing'
+% DarthTurk
+% Dragonus
+% Elaine Barlow
+% Flávio 'Flasa' Stresser
+% Grems
+% Hommel
+% Hubert (3mp0ri0)
+% Icepick Majere
+% Jan Holtrichter
+% Jason C. Dodge
+% JBJoyner
+% Jeff Davis
+% Jim Saartia
+% John Glindeman
+% Jordan Dubiel
+% Julien Maria
+% Kartan Arkus
+% Kasoroth
+% kormakrtv
+% Lavi O'matic
+% Mika und seine 3 Ms
+% Mythilt
+% Na-cia bell
+% Ommariuolo
+% Peter B. Frisman
+% Peter Jeaiem
+% Peter Szuromi
+% Piotr Kociubiński
+% Puppy\Pupps
+% Reddrake
+% Sean McPherson
+% ShelbyZ
+% Sienma
+% SilverishRibbon
+% Soeren Damnitz
+% Stephanos Antoniou
+% Steve Noel
+% Susie Patterson
+% Tatu Tikkanen
+% Thomas Tang
+% Tim 'Kal' Rawlins
+% Tim Aldridge
+% Tyrann O. Saurus
+% Unidentified Coward
+% Werewolf
+% Wholly Mindless
+% Xultun
+% Y. K. Lee
+Demonic Mercenary tier % A. Mak
+% A. R. Jackson
+% Abhilash Sarhadi
+% Abyssiel
+% Alan Barton (stylusnix)
+% Alek Sharma
+% Aleksandr Biriukov
+% Alexis Walker
+% Amanda Lea Erickson
+% BackgroundLogic
+% Balázs Géczi
+% Barzai The Wise
+% Bash Coder
+% Bjoernulf
+% Brian Edwards
+% Bryan Graham
+% Byron Callan
+% Callipygian
+% Chris 'CKinWoodstock' Knight
+% Christian Zarate
+% Christopher A Howland
+% Chupacabra
+% CL2X10
+% Clayton Riggins
+% Cpt_Flatbird
+% Dan Masters
+% David 'Murfdog' Murphy
+% Dominik Oshowski
+% Dr. N. Nicholls
+% Drakeeh
+% drnate29
+% Ed Sob
+% Eric Ross Smith
+% Falcon SilverWing
+% Francesca Ang
+% Franklin E. Powers, Jr.
+% FrazzzYT
+% Gannon Short
+% Guido Rößling
+% Haldor
+% Hank Heyming
+% ildorad
+% James Dyer
+% Jarad Shannon
+% Jeffrey L. Swaney
+% Jerker Måntelius
+% Jerod 'Redeye' Dunn
+% Jesper Musa
+% Joao de Oliveira
+% John Conibear
+% jsev
+% Jules in the sky
+% KAI YAN
+% Kenneth Kruse
+% Khartuin
+% Kris 'Joryl' Chambers
+% Kristian Kramer
+% Krzysztof Dabrzalski
+% Ksenia Zuy
+% Kuro Fin
+% Lan
+% Larry Lindenbaum
+% Lenurd the Joke Gnome
+% Lisa Homstad
+% Lollipop Soda
+% Lord_Nemchinov
+% Luke christmas
+% Mario Flagiello
+% Markus Laurila
+% Marnilo C
+% Matryoshka The Wanderer
+% Matthew John Hinz
+% Matthias
+% Maximilian Soucy
+% Mikael Johansson
+% Miquel Ramirez
+% Mitchell Stankowski
+% Mr. Slaught3r
+% MrHappy579
+% Neried
+% Nicolas Mignon 
+% Owen Delryn
+% Panfuricus
+% Patrick Dean
+% Patrick Dougherty
+% R.S. Robinson
+% RangerBoyADC
+% Robert Carnel
+% Robert Durant
+% Robert Masterson
+% Ruzsin Orsolya
+% Scar Glamour
+% Scott Aldinger
+% Scott Tooker
+% Shaun C Harvey
+% Steve Parmelee
+% Talcom
+% Theodore W. Wills
+% Thomas A. Byrd
+% Thomas Aeschbacher
+% Thomas Darlington
+% Thuffir Hawat
+% Tiberius Reign
+% Todd S.
+% TothAL
+% Tyrbeard
+% Václav 'Luckystroker' Švec
+% Vella M
+% Viktor Mácsai
+% Volker G.
+% Whitemane
+% Will Bunce
+% Wisdom-iCoP
+% Wolfsbrigadeur
+% Yaroslav Sklabinsky
+"
+"If you run into glitches, issues, or errors, please help us iron them out by sending 
+in reports using F1 or contacting us on our %discord%.
+
+*What’s Coming Next:*
+- Controller support /'beta'/ refinements
+- Obstacles in Companion Combat
+
+*Currently Known Issues (%version%):*
+- Escort tasks related anomalies
+- Crew combat chance percentages are sometimes shown in reverse
+
+If you enjoy the game and would like to support us to continue expanding and improving
+*Vagrus*, leaving a review on Steam\GOG is a great way to do that. Thanks in advance!"
+"<color=#d2a14d><align=center><b>DISCLAIMER</b></align></color>
+
+Vagrus is a game that involves a fair amount of reading if it is to be enjoyed and experienced as intended by the developers. It is also a difficult game with little hand-holding, where success is by no means guaranteed. You will probably lose everything several times before getting the hang of leading your traveling company.
+
+Vagrus is also a labor of love, created by a tiny team that dared dream big with the support of an amazing little community. We are extremely grateful to all those that helped us along the way with constructive criticism.
+
+
+<color=#d2a14d>Hold Space."
+"Manual saving is unavailable in the standalone story 'Pilgrims of the Wasteland'. The game saves your progress automatically each time you reach a checkpoint in the story, when leaving a settlement, and also at the start of every new in-game day.
+
+In the open-world main campaign, manual saving is available, except during combat and Events."
+"Thank you for playing 'Pilgrims of the Wasteland', 
+the introductory story to <color=#d2a14d>Vagrus - The Riven Realms!</color>"
+Conquer the Wasteland
+"At this point in the final game, you’ll be able to create your own <i>vagrus</i>  and set out to wander across  the forsaken continent of Xeryn to explore its farthest reaches and darkest secrets. That experience will be open-world like the second half of 'Pilgrims of the Wasteland' but on a much larger scale.
+That said, 'Pilgrims of the Wasteland' will also be updated and improved during our Open Access campaign at Fig. Look for upcoming milestones and content at <link=fig><color=#d2a14d>fig.co/vagrus</color></link>. So be sure to keep check on our progress at one of these links:
+
+<link=vagrus><color=#d2a14d>Vagrus.com</color></link>"
+
+Select game mode. This choice can not be altered later.
+This is the way Vagrus was intended to be played by the developers. The setting is a cruel, harsh, unforgiving place and so the game will not pull any punches. Expect a steep difficulty curve and little to no hand holding. Save often because you will probably run into dead ends and deaths from time to time.
+This game mode is tailored more towards a narrative experience. Combat, management, and almost all other aspects of gameplay are less challenging. The result is a smoother difficulty at the cost of alignment with the setting, causing a certain dissonance. Achievements are turned off in this mode.
+You have reached the end of the playable era. You can continue this playthrough but Achievements will become unavailable and the passing of time ceases to have an effect on characters, events, and stories.
+At least *%scouts% scouts* are required to initiate scouting.
+Not enough *MP* to initiate scouting.
+/Auto-Scouting is turned off. Scouts are not being sent forward to notify the comitatus about surrounding threats and opportunities./
+--/Missing translation./--
+The text in the game is machine translated, and it may not be the same quality as in English. Please consider this.
+This choice can not be altered later.
+Tasks unavailable until debt is paid
+All prices are shown for full stacks
+Buy Price shown for the partial stack available
+Buy Price shown for a full stack
+Sell Price shown for the partial stack you own
+Sell Price shown for a full stack
+No scouts harmed
+No foragers harmed
+near %node%
+Swap from %beast1% to %beast2% Beast type
+Swap not available.
+Not enough money
+Not enough Mounts to swap (%qty1% vs %qty2% in your comitatus)
+Not enough Beasts to swap (%qty1% vs %qty2% in your comitatus)
+Please log *typos/wording* flaws in our online tracker. Register using this button:
+"/The following information is automatically attached to your bug report. You do *NOT* need to specify these:/
+"
+%insight% Insight awarded for gaining %entries% new Codex entries
+%insight% Insight awarded for discovering %location%
+%equipment%' unmounted from '%slot%' due to Deputy changes
+%characters% lost Loyalty
+%characters% gained Loyalty
+%renown% Renown gained for increasing reputation with the faction '%faction%' to tier %tierLevel%
+%character% has succumbed to %charpronoun% wounds
+%amount% Outriders dismounted due to cargo space loss
+%icon% %amount% with %faction%
+Codex updated (%codexname%)
+Chart location revealed (%locationname%)
+"Journal updated (%questname%)
+"
+News refreshed (%sourcelocation%)
+Task completed %delivertime%: %icon%%reputationreward% with %faction%
+Task completed %delivertime%: %icon%%reputationreward% with %faction% and %icon%%reputationpenalty% with %opposingfaction%
+Task failed: %icon%%reputationpenalty% with %faction%
+%character% is no longer affected by %status%
+%character% healed from %wound1% to %wound2%
+%character% healed from %wound1%
+%deputy% unassigned due to Authority decrease
+Game saved automatically: %savefilename%
+Game saved manually
+You regain %icon%%debt% with %faction%
+You now owe %money% to %faction%
+You now owe an additional %money% to %faction% (%totaldebt% in total)
+%quantity% %property% due to %statustext%
+Rumor added (%rumortitle%)
+Quality added (%qualitytitle%)
+Quality changed (%qualitytitle%)
+%equipment% unmounted due to requirements not met.
+%curse% removed. The %achievement%, Defiant, and Vagrus Supreme achievements can no longer be unlocked.
+Manual save loaded. The '%achi%' achievement can no longer be unlocked.
+Some crew members are showing the signs of Black Rot.
+%casualties% died due to Black Rot.
+"%companion% lost %vitality% Vitality due to Black Rot
+"
+%scouts% %scouttext% died
+Your crew stands down following your order
+You used %RF% Resourcefulness to %resourcefulness% %target%
+DOT (%resisttype%) inflicts %damage% to %target%
+DOT (%resisttype%) drains %damage% from %target%
+%target% %value% due to %skill%
+%skill% inflicts %damage% to %target% (Crit: %random% to %test%)
+%skill% inflicts %damage% to %target% (Crit: %random% to %test%)
+%skill% %healing% on %target%
+%target% is affected by %effect% for %remain%
+%attacker% misses with %skill% (%random% to %test%)
+%attacker% misses with %skill% (%random% to %test%) against %target%
+%attacker% uses %skill% - Blocked by %target% (ACC %random1% to %test1% | BLC %random2% to %test2%)
+%attacker% uses %skill% - Evaded by %target% (ACC %random1% to %test1% | EVD %random2% to %test2%)
+%target% resists %resisttype% effect of %skill% (%random% to %test%)
+%target% fails %resisttype% resist against %skill% (%random% to %test%)
+%target% is immune to %immunetype% of %skill%
+%attacker% uses %skill% on %target% successfully (ACC %random1% to %test1% | BLC %random2% to %test2%)
+%attacker% uses %skill% on %target% successfully (ACC %random1% to %test1% | EVD %random2% to %test2%)
+%attacker% uses %skill% on %field% position
+%attacker% uses %skill%
+%skill% applies effect on %target% : %effectlist%
+%field% position is affected by %skill% for %remain%
+%field% position uses %skill% on %target%
+%target% is affected by %skill% on %field% position
+%skill% is applied on %target%
+%attacker% receives: %effectlist%
+%character% is Stunned
+%character% is Downed
+%character% begins %pronoun% turn
+%character% skips %pronoun% turn
+ROUND %round%
+You are defeated
+You are victorious
+%character% is Out of Action
+%character% is Downed
+%character% is awakened
+%character% moves to %field%
+%character% is forced to move to %field%
+%character% spawned in the %field% position
+%character% avoids being Downed due to Diehard (%random% to %test%)
+Diehard fails to protect %character% (%random% to %test%)
+%target% can't counter %skill% due to range
+Deploy maximum %max% Companion(s)
+%rf1% Resourcefulness (%rf2% as second action)
+%total% Items offered
+Consult the Price History feature for known market prices.
+%characters% cannot be deployed.
+%character% is pushed to %field% by %attacker%
+%attacker% pushes %character% into occupied %field% causing %damage%
+%character% already occupies a back field
+%character% is pulled from %field% by %attacker%
+%attacker% pulls %character% into occupied %field% causing %damage%
+%character% already occupies front field
+%characterFront% and %characterBack% were forced to switch places by %attacker%
+How many do you want to buy?
+How many do you want to sell?
+How many do you want to split?
+How many do you want to sacrifice?
+How many do you want to sacrifice?
+Liberate some or all of your slaves
+Discipline some or all of your slaves
+Butcher some or all of your mounts
+Butcher some of your beasts of burden
+This action will cause you to have excess cargo that you need to get rid of.
+The selected Gear is already equipped on another Companion. Are you sure you want to move it?
+Some passengers part ways thanking your services.
+Some passengers are removed from the /comitatus/.
+%delivername% %payment% %repu%
+Some passengers had enough of roaming around, and departed your /comitatus/.
+%delivername%  after %expires% days.
+Arming your slaves will raise your Combat Strength but reduce your slaves' Obedience slightly.
+Deploying your passengers raises your Combat Strength but they might become wounded, forfeiting their rewards upon delivery.
+‘Ah yes, a vagrus, what a profession! Daring and savvy, always watching the horizon, always looking for an opportunity, and of course, for what is best for his comitatus, eh? And you are a vagrus, too, are you not? Many of your kind I have seen in my long life as a vagabond. Care to listen to a story about your exquisite occupation, good master? It is a tale of woe and terror, but it is also a tale that is true, as I have seen it with mine own eyes.’
+‘Wise you are, good master. My tale is of a vagrus such as yourself, but one whose fate was cursed and wrought with ill-fortune. It all happened a long time ago, ten years, maybe more. I was but a passenger, traveling rough roads and forgotten ways with this comitatus, south along the feet of the great mountains of the West…’
+"I was among the few that survived that encounter with the Pilgrims but only because I wasn’t there - I fled the night before. Making my way to the town of Ash alone, I was feverish with terror. But at least I escaped with my life.'
+
+'Not a pretty story, eh? Yet it speaks so well of this land and the damned souls that journey through its forsaken reaches. Just like you, for that matter. Tell me, have you been long at it, good master? And where do you come from? It is not often that I can talk to one of your kind.'"
+Fair enough, good master, fair enough. You don’t want to hear tales of trusts betrayed and of bad decisions. (chuckles) It makes sense to me, with you also being a vagrus and all that. Tell me, have you been long at it? And where do you come from? It is not often that I can talk to one of your kind.'
+"Curious, curious. I am humbled to have made your acquaintance, good master. I am sure that many great adventures await you on your journeys.'
+
+'It was an honor talking to you, good master. But these old bones are aching and I must rest now, oh yes. Perhaps we will talk in the morning, perhaps we will. May the Gods guard your sleep.'"
+
+
+"*'Tell us your tale, old man. It'll at least help kill the time.'*
+   /(Play 'Pilgrims of the Wasteland')/"
+"*'We don't want any ghost stories, old-timer.'*
+   /(Skip 'Pilgrims of the Wasteland')/"
+"
+   Start 'Pilgrims of the Wasteland'"
+"
+   Create your vagrus"
+"
+   Continue"
+
+Your Background provides additional advantages and Perks.
+Your Calling determines additional starting Perks, possessions, and crew.
+Your Ambition determines how you win the game.
+
+Select your silhouette and confirm your name.
+Select the Race of your vagrus
+Select your Background
+Select your Calling
+Select your Ambition
+Allocate Perks using your starting Insight
+Select a portrait and name your vagrus
+"<i><b>Comitatus</b> (noun; pl - comitati)</i> - An armed traveling company. It usually carries cargo and passengers across the wastelands of the continent. It can get involved in a variety of jobs ranging from trading to mercenary work.
+
+<i><b>Vagrus</b> (noun; pl - vagri)</i> - A venturer, a vagabond, a captain. The leader of a <i>comitatus.</i>
+"
+"‘Nothing beside remains. Round the decay
+Of that colossal Wreck, boundless and bare
+The lone and level sands stretch far away.’
+               - from <i>Ozymandias</i> by Percy Bysshe Shelley (1818)
+"
+Sleep slowly but steadily begins to overwhelm you. Is it the late hour, the exhausting journey, or the mesmerizing voice of the old man? You faintly recall stumbling to your tent and crawling inside, then it is only darkness.
+You can not save during Events and\or Combat.
+Are you sure you want to delete this save?
+Save file already exists. Are you sure you want to overwrite?
+Yes, delete it
+No, keep it
+Yes, overwrite it
+Cancel
+"This key is already used for '%keytype%'. Do you want to assign
+it to this action? You will need to assign a new key to the
+overwritten action."
+Deputies can only be assigned during *camping*, in *settlements*, or by *spending resourcefulness*.
+You are about to accept a Task that involves the delivery of contraband. Once you take it, contraband becomes your responsibility, including getting it to its destination without alerting the authorities. Do you accept the Task?
+"Giving up a Task means that you will lose reputation with the faction that gave it to you and you might have to pay a fine for lost cargo.
+Reputation loss: %reputation% 
+Recompense: %money%
+Are you sure you want to give up the Task?"
+Faction Banner removed due to Standing lost with %faction%
+"No matter how harsh the wasteland is, no matter how cruel its vast expense proves, those that enter it with purpose and zest will see their journey to its end. So say the monks of Irafons, Saint of Roads, who graces all travelers with good fortune in his infinite wisdom and compassion.
+
+And so, after many trials and tribulations, the /vagrus/ and the /comitatus/ prevailed and accomplished what they set out to do. Mortals are gifted that way, having been granted the freedom to see their potential to fruition even in such unspeakable desolation as the ravaged Cradle of Man."
+What the /vagrus/ wanted was fame and recognition above all else. Elusive, transient things, often bitter as ash once achieved - but craved madly all the same. After arduous work, many adventures, and countless roads taken, fame and recognition came at last. Doors opened and opportunities were presented - Trading Houses, Imperial agents, Draconic emissaries, sorcerers, criminals, politicians, beggars, savages, and vagabonds all knew who the /vagrus/ was, and the deeds of the /comitatus/ lived on as stories for many years to come.
+What the /vagrus/ wanted was wealth and prosperity above all else. Temporary, vulnerable things, often more curse than boon, ultimately lost like dust in the wind - but craved madly all the same. But after arduous work, many adventures, and countless roads taken, wealth and prosperity did come. With the right assets and a stable venture, the /vagrus/ slowly forsook the road for the imagined security of an office and many sought employment at the budding enterprise. A /comitatus/ is a business venture, all things considered. And this one, well, this one was very successful.
+What the /vagrus/ wanted was knowledge and lore above all else. Fleeting, shifting things, forgotten by many and not believed by most - but craved madly all the same. And so after arduous work, many adventures, and countless roads taken, knowledge and lore were amassed to a grand extent. The /vagrus/ unveiled many secrets that promised dark wisdom. Where all this knowledge led, or if the /vagrus/ ever stopped the quest to learn more, nobody knows. Perhaps the journey ended abruptly in one of the forsaken ruins or out in the wasteland. But what the /vagrus/ left behind served as a source of knowledge for many inquisitive souls to come.
+The journeys the /vagrus/ has undertaken have touched and changed the lives of many - some for the better, others for the worse.
+Carrying out the will of the entity that wore the guise of the fallen High Praeceptor Lelitheassin, the /vagrus/ was eventually able to uncover the truth of the horror that beset the once proud denizens of the Tower of Akarius, vanquishing the emissary from beyond before it could manifest unspeakable horrors upon the Realms through the eldritch Star Garden. The /vagrus/ was thus burdened with one of the most coveted secrets of the Fourth Age, but it is unclear if those secrets were ever revealed to others. Even now, the Sunken Tower and its shifting marble halls remain, a place of knowledge and peril beyond the comprehension of all but a chosen few. None, however, would ever delve as deeply as the /vagrus/, no matter how carelessly they gave their lives in the pursuit of its treasures or secrets.
+"Fort Larius has always drawn lost souls who then preyed on others while rotting away among its crumbling walls. This decade saw the rise of a coterie of outlaws there, led by a bitter man who wanted to strike back at the Empire that spurned him.
+The /vagrus/ infiltrated these outlaws and sold them out to the Imperials who - once growing displeased by their interference - eliminated the malcontents. Fort Larius is a silent ruin again but one never knows for how long. These realms have lost souls in abundance."
+"Fort Larius has always drawn lost souls who then preyed on others while rotting away among its crumbling walls. This decade saw the rise of a coterie of outlaws there, led by a bitter man who wanted to strike back at the Empire that spurned him.
+The /vagrus/ joined these outlaws and drew the Imperials hunting the malcontents into a trap that saw their downfall. And so the Thirsty Maggots eke out a difficult existence in the no-man’s land that is Hargad Tuul, tolerated by the Dragons and scorned by the Imperials. For now."
+While investigating the eerie phenomena and strange disease plaguing Salum’s vicinity, the /comitatus/ uncovered the secret of the Great Machine below the salt lakebed. And even though the conspirators in control of the ancient contraption did their best to prevent it, the /vagrus/ escaped and revealed their dark secret to the Draconic wardens of the region. The Scythichnis Covenant retook control of the Great Machine in the end but its purpose, design, and even its future remain uncertain. Perhaps some secrets are better left buried and forgotten.
+They say that ignorance is bliss, and that often, knowing half the truth is more dangerous than not knowing anything at all. Certainly, this can not be truer than in the case of the Leviathan, whose dark origins the /comitatus/ began discovering in the employ of the researcher and rogue mage Kandake. But despite her boons and rewards, she was abandoned by the /vagrus/ when the dangers of her enterprise were revealed. Whatever happened to the obsessed mage and her mad venture into forbidden knowledge was lost to history but one can safely assume that she never reached her goal or found her coveted proof.
+They say that ignorance is bliss, and that often, knowing half the truth is more dangerous than not knowing anything at all. Certainly, this can not be truer than in the case of the Leviathan, whose dark origins the /comitatus/ began discovering in the employ of the researcher and rogue mage Kandake. The vagrus stood by the often eccentric scholar despite the dangers of the enterprise but could not save her when her ritual awakened the entity residing in those ancient bones. The spectacular failure of Kandake unleashed an evil into the Riven Realms that caused great peril in the years to follow, but nobody learned who was responsible for the calamity.
+They say that ignorance is bliss, and that often, knowing half the truth is more dangerous than not knowing anything at all. Certainly, this can not be truer than in the case of the Leviathan, whose dark origins the /comitatus/ began discovering in the employ of the researcher and rogue mage Kandake. The /vagrus/ stood by the often eccentric scholar despite the dangers of the enterprise and even saved her when the ritual awakened the entity residing in those ancient bones. Her eyes opened to the dark truth, Kandake finally gave up on her theory and turned her considerable intellect to nobler goals.
+The /vagrus/ was present at the feast where the young patrician Daneram Xevaris announced his intentions of entering the arena of Imperial politics in order to rekindle his ailing noble dynasty and guide the Empire toward a brighter future. Sadly, it turns out that there are many who would see these hopes snuffed out. The subsequent attempt on the young aristocrat’s life was ultimately thwarted by his allies, including the /vagrus/ and the Dread Reavers mercenaries. Forsaking his plans but alive at least, Daneram Xevaris went back into hiding.
+Shortly before the /vagrus/ began leading the /comitatus/ across the scorched wasteland of terra supra, the unceasing winds went mad following a foreboding set of inexplicable disasters. The gales from then on brought nightmares and insanity, furthering the chaos. This echo of the Calamity tore the Empire apart and bewildered simple folk and powerful leaders alike. But thanks in part to the diligent investigation of the /vagrus/, some of the mystery was unraveled. The source of discord was revealed to be Carravhon, the Howling City, its ancient confines infiltrated and defiled, its slumbering specters awakened to scream and whisper insanity into the wasteland winds. Those most invested in the investigation knew not when or if these phenomena would cease.
+"One of the greatest challenges that the inhabitants of the Searing Plains had to face was the sudden invasion of the Sand Wyrms. The vile abominations swarmed out of the desert in previously unseen numbers to fall upon everyone, marauding and slaying indiscriminately. The focal point of the battles became the distant town of Tectum Carvos and as fate or the Gods would have it, the /vagrus/ played a pivotal role in forging an unlikely alliance against the Wyrms.
+
+Once a decisive battle was won, the Wyrmslayers braved the Lost City of Vratluk, whence the burrowing horrors came, expecting to find answers to why and how the Sand Wyrms’ resurgence had occurred. There they discovered the great slumbering Chthonian, the progenitor of the Wyrms. The Sadirar shamans wrested control of the creature from its insane guardian and poisoned it so that it will not threaten future generations but in doing so, they destroyed any chance of studying it, learning where it came from and what its vast, ancient mind contained.
+"
+"One of the greatest challenges that the inhabitants of the Searing Plains had to face was the sudden invasion of the Sand Wyrms. The vile abominations swarmed out of the desert in previously unseen numbers to fall upon everyone, marauding and slaying indiscriminately. The focal point of the battles became the distant town of Tectum Carvos and as fate or the Gods would have it, the /vagrus/ played a pivotal role in forging an unlikely alliance against the Wyrms.
+
+Once a decisive battle was won, the Wyrmslayers braved the Lost City of Vratluk, whence the burrowing horrors came, expecting to find answers to why and how the Sand Wyrms’ resurgence had occurred. There they discovered the great slumbering Chthonian, the progenitor of the Wyrms. The Sadirar shamans wrested control of the creature from its insane guardian and vowed to guard it while studying its vast mind. Such undertakings are never without risks, however, and there is no telling if the Chthonian will threaten the Riven Realms ever again.
+"
+None were more affected by the /vagrus/ than the companions joining the comitatus on the road. Their fates intertwined with the venture, leading them to unexpected paths and opportunities.
+The Tainted mercenary Harvek was a cruel man but perhaps thanks to the time spent with the /comitatus/, he put his broken relationship with his estranged son back together. They parted amicably, with the hope of seeing each other again. It is said that they worked together, later on, father and son going on dangerous adventures in the wasteland.
+The Tainted mercenary Harvek was a cruel man and the time he spent traveling with the /vagrus/ did not thaw his cold heart. He took vengeance on those he deemed responsible for his long incarceration but in doing so, he sacrificed his relationship with his estranged son. It is said that he remained forever a loner, working only for the highest bidder until his untimely death. Live by the blade, die by the blade.
+The Dark Elven scout Renkailon had been searching for his courage for a long time and in his desperation, he hoped to find it at the end of a dark path. The /vagrus/ guided him away from it, however, and he forfeited the pursuit of Life Drain in the end. The newfound serenity suited Renkailon well, and he spent his remaining days traveling the world in the company of fellow wanderers.
+The Dark Elven scout Renkailon had been searching for his courage for a long time and in his desperation, he delved into darkness to find something that would fill the void. With the help of the /vagrus/, he unlocked the secrets of Life Drain. The price, however, was great, and Renkailon was no longer the Dark Elf wanderer he used to be, and so in time, he left the company of others altogether. Some say that he perished in obscurity. Others claim that he devolved into a true horror, a shadow, a hunter of the living.
+The Tainted bounty hunter Criftaa was forever haunted by her past that was drenched in violence, abuse, and fear. Although she was ashamed by the deeds her Imperial masters made her do, she kept her word and assassinated her targets with impunity. More than anything, this series of massacres locked her into a path that she walked in bitterness to the very end, never truly free, but always feared and renowned.
+The Tainted bounty hunter Criftaa was forever haunted by her past that was drenched in violence, abuse, and fear. When her Imperial masters sent her on a mission to assassinate Abolitionist cells and their leaders, she turned on her overseers and with the help of the /vagrus/, she finally liberated herself from servitude. They say that Criftaa disappeared soon afterward, living out her days in solitude, living off of hunting and trapping.
+Gor’Goro’s path crossed that of the /comitatus/ for a while, and the two of them rekindled the warrior’s love of the arena before the veteran Orc fighter got embroiled in the death of the last of his tribe. In the end, he rose above his doubts concerning his purpose thanks in part to the /vagrus/. Gor’Goro’s future brought more conflict but also renown and glory, eventually elevating him to fame rivaled only by legends of the past like Warleader Tor’Zag or Dra’Skarr Skullcrusher.
+"The Dwarven smuggler Garrik, always an opportunist, was successful in turning his ill fortune around with the aid of the /vagrus/. After he recovered his smuggling business, he kept on expanding it for many years to come. His journeys with the /comitatus/ had little effect on the Dwarf - he remained good old Garrik, mean and belligerent until one day, he tried to reach too far and grab too much.
+"
+The former diplomatic attaché and promising Dragonmage Finndurarth found companionship with the /comitatus/ by chance. Although she was considered naive and inexperienced by many, she was eventually successful in discovering a dark conspiracy as well as in laying the foundations of an alliance with the Oghres. She went above and beyond, revealing the true culprits behind the clandestine machinations, which sadly caused distress and distrust in her homeland. Years later, she took up the mantle of a Voice of the Dragonlord Doranmathar.
+The former diplomatic attaché and promising Dragonmage Finndurarth found companionship with the /comitatus/ by chance. Although she was considered naive and inexperienced by many, she was eventually successful in discovering a dark conspiracy as well as in laying the foundations of an alliance with the Oghres. In the end, she kept the identity of the true culprits to herself, hoping to prevent a schism between her homeland’s factions. Years later, she took up the mantle of a Voice of the Dragonlord Doranmathar.
+The ruthlessness of the sorceress Nedir kept her grabbing for more magical power throughout the years. When the /vagrus/ met her, she was being hunted by a Demonic entity due to her recklessness involving the arcane and it was only with the help of the /comitatus/ that she could break the curse. True to herself, she imprisoned the entity and used its essence to bolster her own power. It is said that she learned much and used many people to have her way but in the end, her ambitions and cruelty cost her everything.
+The former kingpin and marauder Skornar came to realize soon after he joined the company of the /vagrus/ that his years on the continent, so far away from his homeland, were coming to an end. Nothing was the same anymore. While traveling with the /comitatus/, he found his cousin a broken man and decided to take him home, however unlikely the success of such a venture might be. They set sail in a boat they had built but whether or not they made it, nobody knows.
+Eylani, the Half-Elven wanderer, joined forces with the /vagrus/ when they pledged themselves to the defense of Tectum Carvos against the invasion of the resurgent Sand Wyrms. Once the crisis was averted, she ended up finding out that her husband had been unfaithful. Disheartened by learning the truth, Eylani wished to abandon him but the /vagrus/ convinced her to forgive the man and to start anew.
+Eylani, the Half-Elven wanderer joined forces with the /vagrus/ when they pledged themselves to the defense of Tectum Carvos against the invasion of the resurgent Sand Wyrms. Once the crisis was averted, she ended up finding out that her husband had been unfaithful. Disheartened by learning the truth and encouraged by the /vagrus/, she decided to leave that selfish man and start a new chapter in her life.
+As for Vorax, his travels alongside the /vagrus/ ended up being a journey of self-discovery. Upon learning of his dark past and of the tragedy he caused, the Undead chef decided to make things right as much as he could so long after the fact. In the end, he broke the curse that bound him and his unfortunate victims to a deathless existence and was free to decide his own fate. Some say that Vorax then disappeared, others that he went on fantastic journeys across the Realms.
+There were more, of course, people whose lives or fortunes changed due to the deeds of the /comitatus/. And what was the ultimate fate of the /vagrus/? Well, as they say, the journey never truly ends.
+Save often. Vagrus is a difficult game and sometimes bad decisions can have delayed consequences.
+Taking Trade Tasks in settlements is the best way to gain a baseline income when starting out.
+Giving gifts to your Companions can go a long way in reconciling them with a /vagrus/ that makes choices they do not approve of.
+Butchering a Beast of Burden can save your life when you run out of Supplies while traversing one of the many desolate landscapes of the Riven Realms.
+You can not Hunt on roads, only Forage, albeit with reduced efficiency.
+Gaining Reputation with a Faction reduces your Reputation with their enemy factions.
+Higher Faction Standing can unlock new options, opportunities, rewards, stories, and quests in places you have already visited.
+Higher Perk levels can unlock hidden options in Events and Settlements.
+Allowing your /comitatus/ to grow too large too quickly can have serious delayed consequences, usually related to Consumption.
+It is better to pack more Supplies for a journey than to run out of them in the wastelands.
+Downsizing your /comitatus/ can be very useful, especially when striking out to explore new regions, or when trying to bounce back from a dire financial predicament.
+Workers allow you to Forage with more efficiency while Scouts enable you to Hunt. These can provide a constant influx of free Supplies.
+Keep an eye on your Obedience if you own slaves, as a low value can sabotage your /comitatus/ in sudden and unexpected ways.
+Keeping a high Morale will grant your /comitatus/ constant, useful bonuses for world map movement and crew combat statistics.
+If you have a few Movement Points when striking camp, Hunting and Foraging costs no Vigor.
+Exploration is the key to your success: it opens up new trade opportunities, services, and quests. Do not settle on a location but strike out once you have the means and discover more of the Riven Realms.
+You can try to avoid Crew Combat encounters that are too difficult by using the Flee\Buy Off\Lure Away buttons. The latter two only work with certain enemy types and allow you to get away more successfully.
+Learning new Leadership Perks with your /vagrus/ allows you to spend your Resourcefulness in new and useful ways every in-game day.
+Insight can be spent on your /vagrus/ as well as your Companions. Be wary though, as upgrades are mostly final and Insight is difficult to come by.
+By assigning Deputies, you can attain strong bonuses and abilities. Your Authority limits how many Deputies can be assigned at the same time.
+Venture off the beaten path from time to time. More interesting things can be found out there.
+You can use the Chart to get a rough estimate on travel times by clicking on a point of interest. The estimate will be indicated on the bottom left.
+Every tenth unlocked Codex entry awards you Insight.
+Attribute and Profession levels are the most common to provide bonuses on Tests.
+Resting in settlements can be a good way to boost your Morale and Vigor if you can pay for better recreational activities.
+You can find specialized merchants all around the Realms who will buy and sell specific (often rare) wares at great prices.
+Take your time to overview the camping screen in order to toggle rations, healing, and wages. These can make a large difference in the long run to balance your /comitatus/.
+Insight is awarded for discovering regions and locations for the first time.
+Not all settlements are equipped or stocked to serve larger /comitati/. Bringing extra rations for backwater areas may be necessary at times.
+Your Companions heal over time, so you want to avoid frequent combat encounters. Using Medical Supplies while resting and investing in the Heal Perk improve their healing rate.
+Sometimes withholding wounded Companions from a fight is the wise thing to do.
+Forcing melee-focused opponents to the back line in Companion Combat steals their chances to deal damage to your Companions.
+Using Forced March points can be useful when you are rushing to a settlement before your /comitatus/ collapses but use it sparingly - overdoing it can have serious consequences.
+Market prices update over time as well as whenever you discover a new settlement. Make sure to check them regularly on the price history.
+Check on the passenger tab in settlements before leaving - some passengers might be interested in hiring you to take them to their chosen destination.
+Passengers consume Supplies. Only take on passengers whose destination is along the way you are traveling. Trying to make a living solely by delivering passengers is a sure way to go bankrupt.
+Your Journal is a great tool to track storylines, Rumors, Passengers, and Tasks. Use it often to remind yourself of your active objectives.
+Tasks have a time limit - completing them early grants you a Reputation and reward boost but doing so late reduces the rewards and can even fail the Task.
+Pilgrims of the Wasteland' is a story with a fixed protagonist and a more controlled narrative. It does not have to be completed before the open-world part, so feel free to skip it if you are more interested in freedom of choice and creating your own character. You can go back to it later.
+Bounties, Tasks, Passengers and most other avenues of profit are rarely sufficient to keep your /comitatus/ afloat by themselves. Try to combine trading routes with such other activities or plan routes around such tasks.
+All Deputies unlock a specific Equipment slot for your /comitatus/ when assigned to their positions.
+You can enter Companion Combat while fighting a Crew Combat encounter and choose to face the foe's leaders or regular fighters. Getting rid of fighters this way removes them from the subsequent Crew Combat while winning this combat provides additional advantages.
+Market prices on goods are dynamic - by buying or selling a large amount of a certain item, you move the prices accordingly. For this reason, it is generally more beneficial to trade in a combination of goods than a single one in bulk.
+Different beast types have different advantages and disadvantages for both Mounts as well as Beasts of Burden, including their price. Consider which type suits your playstyle best.
+Once you encounter a Faction, you can consult its pane under the Leader UI to see the benefits (or penalties) of your current standing with them, identify their allies and adversaries, as well as the locations where they have a prominent presence.
+The market price history tool next to your chart can be used to gain essential trading information. Use it often if you are looking for good trade opportunities.
+Common Undead tend to be stubborn opponents - having no mind of their own - so only take them on in combat if you believe you can defeat them decisively because it is unlikely that they will relent.
+If you enjoy the game and would like to support us to continue expanding and improving *Vagrus*, leaving a review on Steam\GOG is a great way to do that. Thanks in advance!
+Usually, your /vagrus/ is aided by all the available Companions during Tests in Events but some Tests only involve a select group or just the /vagrus/. Therefore, it behooves you to be mindful of everyone's Perks if you want to succeed at Tests.

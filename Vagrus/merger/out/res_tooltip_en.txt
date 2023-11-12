@@ -1,0 +1,781 @@
+Description
+Живучесть (ЖИВ) — это то, сколько урона может выдержать персонаж. При её истощении спутники терпит поражение на поле боя, однако, большинство врагов в той же ситуации сразу погибают.
+Сила (СИЛ) используется определёнными умениями. Эти умения можно использовать только в том случае, если у персонажа достаточно СИЛ, чтобы активировать их.
+Уклонение (УКЛ) - это режим защиты, который позволяет защищающемуся полностью избежать повреждений и эффектов от атаки. Некоторые атаки частично или полностью игнорируют уклонение. Успешное уклонение перемещает защитника на случайную соседнюю позицию.
+Броня (БРН) вычитается из урона, когда боец получает удар. Некоторые атаки игнорируют часть или всю броню.
+Действия (ДСТ) - это количество раз, когда боец делает свой ход в раунде. Последующие ходы делаются после того, как все первые ходы сделаны каждым бойцом.
+Твёрдость (ТВР) вычитается из урона при столкновении с препятствием. Некоторые атаки игнорируют часть твёрдости.
+Прочность (ПРЧ) - это то, сколько повреждений может выдержать препятствие до разрушения.
+*Пропустите активный ход и восполните 2 силы.*
+*Открыть лист персонажа*
+"*Change Defense Mode*
+Current Defense Mode: Evade"
+Ожидаемый урон - это степень потери ЖИВ, которую нанесёт выбранное умение при попадании в цель. Смягчение и предотвращение урона не рассчитывается.
+Точность (ТЧН) - это шанс того, что умение успешно попадёт в цель. Защиты проверяются после попадания в цель.
+Шанс критического попадания (КРТ) - это шанс нанести критическое попадание с помощью умения. Критические попадания наносят х1,5 урона.
+Инициатива (ИНИ) определяет, в каком порядке персонажи получают свой ход в раунде. Более высокая ИНИ означает, что персонаж, скорее всего, будет действовать быстрее.
+Потерпев поражение на поле боя, спутник получает немного живучести, но если и эти очки живучести закончатся, то спутник выбывает из строя.
+Количество ЖИВ, которое персонаж восстанавливает каждый раунд.
+Блок (БЛК) - это режим защиты, который предоставляет защитнику дополнительную БРН против текущей атаки. Некоторые атаки игнорируют часть или весь Блок.
+Количество СИЛ, которое персонаж восстанавливает каждый раунд.
+Сколько монет нужно платить спутнику ежедневно.
+%CharacterName% ИНИ %INI% + %RandomINI% за раунд
+Шанс противостоять эффектам оглушения и обездвиживания.
+Шанс противостоять урону от кровотечения в течение определённого времени.
+Снижение урона от урона холодом и шанс сопротивляться урону холодом в течение долгого времени.
+Уменьшение урона от Ментального урона и шанс сопротивляться Ментальному урону в течение времени, а также Ментальным эффектам.
+Снижение урона от урона огнём и шанс сопротивляться урону огнём в течение времени.
+Снижение урона от энергетического урона и шанс противостоять магическому урону с течением времени, а также магическим эффектам.
+Шанс сопротивляться урону от яда в течение долгого времени.
+Снижение урона от попадания молнии и повышение шанса сопротивляться урону от молнии с течением времени.
+"**Aid**
+Bring a Companion back from Downed state.
+%cost% Resourcefulness"
+"**Empower**
+Give POW to a Companion.
+1 POW \ %cost% Resourcefulness"
+"**Inspire**
+Boost the defenses of a Companion for 3 Rounds.
+%cost% Resourcefulness"
+"**Prepare**
+Boost the INI of a Companion for the current Round. The Companion moves ahead in the INI order instantly.
+Maximum %useage% per Round.
+%cost% Resourcefulness"
+"**Resourcefulness**
+%max% \ %current%"
+Назначайте заместителей вне лагеря и поселений.
+Не может быть использован в течение (дней): %remainingdays%
+Стоимость: %cost% находчивости
+Вы можете добавлять только %entries% записей для каждой точки интереса.
+**Главное меню** (F10)
+"**Combat Objectives**
+/not available/"
+"**Retreat**
+/not available/"
+Деньги, которые вы должны платить своему экипажу каждый день.
+%name%
+Люди, которых вы согласились доставить к месту назначения.
+The measure of how many supplies your /comitatus/ consumes each day with standard rations.
+Общая сумма вашего долга перед экипажем.
+"Add Outrider
+/Requires 1 Mount and 1 Fighter./"
+"Subtract Outrider
+/Adds 1 Mount and 1 Fighter./"
+"Sort Cargo
+/Merges stacks and moves the same goods together./"
+"**Prowess**
+The Companion's level of experience and skill (1-9).
+/Click to upgrade Companion./"
+Переключение внешнего вида и фонового отображения
+"The loyalty of your companion to the /comitatus/ and you in particular. Your choices and actions influence this standing but each companion likes and dislikes different things. Talk to them to find out more. Better Loyalty can open up new story options with your companion, while low Loyalty can lead to them abandon the crew eventually. Levels of Loyalty are as follows:
+3 - Amicable
+2 - Friendly
+1 - Congenial
+0 - Neutral
+-1 - Disgruntled
+-2 - Resentful"
+**Кодекс** (%hotkey%)
+**Вагрус** (%hotkey%)
+**Журнал** (%hotkey%)
+**Карта** (%hotkey%)
+**Журнал комитата** (%hotkey%)
+**Glossary** (%hotkey%)
+*Движение*
+*Марш*
+*Разбить лагерь*
+*Быстро развёрнутый лагерь*
+*Разведка*
+*Добыть припасы*
+*Войти*
+"*Explore*
+Look for events and encounters on this Node.
+Cost: %MP% MPs"
+"*Explore*
+Look for events and encounters on this Node.
+Cost: %MP% MPs
+/Unavailable: You do have not enough MP./"
+Затраты ОД
+Затраты ОД марша
+Отображает все изменения в экипаже, произошедшие в текущий день.
+"End current day.
+/Consumption, payments, and defense orders are applied. MP and Resourcefulness replenish at the beginning of the next day./"
+"Feed %rations%% rations to the /comitatus/ at the end of the day.
+Consumption: %consumption%
+You have %supply% supplies."
+Оплатите весь свой долг перед вашим экипажем в конце дня, включая то, что вы предлагаете за текущий день.
+Предложите своему экипажу нормальную заработную плату за текущий день.
+Отрыть окно Отдыха в поселении
+Исцелить спутников
+Поговорите со спутником
+Выйти из поселения (%hotkey%)
+История (%hotkey%)
+Рынок (%hotkey%)
+Мансио (%hotkey%)
+Фракции (%hotkey%)
+Вне зоны досягаемости с имеющимися ОД
+"*[red]VIT %vit% \ %maxvit%[]*
+*[yellow]POW %pow% \ %maxpow%[]*"
+"End current day.
+/Consumption, payments, and recreation choices are applied. MP and Resourcefulness replenish at the beginning of the next day./"
+Живучесть
+Уклониться
+Блок
+Сила
+Броня
+Действия
+Ожидаемый урон
+Точность
+Шанс критического попадания
+"*Change Defense Mode*
+Current Defense Mode: Block"
+Предложите своему экипажу двойную заработную плату за текущий день (повышает моральный дух).
+Отложить оплату. К накопленной сумме будет добавлен ваш долг, включая то, что вы предлагаете за текущий день.
+Исцелить спутников
+Текущий режим защиты: Уклонение
+Текущий режим защиты: Блок
+История выравнена
+История выверена
+%value% %name% требуется
+Требуется менее %value% %name%
+Спутник: требуется %name%
+Спутник: %name% не может присутствовать
+Требуется навык: %name% (%level%)
+Меньше, чем навык: %name% (%level%) требуется
+%character% requires %name% (%level%)
+%character% requires lower than %name% (%level%)
+Пассажир: требуется %name%
+Пассажир: %name% не может присутствовать
+Товары: %name% (%value%) требуется
+Товары: %name% меньше, чем (%value%) требуется
+"Item: %name% fewer than (%value%) required
+"
+"Item: %name% (%value%) required
+"
+Average price of own stock: %price%
+%value% %name% требуется (у вас есть %count%)
+максимум %max1% - %max2%
+Доступно: Ежедневно
+Доступно: Каждые %freq% дней
+Требуется меньше %value% %name% (у вас есть %count%)
+История приведена в соответствие (%level1name%)
+Требуется продвижение по сюжету (%level1name%)
+unused
+Качество: %name%
+Без качества: %name%
+История продвинулась дальше (%level1name%)
+Завершить изменения
+Сброс изменений
+Заместители
+Спутники
+Качество: %name% (Необходимо %value% или больше. У вас есть %valueplayer%).
+Качество: %name% (Необходимо %value% или меньше. У вас есть %valueplayer%).
+Механизм: %name% должен принадлежать
+Механизм: %name% не может принадлежать
+Снаряжение: %name% должно быть в собственности
+Снаряжение: %name% нельзя приобрести
+"%value% have passed since journey's beginning
+"
+Обещана двойная оплата
+You can only assign deputies during camp or rest, or by spending resourcefulness.
+%value% Необходимые пайки
+Меньше, чем %value% требуемых пайков
+Запись Кодекса: %name% не может быть разблокирована
+Запись в кодексе: требуется %name%
+Ваша раса должна быть %name%
+Ваше призвание не может быть %name%
+Ваше призвание должно быть %name%
+Ваша предыстория должна быть %name%
+Ваши стремление не может быть %name%
+Ваша стремление должно быть %name%
+Ваша раса не может быть %name%
+Доступно: каждые %freq% - %freq2% дней
+unused
+unused
+Товары: Требуется случайный (%value%)
+Недостаточно товаров в вашем багаже
+Не менее %value% спутников
+Меньше чем %value% спутников
+Не менее %value% спутников
+Меньше чем %value% спутников
+"*Boost Skill*: Use a Combat Skill at its next tier.
+/Clicking this changes the Skills for this character to their next tier versions. Use the Skills normally afterwards. Clicking the button again cancels Boost./
+%cost% Resourcefulness"
+Увеличение максимальной находчивости (%resourcefulnesscost%)
+"*Click*: Buy 1 increment
+*Shift+Click*: Buy 1 stack
+To Buy a specific amount *Shift+Click* on the good's *icon*."
+"*Click*: Sell 1 increment
+*Shift+Click*: Sell 1 stack
+To Sell a specific amount *Shift+Click* on the good's *icon*."
+"*Click*: Remove 1 increment
+*Shift+Click*: Remove 1 stack"
+"*Click*: Add 1 increment
+*Shift+Click*: Add 1 stack"
+Установите значение на минимум.
+Установите максимальное доступное значение.
+Показать все товары
+"Increase your standing to gain access to this Faction Offer. 
+Faction Offer Tiers are dependent on your standing with the given Faction and their specializations. Trading Houses typically have higher tier Faction Offers
+available, while Churches and Criminal organizations only give access to their faction reserves."
+"*Locked*
+/Appropriate Leadership Perk is required to unlock./"
+Недостаточно *находчивости*.
+Нет доступной цели.
+Просмотр соответствующих записей Кодекса (если они уже разблокированы).
+Отмеченные места остаются видимыми независимо от масштаба карты.
+Недостаточно *%prop%*
+Этот спутник *должен* быть размещён.
+Этот спутник был размещён.
+Этот спутник заблокирован на своей позиции на поле боя.
+Этот спутник ранен, но доступен для размещения.
+Этот спутник смертельно ранен и не может быть размещён.
+Этот спутник недоступен для размещения.
+Недостаточно проницательности для повышения мастерства.
+Вам нужно пройти историю этого спутника, чтобы открыть следующий уровень мастерства.
+Максимальное мастерство уже достигнуто.
+"You can not afford to rest in the mansio.
+/Leave the settlement to camp outside or get %money% to pay for the mansio./"
+Лидерские действия на данный момент отключены.
+Вы не можете использовать это снова до следующего раунда.
+Не может повышать умение дальше.
+Не %name% %value%
+%name% %value%
+Слухи: %name%
+Неизвестный слух: %name%
+Не %name% %value%
+%name% %value%
+Нет новостей от %node%
+Новости от %node%
+%status%
+Не %status%
+%character% не имеет %status%
+%character% имеет %status%
+%name% повреждён, ранен или тяжело ранен
+%name% не повреждён, ранен или тяжело ранен
+%name% - %healthstatus%
+%name% не является %healthstatus%
+Only allowed %maxtrigger% times
+Этот спутник доступен для размещения.
+Повышает шанс успешной разведки в этом направлении. Затрачивает 1 *находчивость*.
+"Indicates if you have an assigned Scout Master. You can assign Deputies on the Deputy pane.
+An assigned Scout Master provides the following bonuses:
+- One additional direction without Resourcefulness cost
+- Raises Critical Success chance
+- Lower Critical Failure change"
+Обновляйте новости из этого места и делитесь своими новостями за монеты.
+/Истекает через %days% дней./
+Display scouting results.
+Guarantee scouting success in this category by spending two resourcefulness.
+Scout directly in front of the /comitatus/’ current trajectory.
+Scout all adjacent nodes connected to the /comitatus/’ current trajectory.
+Set conditions relating to hunting and foraging that stop the /comitatus/.
+Set conditions relating to combat encounters that stop the /comitatus/.
+Set conditions relating to ventures (events or tasks) that stop the /comitatus/.
+Set %stopcriteria% criteria for stopping the /comitatus/.
+У вас уже есть последние местные новости и ничем новым не поделятся.
+"Send your scouts in the chosen directions.
+/You can not change your orders afterwards but you may send them again./"
+Недостаточно *находчивости* или *очков движения* или *разведчиков* для выполнения этого действия.
+"Return to the campaign map.
+Clicking the *Eye* icon reopens Scouting results where you can send out your scouts again."
+"Each additional direction after the first (with Scout Master: after the second) costs *Resourcefulness*. 
+Boosting the chance of a success also cost one *Resourcefulness* per direction."
+Стоимость *Очков движения* разведчика равна направлению с наибольшей стоимостью ОД.
+Отправить ещё одного разведчика в этом направлении.
+Вероятность того, что событие произойдет на этом узле, равна %chance%.
+В этом направлении вы найдёте что-то связанное с историей.
+Вы можете снова отправить своих разведчиков в надежде на лучший результат.
+Недостаточно *Разведчиков* или *ОД* для выполнения этого действия.
+Здесь поджидают враги.
+Отправьте хотя бы одного *разведчика* в этом направлении, чтобы увеличить шансы на успех.
+"Each additional direction after the first (with Scout Master: after the second) costs *Resourcefulness*. 
+Boosting the chance of a success also cost one *Resourcefulness* per direction."
+Стоимость *Очков движения* разведчика равна направлению с наибольшей стоимостью ОД.
+"*Critical Fail* chance 
+/Lose one or more of your scouts sent in this direction in case of a *Critical Fail*./"
+"*Critical Success* chance
+/Receive exact information about the node you were Scouting in case of *Critical Success*./"
+"*Success* chance
+/Receive reliable information about the node you were Scouting in case of *Success*./"
+"*Fail* chance
+/May lose one or more scouts sent in this direction in case of a *Fail*./"
+Отправить в этом направлении на одного разведчика меньше.
+Недостаточно *находчивости* для выполнения этого действия.
+У вас недостаточно разведчиков, чтобы увеличить пройденное расстояние.
+You do not have enough movement points to increase the distance covered.
+История в согласовании.
+История в согласовании.
+Скоро будет
+Не менее %value% спутников
+Меньше чем %value% спутников
+"Discipline one or more of your slaves to gain Obedience. /Note that disciplining your slaves has a diminishing return and may have the opposite effect on Obedience./
+/ Costs no MP if you are already camping./"
+"Liberate one or more of your slaves to gain Obedience. Liberated slaves become workers.  / Note that the Obedience gain has a diminishing return./
+/ Costs no MP if you are already camping./"
+Убейте одного или нескольких ездовых зверей, чтобы получить припасы. /Грузоподъемность будет снижена./
+Забейте одного или нескольких ваших вьючных зверей, чтобы получить припасы. /Вместимость груза значительно снизится/.
+Ваше происхождение не может быть %name%
+Посмотрите, чем закончится этот бой.
+Попробуйте убежать от столкновения. Вы можете увеличить свои шансы, предложив противнику то, что он хочет.
+Пока не доступно
+Выдвигайте требования в обмен на то, чтобы отпустить врага. Чем больше вы потребуете, тем меньше вероятность того, что они согласятся без боя.
+Пока не доступно
+Двигайтесь дальше, оставив встречу без ссоры.
+Вы можете выбрать этот вариант, только если вы - Нападающий и встреча не была инициирована Событием.
+Сразитесь с врагом в кровопролитной битве.
+У вас нет экипажа, который бы боролся за вас.
+Лечить раненых после боя.
+Вы должны выбрать хотя бы одну боевую группу, которая будет сражаться за вас.
+Преследуйте врага.
+Вы должны выбрать хотя бы одну боевую группу, которая будет сражаться за вас.
+Сразитесь с врагом в кровопролитной битве.
+Пока недоступно.
+У вас нет свободного времени для исцеления.
+Потратить %Tweak.StopForHealMoveCost% ОД, чтобы увеличить шансы на успешное исцеление вашего экипажа. Не требует ОД, если вы уже находитесь в лагере.
+Не хватает находчивости.
+Потратьте %Tweak.HealResourcefulnessCost% находчивости, чтобы увеличить шансы на успешное исцеление вашего экипажа. Не расходует находчивость, если вы уже находитесь в лагере.
+Вооружение рабов повышает их боевую мощь, но снижает послушание.
+У вас нет Пассажиров, которые могли бы сражаться.
+У вас нет рабов, которых можно было бы вооружить.
+Размещение ваших пассажиров в бою повышает вашу боевую мощь, но они могут быть ранены, что приведёт к потере награды после их доставки.
+Выберите расу вашего персонажа.
+Ваше происхождение даёт дополнительные преимущества и навыки.
+Ваше стремление определяет, как вы выиграете игру.
+Ваше призвание определяет дополнительные стартовые навыки, имущество и экипаж.
+Пока недоступно. Появится в будущем выпуске.
+Select your silhouette and confirm your name.
+Allocate Perks using your starting Insight
+Недоступно для выбранной расы.
+Мужчина; Женщина; Любой пол
+You need to own the '%dlc%' DLC to select this.
+У вас есть несохранённые изменения.
+Предыдущий этап.
+Выберите портрет.
+Потратьте все очки проницательности, чтобы продвинуться вперёд.
+Сброс навыков.
+Подтвердите свой выбор.
+Никаких изменений при сбросе.
+VagrusCreateGenerateName
+Возврат
+Недостаточно проницательности (%authoritycost%)
+Увеличение авторитета (%authoritycost%)
+Недостаточно проницательности (%resourcefulnesscost%)
+Нет увеличения для возврата
+Возврат
+Нет увеличения для возврата
+Введите имя, прежде чем продолжить.
+Никаких изменений для сброса
+Нет изменений для завершения
+Неактивный
+Неактивный
+Не удается закрыть. Следуйте руководству, чтобы продолжить работу.
+Закрыть
+Пока недоступно.
+Здесь перечислены активные статусные эффекты.
+Пока недоступно.
+Информацию о фракции можно посмотреть здесь.
+Пока недоступно.
+Здесь можно найти краткое описание навыков (от вашего персонажа, спутников, снаряжения, механизмов, статусных эффектов и т.д.).
+Неполноценный
+Здесь перечислены навыки вашего персонажа.
+"**Offered Deal**
+Sell %qty% %name% %stack% for %money%
+/You own: %actqty%/
+%guestimate%"
+"**Offered Deal**
+Buy %qty% %name% %stack% for %money%
+/You own: %actqty% %cargospace%/
+%guestimate%"
+Заместитель %name% не может быть назначен.
+Должен быть назначен заместитель %name%.
+"Prowess indicates how powerful and experienced the Companion is. 
+Each time their Prowess is raised, they gain Proficiency points you can spend on improving them. 
+/To unlock Prowess levels 4, 6, and 8, you need to progress the Companion's storyline to a certain point. Prowess is capped at 3 in 'Pilgrims of the Wasteland'./"
+Tooltips.LeaderBackDisabledButton
+Вернуться к сводке фракций
+Известное место
+Неизведанное место
+Неизвестная фракция
+"Use Encourage to raise Morale by %effect%.
+/Costs %rf% Resourcefulness and can be done every %freq% days./"
+Заблокировать настройки
+Заблокировать настройки
+"Toggle Medical Supplies
+/Medical Supplies will be used for healing, raising healing chances and effectiveness but there is a chance to lose Medical Supplies./"
+Заблокировать настройки
+Отключить результаты лечения
+Disable Hunting and Foraging Results.
+"Claim Reward
+"
+Недоступно
+Эффект восстановления
+"Send out your scouts to hunt. They can return with Supplies and sometimes other goods as well.
+Results depend on the Hunting Roll.
+/Critical Success - Supplies gained multiplied
+Success - Supplies gained
+Failure - Fewer Supplies gained
+Critical Failure - Might lose Scouts and Vigor/"
+"Send out your workers to forage. They can return with Supplies and sometimes other goods as well.
+Results depend on the Foraging Roll.
+/Critical Success - Supplies gained multiplied
+Success - Supplies gained
+Failure - Fewer Supplies gained
+Critical Failure - Might lose Worker and Morale/"
+"Send out your slaves to forage. They can return with Supplies and sometimes other goods as well.
+Results depend on the Foraging Roll.
+/Critical Success - Supplies gained multiplied
+Success - Supplies gained
+Failure - Fewer Supplies gained
+Critical Failure - Might lose Slave and Obedience/"
+"Send out your workers to earn some coins working odd jobs. They might return with additional goods.
+Results depend on the Odd Jobs Roll.
+/Critical Success - Decent earnings
+Success - Mediocre earnings
+Failure - Poor earnings
+Critical Failure - Might lose Worker and Morale/
+"
+"Send out your slaves to earn some coins working odd jobs. They might return with additional goods.
+Results depend on the Odd Jobs Roll.
+/Critical Success - Decent earnings
+Success - Mediocre earnings
+Failure - Poor earnings
+Critical Failure - Might lose Slave and Obedience/"
+Пока нет в наличии.
+Вероятность боя экипажа на этом узле составляет %chance%.
+Пока нет в наличии.
+Вероятность того, что на этом узле ничего не произойдёт, равна %chance%.
+"*Acquire Supplies*
+Manual Supply Acquisition can override your auto-acquire settings."
+"*Auto-Acquire Supplies*
+Set conditions through which supplies are automatically acquired with Camp or Quick Camp. "
+"*Allow Vigor Use*
+Highlighting this will use 1 Vigor instead of 2 MP when no MP are available."
+Базовый шанс собирательства на этом узле равен %chance%.
+Базовый шанс охоты на этом узле составляет %chance%.
+"%qty% \ %currentmax%
+Cargo can never exceed 600 (30 slots),
+the absolute maximum."
+"Throw Out
+/Select and discard cargo goods to make room./"
+Уровни навыков, получаемые от /вагруса/ и связанных с ним статусных эффектов.
+Уровни навыков, полученные от снаряжения и статусных эффектов, применяемых к /комитату/.
+Уровни навыков, полученные от спутников, их снаряжения и связанных с ними статусных эффектов.
+"Click: Subtract 1 Lyrg
+Shift+Click: Subtract 1 Bross
+Ctrl+Click: Subtract 10 Bross"
+"Click: Add 1 Lyrg
+Shift+Click: Add 1 Bross
+Ctrl+Click: Add 10 Bross"
+Нет эффекта вычитания монет или монет не осталось.
+Нет дальнейшего эффекта от добавления большего количества монет или монет, которые можно было бы предложить.
+Сбросить ваше предложение.
+"Generate an offer that might satisfy the foe to allow a successful *Flee*. 
+This might not be the most optimal offer considering your /comitatus/' wealth and options."
+Сброс предложения недоступен.
+Сброс навыков и умений спутника
+Разбить лагерь
+Невозможность разбить лагерь
+Больше нет наездников, которых нужно спешить.
+Спешиться — разделяет наездника на воина и ездового зверя.
+Недостаточно зверей или бойцов для создания наездников.
+Создать наездника, посадив бойца на ездового зверя.
+/Невозможно переключить цель/
+Сменить цель
+Недостаточно морального духа и бодрости, чтобы преследовать врага.
+Пусть враг бежит.
+нет сведений
+Бойцы не могут оседлать зверей из-за засады.
+Наездники не могут спешиться из-за засады.
+"*Locked*
+/Appropriate Leadership Perk is required to unlock./"
+"**Command**
+Use to unlock advanced actions.
+%cost% Resourcefulness"
+Недостаточно *находчивости*.
+"Switch Stack Deals
+/While switched on, the +/- buttons add and distract full stacks./"
+Показать съестные припасы
+Отображать исходный материал
+Показать металлы
+Показать ремесленные товары
+"Switch Wholesale Deals
+/While switched on, the quantity selector always comes up when buying and selling./"
+/Пока нет в наличии./
+История цен
+"Discard the current Trade Tasks for a set of new ones using your sway with the factions. There is no guarantee that the new Tasks will be better.
+/Costs %rf% Resourcefulness and can be done every %freq% days./"
+Не может быть использован в течение (дней): %remainingdays%
+"Discard the current Mercenary Tasks for a set of new ones using your sway with the factions. There is no guarantee that the new Tasks will be better.
+/Costs %rf% Resourcefulness and can be done every %freq% days./"
+Не может быть использован в течение (дней): %remainingdays%
+"Discard the current Exploration Tasks for a set of new ones using your sway with the factions. There is no guarantee that the new Tasks will be better.
+/Costs %rf% Resourcefulness and can be done every %freq% days./"
+Пока недоступно.
+"Toggle Sorting by Faction, Task Level, and Reputation relevance.
+/Reputation relevance shows the Tasks that can be taken and grant reputation on top, then those that can be taken but grant no reputation, then the rest of the Tasks./"
+"Toggle filtering by Show All, Hide Claimed Tasks, and Show Available Only.
+/Show Available Only hides claimed Tasks as well as those you have not enough Faction Standing for./"
+Недостаточно *находчивости*.
+Недостаточно *находчивости*.
+Недостаточно *находчивости*.
+При выборе этого параметра на вкладках отображается разница в ценах по сравнению с прикреплённым (крайним левым) списком.
+Отсортировать историю цен по расстоянию от закреплённого места (крайнее левое). Расчёт расстояния до поселения идёт от самого близкого к самому дальнему (слева направо).
+Если этот параметр выбран, то можно сортировать историю расчётных цен по расстоянию, дате цены или имени.
+При выборе этого параметра на вкладках отображаются фактические цены.
+При выборе этой опции вы можете сохранить пять наборов списков истории цен, состоящих из пяти поселений.
+Сортировка истории цен по алфавитному порядку названий населённых пунктов.
+Сортировка истории цен по свежести информации о ценах, начиная с самой свежей истории цен слева.
+Отметьте населённый пункт на своей карте.
+Use your faction contacts to gain up-to-date price information from the settlement. Costs faction reputation. Can only be used if you have the required standing with at least one faction present in both your current location and the selected settlement.
+Can only be used if you have the required standing with at least one faction present in both your current location and the selected settlement.
+Невозможно отметить.
+Закрепите список истории цен поселения к самому левому столбцу.
+Показать цены на полную стопку.
+Показать цены за одну единицу.
+**История цен** (%hotkey%)
+Этот слот заблокирован. Вы можете разблокировать его, назначив заместителя на соответствующую роль.
+"Not available in this settlement
+"
+Ездовые и вьючные звери-рептилии
+"Not available in this settlement
+"
+Млекопитающие ездовые и вьючные звери
+"Not available in this settlement
+"
+Насекомоподобные ездовые и вьючные звери
+Этот спутник тяжело ранен и не может быть размещён.
+"Mount up your whole crew to travel with your mounts' speed. It also increases the chance to Flee from Crew Combat encounters but raises Mount consumption considerably.
+/They automatically dismount if the size of your crew exceeds the number of your mounts or if you have a Beast of Burden./
+/You need  %crewCompanionPlus1% mounts. You have %mountQty%.
+You have %beastQtywName%/"
+Спешите свой экипаж. /За исключением ваших наездников/.
+"You can only mount up if you do not have any Beast of Burden and if you have enough mounts for all your crew members, including your companions, passengers, and yourself.
+/You need  %crewCompanionPlus1% mounts. You have %mountQty%.
+You have %beastQtywName%/"
+*ЛКМ*: Купить определённое количество
+*ЛКМ*: Продать определённое количество
+"*Click*:  Buy 1 stack
+/Prices shown for a full stack/"
+"*Click*:  Sell 1 stack
+/Prices shown for a full stack/"
+Этот мансио не предоставляет никаких вариантов размещения.
+Лидер
+Элитное подразделение
+"*Locked*
+/'Enhance' Leadership Perk is required to unlock./"
+Недостаточно %rf% находчивости, чтобы увеличить шанс успеха в испытании на %value%%.
+"Increase your chance of succeeding in the Test by %value%%.
+/Cost: %rf% Resourcefulness./"
+"Reallocate %traverseeffect% March Movement Points to regular Movement Points
+/Costs %rf% Resourcefulness and can be done every %freq% days./
+"
+Этот спутник является небоевым наёмником и не может быть размещён.
+Недостаточно *находчивости* для выполнения этого действия.
+"*Locked*
+/'Traverse' Leadership Perk is required to unlock./"
+Недостаточно *Очков движения маршем* для выполнения этого действия.
+В данный момент недоступен. Подождите %freq% дней, пока навык 'Переход' снова станет доступным.
+Вы можете отключить навык 'Переход' только до тех пор, пока у вас не будет хотя бы %traverseeffect% очков движения, чтобы превратить их обратно в очки движения маршем.
+Ваша история соответствует действительности.
+Вы не соответствуете требованиям для данного действия. Должно произойти что-то иное.
+"Increase your chance of succeeding in the Test by %value%%.
+/Cost: %rf% Resourcefulness./"
+На данный момент недоступно. Подождите %freq% день(я,ей), пока поощрение снова станет доступным.
+Недостаточно *находчивости* для выполнения этого действия.
+"*Locked*
+/'Encourage' Leadership Perk is required to unlock./"
+(Вдвое меньше против стрелков)
+В настоящее время спешивание недоступно. Вы можете спешиться на следующее утро, накормив своих зверей и экипаж.
+Лояльность спутника выровнялась. (%name%)
+Лояльность спутника выровнялась. (%name%)
+Максимальный авторитет (%maxauthority%) достигнут.
+Предложите своему экипажу тройную зарплату за текущий день (повышает моральный дух).
+Предложите своему экипажу четырёхкратную зарплату за текущий день (повышает моральный дух).
+Нет достижений пока играете в режиме Диссонанса или после окончания лимита времени
+Никаких Достижений, пока не будет установлена связь с вашей игровой платформой хотя бы один раз.
+Отсутствие достижений из-за несоответствия идентификатора пользователя между файлом сохранения и игроком
+Сохранить в режиме диссонанса
+Сохранение прошло лимит времени игры
+Вы не можете торговать рабами в этом поселении.
+Сначала вы должны переключиться на этот тип зверя.
+Стоимость: %insightcost% проницательности и %RFcost% находчивости
+"Type: Melee
+/This Skill can only be used from the Front Row. It can target the enemy Front Row or unblocked targets in the enemy Back Row./"
+"Type: Ranged
+/This Skill can target any %side% position./"
+"Type: Ranged (Unrestricted)
+/This Skill can target any %side% position./"
+"Type: Ranged (Line of Sight)
+/This Skill can target any enemy position but incurs a Cover penalty on Accuracy when the target is blocked./"
+"Target: Neighbor or Self
+/This Skill can target friendly characters next to the Skill's user as well as the user themselves./"
+"Target: Neighbor
+/This Skill can target friendly characters next to the Skill's user./"
+"Target: Self
+/This Skill always targets the character who uses it./"
+"Target: Any Side
+/This Skill's target can be from either side of the field./
+"
+"Target: Any Side (Not Self)
+/This Skill's target can be from either side of the field except the Skill's user./"
+"Target: Single Character
+/The Skill must target a single character./
+"
+"Target: Two Characters in the Same Row
+/A single target is enough to use the Skill./"
+"Target: Characters in a Square
+/Up to four targets in a square of positions can be targeted. A single target is enough to use the Skill./"
+"Target: Any Row
+/All characters in the Row will be targeted but a single target is enough to use the Skill./"
+"Target: Front Row
+/All characters in the Front Row will be targeted but a single target is enough to use the Skill./"
+"Target: Back Row
+/All characters in the Back Row will be targeted but a single target is enough to use the Skill./"
+"Target: Line
+/Both characters in the Line will be targeted but a single target is enough to use the Skill./
+"
+"Target: One Side
+/All characters on one side of the battlefield are targeted but a single target is enough to use the Skill./"
+"Target: Battlefield
+/All characters on both sides of the battlefield are targeted but a single target is enough to use the Skill./"
+"Target: Single Empty
+/The Skill must target a single empty position./"
+"Target: Two Empty in the Same Row
+/The Skill must target two empty positions./"
+"Target: Empty Square
+/The Skill must target four neighboring empty positions./"
+"Target: Any Empty Row
+/The Skill must target an empty Row./"
+"Target: Empty Front Row
+/The Skill must target an empty Front Row./"
+"Target: Empty Back Row
+/The Skill must target an empty Back Row./"
+"Target: Empty Line
+/The Skill must target an empty Line./"
+TargetOneSideEmpty
+TargetBothSidesEmpty
+"Target: Single Position
+/The Skill can target a single empty or occupied position./"
+"Target: Two Positions in the Same Row
+/The Skill can target two empty or occupied positions in the same row./"
+"Target: Positions in a Square
+/Up to four characters or empty positions in a square can be targeted./"
+TargetRowAnyAny
+TargetRowFrontAny
+TargetRowBackAny
+TargetLineAny
+TargetOneSideAny
+TargetBothSidesAny
+"Overwhelming
+/This Skill ignores %value% of the target's Block./
+"
+"Overpowering
+/This Skill ignores all of the target's Block./
+"
+"Armor Piercing
+/This Skill ignores %value% Armor of the target./"
+"Penetrating
+/This Skill ignores all of the target's Armor./"
+"Accurate
+/This Skill ignores %value% of the target's Evade./"
+"Precise
+/This Skill ignores all of the target's Evade./"
+"Incorporeal
+/This Skill ignores all of the target's Block and Evade./"
+"Crushing
+/This Skill ignores %value% Hardness of the target obstacle./"
+"Shattering
+/This Skill ignores %value% Hardness of the target obstacle./"
+"Enchanted
+/This Skill is able to damage enemies with the Impervious Trait./
+"
+"Immobilize
+/This Skill can cause the target to become Immobilized for %rounds% Round(s). Immobilized characters can not Move and Evade./"
+"Pull
+/This Skill can draw Back Row targets into the Front Row./"
+"Push
+/This Skill can push Front Row targets into the Back Row./"
+"Stun
+/This Skill can cause Stun to the target. Stunned characters skip their activations./
+"
+"Control
+/This Skill can cause the target to act under your control for a brief time./
+"
+"Overwatch
+/This Skill is set up and then triggered by enemies moving into the targeted position./
+%followup%"
+"Restricted
+/This Skill can only be used when the following requirement is met: %restriction%./
+"
+"Followup New Target
+/This Skill has another phase against a different target:/
+%followup%"
+"Followup
+/This Skill has another phase against the same target:/
+%followup%"
+"Repeating
+/This Skill repeats against the same target until missing. Subsequent repeats incur an Accuracy penalty./
+%followup%"
+"Cleanse
+/This Skill cancels %type% effects on the target./"
+"Taunt
+/This Skill compels the target to attack the Skill's user./"
+"Summon
+/This Skill spawns a %summon% to the target empty position./"
+"Buff
+/This Skill places an ongoing positive effect on the target./"
+Строка
+Линия
+Область
+Пустая позиция
+"Debuff
+/This Skill can place an ongoing negative effect on the target./"
+"Damage Over Time
+/This Skill can place an effect on the target that damages the target at the start of each Round./"
+"Game Settings
+/Settings related to gameplay can be found here./"
+Регулирует размер текстов Событий и записей Кодекса. Изменения появятся при следующей загрузке События или Кодекса.
+Регулирует время появления всплывающей подсказки после наведения курсора на что-либо.
+Определяет скорость сглаживания при прокрутке в событии.
+Определяет скорость прокрутки в Событиях.
+Переключение между активацией одного или всех вариантов выбора при предварительном просмотре эффектов навыка лидерства 'Испытание улучшений' в событиях.
+Включение и выключение стрелок прокрутки события на странице события.
+Регулирует скорость следования камеры за вашим /комитатом/ на карте кампании.
+Если включено, Главное меню открывается при нажатии правой кнопки мыши.
+Включение и выключение пользовательского курсора.
+"Turns Automarch on and off. 
+Toggling this on will cause your comitatus to automatically expend march points when you choose a node outside the range that your movement points
+can take you.
+/This setting is not available early during the tutorial./"
+"Turns Quick Camping on and off.
+This setting will add a Quick Camp option to the radial menu through which you may bypass the camp UI ending the day immediately with camp when you reach your chosen destination.
+/This setting is not available early during the tutorial./ "
+При включении помечаются узлы, которые вы уже посетили в мире.
+Включает и выключает обучение в кампании с открытым миром.
+"Video Settings
+/Settings related to display and graphics./"
+Устанавливает разрешение экрана.
+Устанавливает режим отображения.
+Включение и выключение вертикальной синхронизации. Включение этого параметра приводит к уменьшению разрывов экрана, но может повлиять на производительность.
+Настраивает детализацию графических эффектов. Сюда входят анимации карты кампании, отличительные знаки и эффекты частиц. Более высокие настройки могут повлиять на производительность.
+Показывает номер версии игры при включении.
+"Audio Settings
+/Settings related to music and sound effects./"
+Регулирует уровень основной громкости.
+Регулирует громкость фоновой и боевой музыки.
+Регулировка громкости звуковых эффектов.
+Регулирует громкость окружающих эффектов.
+Регулирует громкость повествования.
+Устанавливает длительность (в минутах) периодов тишины между повторяющимися дорожками фоновой музыки.
+"Combat Settings
+/Settings related to Companion Combat./"
+Включает и выключает анимацию бездействия в режиме битвы спутников. Включение этого параметра может повлиять на производительность.
+Включает мгновенную анимацию боя экипажа.
+При включении отображает номер текущего раунда в битве спутников.
+Регулирует насколько быстро персонажи сталкиваются при действии умений.
+Если эта функция включена, то персонажи автоматически нацеливаются на первого доступного врага после выбора умения, и вам нужно только подтвердить или циклически переключать цели.
+Если эта функция включена, цели выбираются сразу же при наведении на них курсора.
+Использование умений требует повторного щелчка для подтверждения действия.
+Когда включено, рамка вокруг позиции видна только при прицеливании в битве спутников, а не постоянно.
+"Community-reviewed machine translations are planned but we're still looking for language coordinators and volunteers for almost all languages, especially: CN, DE, ES, FR, HU, PL, and PT-BR. 
+Join our Discord server and get involved to help bring Vagrus to players in your own language."

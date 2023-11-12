@@ -1,0 +1,2776 @@
+{
+    "tooltips": [
+        {
+            "uid": "rec07Afw4aIXOMR5K",
+            "description": "Evade"
+        },
+        {
+            "uid": "rec0GR9OxTcvHsCDu",
+            "description": "BlockTriggered"
+        },
+        {
+            "uid": "rec0QHsbuY4ElSExT",
+            "description": "You cannot trade slaves in this settlement."
+        },
+        {
+            "uid": "rec0fssBIUuh79A0Z",
+            "description": "Lock Settings"
+        },
+        {
+            "uid": "rec0jP13XIrty5mbr",
+            "description": "Story is in alignment."
+        },
+        {
+            "uid": "rec0je7WirdPIfT0H",
+            "description": "Turns Vertical Synchronization on and off. Turning this on results in less screen tearing but might impact performance."
+        },
+        {
+            "uid": "rec0pGEywpSibyUR0",
+            "description": "Unavailable"
+        },
+        {
+            "uid": "rec0xCxHVyvxQ9eZy",
+            "description": "Pull\n/This Skill can draw Back Row targets into the Front Row./"
+        },
+        {
+            "uid": "rec118DzMBT8KxScp",
+            "description": "Initiative (INI) determines in what order characters receive their turn in a round. Higher INI means the character is likely to act faster."
+        },
+        {
+            "uid": "rec11EBqs4Dva2r8v",
+            "description": "Not available yet."
+        },
+        {
+            "uid": "rec12YgWd4p1yl05G",
+            "description": "If switched on, targets get selected immediately when you hover over them."
+        },
+        {
+            "uid": "rec12agnYppC5muuO",
+            "description": "The base hunting chance on this node is %chance%."
+        },
+        {
+            "uid": "rec12jSDIbSapJBWU",
+            "description": "Target: Any Empty Row\n/The Skill must target an empty Row./"
+        },
+        {
+            "uid": "rec15mcUiEiEk1mN1",
+            "description": ""
+        },
+        {
+            "uid": "rec1LNMZYXMRYaMc9",
+            "description": "You have the latest local news already and have nothing new to share."
+        },
+        {
+            "uid": "rec1N6buwUpW1wyc2",
+            "description": "You can only choose this if you are the Attacker and the encounter was not initiated by an Event."
+        },
+        {
+            "uid": "rec1PY5z8T5An7oCf",
+            "description": ""
+        },
+        {
+            "uid": "rec1VxLHyaihbyaeE",
+            "description": "Equipment: %name% can not be owned"
+        },
+        {
+            "uid": "rec1dR8L3r5hgy70m",
+            "description": ""
+        },
+        {
+            "uid": "rec1iTTmxZUDwRNfu",
+            "description": "Not enough *Resourcefulness*."
+        },
+        {
+            "uid": "rec1lOHi5m2VprrJY",
+            "description": "Not available yet."
+        },
+        {
+            "uid": "rec1m4hpFGLB99Ii9",
+            "description": "Your story is in alignment."
+        },
+        {
+            "uid": "rec1vf2Tr9amqSXaQ",
+            "description": "Companion: %name% required"
+        },
+        {
+            "uid": "rec1xggUPXbISyNqw",
+            "description": "Let the enemy flee."
+        },
+        {
+            "uid": "rec1yAjWuGhBiKlJn",
+            "description": "%value% have passed since journey's beginning\n"
+        },
+        {
+            "uid": "rec2IuzwywbsaiYS5",
+            "description": "Claim Reward\n"
+        },
+        {
+            "uid": "rec2JnBvbLdFkyZ6s",
+            "description": "Not available in this settlement\n"
+        },
+        {
+            "uid": "rec2Nr9GJvXvftiJ3",
+            "description": "Target: Any Side (Not Self)\n/This Skill's target can be from either side of the field except the Skill's user./"
+        },
+        {
+            "uid": "rec2ZSbKKeyOFOmnS",
+            "description": "%Effect name% %Effect type% %Effect Duration%"
+        },
+        {
+            "uid": "rec2suzO489tzBm6H",
+            "description": "Insectoid Mounts and Beast of Burden"
+        },
+        {
+            "uid": "rec34cwL7iTx3af4g",
+            "description": "You can only add %entries% entries per Point of Interest."
+        },
+        {
+            "uid": "rec36ZtwJ6C0JMBo4",
+            "description": "No Time Filter\n/ Click to select Time to Complete filter./"
+        },
+        {
+            "uid": "rec3APCA45JgxjEGQ",
+            "description": "Coming soon"
+        },
+        {
+            "uid": "rec3BPbSfSHNNEBlv",
+            "description": "Lock Settings"
+        },
+        {
+            "uid": "rec3DoJFCOcWe4zSO",
+            "description": "Discipline one or more of your slaves to gain Obedience. /Note that disciplining your slaves has a diminishing return and may have the opposite effect on Obedience./\n/ Costs no MP if you are already camping./"
+        },
+        {
+            "uid": "rec3HS1zx0GYlRtsu",
+            "description": "Determines how fast the smoothing is when scrolling in an Event."
+        },
+        {
+            "uid": "rec3IWnxVV3ROUcNp",
+            "description": "*Click*: Buy 1 increment\n*Shift+Click*: Buy 1 stack\n\nTo Buy a specific amount *Shift+Click* on the good's *icon*."
+        },
+        {
+            "uid": "rec3UGQCRLc0q9ZZd",
+            "description": ""
+        },
+        {
+            "uid": "rec3WsiS3cwgPhutm",
+            "description": "View Current Level"
+        },
+        {
+            "uid": "rec3e0Iwb6qRUeSfS",
+            "description": "Gear: %name% must be owned"
+        },
+        {
+            "uid": "rec3gdyDjfP86ILMB",
+            "description": "Companion loyalty in alignment. (%name%)"
+        },
+        {
+            "uid": "rec3hGkU2qzmbP04y",
+            "description": "Click: Add 1 Lyrg\nShift+Click: Add 1 Bross\nCtrl+Click: Add 10 Bross"
+        },
+        {
+            "uid": "rec3nQ9QrEzpGR22n",
+            "description": "Lock Settings"
+        },
+        {
+            "uid": "rec3rsrDExju6BZ8p",
+            "description": "Leave Settlement (%hotkey%)"
+        },
+        {
+            "uid": "rec3stfSEpUoAGSQU",
+            "description": "Each additional direction after the first (with Scout Master: after the second) costs *Resourcefulness*. \nBoosting the chance of a success also cost one *Resourcefulness* per direction."
+        },
+        {
+            "uid": "rec41dIP6zjLi4ou2",
+            "description": "Overpowering\n/This Skill ignores all of the target's Block./\n"
+        },
+        {
+            "uid": "rec4ELHrbT8lHc8Am",
+            "description": "Summon\n/This Skill spawns a %summon% to the target empty position./"
+        },
+        {
+            "uid": "rec4ExnTblEwudoCy",
+            "description": "No Achievements while playing in Dissonance More or after passing the time limit"
+        },
+        {
+            "uid": "rec4PBgVg3b5Lz9E1",
+            "description": "Double Payment promised"
+        },
+        {
+            "uid": "rec4XzNkP51k4srn5",
+            "description": "Sort price history by distance from the pinned location (leftmost). Settlement distance goes from closest to farthest (from left to right)."
+        },
+        {
+            "uid": "rec4f0opQB47nfrPs",
+            "description": "Out of range MP Cost"
+        },
+        {
+            "uid": "rec4vtX9LDoh3P4n6",
+            "description": "%name% value must exceed the requirement."
+        },
+        {
+            "uid": "rec5BkpxbkRTazw04",
+            "description": "Set conditions relating to combat encounters that stop the /comitatus/."
+        },
+        {
+            "uid": "rec5Xq5UVEWk2Z82n",
+            "description": "Less than Perk: %name% (%level%) required"
+        },
+        {
+            "uid": "rec5aDvwjzZXMJSTt",
+            "description": "**Main Menu** (F10)"
+        },
+        {
+            "uid": "rec5csjmYTRgqBLsS",
+            "description": "*Allow Vigor Use*\nHighlighting this will use 1 Vigor instead of 2 MP when no MP are available."
+        },
+        {
+            "uid": "rec5hHopnHMea4erQ",
+            "description": "Not enough %rf% Resourcefulness to increase your chance of succeeding in the Test by %value%%."
+        },
+        {
+            "uid": "rec5tMstmGfTHQUEO",
+            "description": "The list of available Gear for your Companions.\n/Drag a Gear into a slot to equip it./\n/A Companion can have one of the same Gear type equipped./"
+        },
+        {
+            "uid": "rec5v9bTpt3L1jf52",
+            "description": "Display Crafted Goods"
+        },
+        {
+            "uid": "rec5xATpCdRhQOTk1",
+            "description": "*Auto-Acquire Supplies*\nSet conditions through which supplies are automatically acquired with Camp or Quick Camp. "
+        },
+        {
+            "uid": "rec5yHOpJUpiSfPOR",
+            "description": "You need to progress this Companion's story to unlock the next Prowess tier."
+        },
+        {
+            "uid": "rec63rBMlOhx2XaU9",
+            "description": "*Scout*"
+        },
+        {
+            "uid": "rec6CEihaqMMFNJf0",
+            "description": "Can not mount more fighters because all your Mounts carry Cargo."
+        },
+        {
+            "uid": "rec6LF9p2afttOJbq",
+            "description": "Item: %name% (%value%) required\n"
+        },
+        {
+            "uid": "rec6O617JjbKdWf3J",
+            "description": "Indicates if you have an assigned Scout Master. You can assign Deputies on the Deputy pane.\nAn assigned Scout Master provides the following bonuses:\n- One additional direction without Resourcefulness cost\n- Raises Critical Success chance\n- Lower Critical Failure change"
+        },
+        {
+            "uid": "rec6XN3RXIp9mANW7",
+            "description": "Your Background can not be %name%"
+        },
+        {
+            "uid": "rec6YGIrUfn8K5WMw",
+            "description": "Mansio (%hotkey%)"
+        },
+        {
+            "uid": "rec6cnyKEruFVOP7I",
+            "description": "Switch Wholesale Deals\n/While switched on, the quantity selector always comes up when buying and selling./"
+        },
+        {
+            "uid": "rec6gukFdxd2Rly0A",
+            "description": "Make demands in return for letting the enemy go. The more you ask for, the less likely they will accept it without a fight."
+        },
+        {
+            "uid": "rec6ktbSObrO2Jm3y",
+            "description": "Filter: Failed"
+        },
+        {
+            "uid": "rec6sB7IxFOrrV1ZV",
+            "description": "*Click*:  Buy a specific amount"
+        },
+        {
+            "uid": "rec7LSxL2T6jxI1h5",
+            "description": "Contracts"
+        },
+        {
+            "uid": "rec7N6osxG4UOI1uu",
+            "description": "*Click*:  Sell a specific amount"
+        },
+        {
+            "uid": "rec7OGsDDsseGx9k3",
+            "description": "This Companion is severely wounded and can not be deployed."
+        },
+        {
+            "uid": "rec7YjlVYqrTx7hbN",
+            "description": "Less than %value% Rations required"
+        },
+        {
+            "uid": "rec7lLinMdVDieJ4X",
+            "description": "No available target."
+        },
+        {
+            "uid": "rec7oVVYdZeQOc1eC",
+            "description": "Turns Event scroll arrows on the Event page on and off."
+        },
+        {
+            "uid": "rec7pNky8SZj1GYpR",
+            "description": "Expected Damage"
+        },
+        {
+            "uid": "rec7qKVOo205EBESX",
+            "description": "Story (%hotkey%)"
+        },
+        {
+            "uid": "rec7ua3Yv2GpIGCZm",
+            "description": "Switch Cause and Effect Display"
+        },
+        {
+            "uid": "rec7vdGELyuofTYTj",
+            "description": "Turns tutorials on and off in the open world campaign."
+        },
+        {
+            "uid": "rec7wTa40DIMEb2WJ",
+            "description": "View Next Level"
+        },
+        {
+            "uid": "rec7xmDkejLIMM37L",
+            "description": "You can only turn Traverse off until you have at least %traverseeffect% Movement Points to turn them back into March Movement Points."
+        },
+        {
+            "uid": "rec80LL2GZBR9Mpa4",
+            "description": ""
+        },
+        {
+            "uid": "rec89LrLCQgry8C9B",
+            "description": "Learner's Progress\n/Each time you gather 10 new Codex entries, you gain % Insight./"
+        },
+        {
+            "uid": "rec8GjDEN5kXh133E",
+            "description": "Dismount - separates an Outrider into a Fighter and a Mount."
+        },
+        {
+            "uid": "rec8ZEY7ZwPtpzur2",
+            "description": ""
+        },
+        {
+            "uid": "rec8aRgiG1T0Unc3d",
+            "description": "Filter: Organizations and Institutions"
+        },
+        {
+            "uid": "rec8gLEoSrlHgD3me",
+            "description": "Story progressed beyond (%level1name%)"
+        },
+        {
+            "uid": "rec8gbJjHKU4khxIe",
+            "description": "**Offered Deal**\nBuy %qty% %name% %stack% for %money%\n/You own: %actqty% %cargospace%/\n\n%guestimate%"
+        },
+        {
+            "uid": "rec8quqB6XaAEz8lg",
+            "description": "Rumors"
+        },
+        {
+            "uid": "rec92r7ZJaGzWudLo",
+            "description": "No Quality: %name%"
+        },
+        {
+            "uid": "rec979fZstUMXS4KH",
+            "description": "Critical Hit Chance"
+        },
+        {
+            "uid": "rec97K5Z9MJfCdoI3",
+            "description": "Feed %rations%% rations to the /comitatus/ at the end of the day.\nConsumption: %consumption%\nYou have %supply% supplies."
+        },
+        {
+            "uid": "rec99fgKCHUCMdzzs",
+            "description": "Cost: %cost% Resourcefulness"
+        },
+        {
+            "uid": "rec9TcPBZ08l695iA",
+            "description": "If switched on, the Main Menu opens by right-clicking."
+        },
+        {
+            "uid": "rec9UK51wn6BLdAhX",
+            "description": "This Companion has been deployed."
+        },
+        {
+            "uid": "rec9c6RKn52YI6z4f",
+            "description": "%SkillDescription%"
+        },
+        {
+            "uid": "rec9ocMdiDZ2WL30B",
+            "description": "*Click*: Remove 1 increment\n*Shift+Click*: Remove 1 stack"
+        },
+        {
+            "uid": "rec9t9zpS5YcSyEWU",
+            "description": "Adjusts the master volume."
+        },
+        {
+            "uid": "rec9vNR4wlltvSv3r",
+            "description": "Not available at the moment. Wait %freq% day(s) for Encourage to become available again."
+        },
+        {
+            "uid": "rec9xqt8PsDzyQHYo",
+            "description": "Perk levels gained from equipment and status effects applied to the /comitatus/."
+        },
+        {
+            "uid": "recA1gZcvAiVOtlHI",
+            "description": "Your Ambition must be %name%"
+        },
+        {
+            "uid": "recA4sKuEZlqwS3sk",
+            "description": "Stun\n/This Skill can cause Stun to the target. Stunned characters skip their activations./\n\n"
+        },
+        {
+            "uid": "recA7tIo49Qr4m3YC",
+            "description": "*Locked*\n/'Traverse' Leadership Perk is required to unlock./"
+        },
+        {
+            "uid": "recARyPUUnclhAjJh",
+            "description": "**Price History** (%hotkey%)"
+        },
+        {
+            "uid": "recAU6xgR1vTCJKvw",
+            "description": "People you agreed to take to their travel destinations."
+        },
+        {
+            "uid": "recAn5YT7wRD9qTv2",
+            "description": "Power"
+        },
+        {
+            "uid": "recB7ZMLqg7eWcNka",
+            "description": "Pursue the enemy."
+        },
+        {
+            "uid": "recB9Ukae9GPW3MF7",
+            "description": "Not enough *Resourcefulness*."
+        },
+        {
+            "uid": "recBFazLRWQqFlVaC",
+            "description": "Damage Over Time\n/This Skill can place an effect on the target that damages the target at the start of each Round./"
+        },
+        {
+            "uid": "recBQEXKRx9g7hJQO",
+            "description": "Market (%hotkey%)"
+        },
+        {
+            "uid": "recBVsu8Uou9Rxiih",
+            "description": "/Expires in %days% days./"
+        },
+        {
+            "uid": "recBZ0mseTyYGVqQj",
+            "description": "Regulates the time it takes for a tooltip to appear after hovering over something."
+        },
+        {
+            "uid": "recBZoCXkYuugXe6D",
+            "description": ""
+        },
+        {
+            "uid": "recBZtAghNehx63iS",
+            "description": "*Fail* chance\n/May lose one or more scouts sent in this direction in case of a *Fail*./"
+        },
+        {
+            "uid": "recBeuI1Fdh9WYJzb",
+            "description": ""
+        },
+        {
+            "uid": "recBfqEi316CjU3m0",
+            "description": "*Receive*: %newsmoney% and %ZeroOrOne% fresh local news\n"
+        },
+        {
+            "uid": "recBgon75dokGwVgH",
+            "description": "Determines the scrolling speed in Events."
+        },
+        {
+            "uid": "recBm2aQN85sxS2p4",
+            "description": "*Locked*\n/'Encourage' Leadership Perk is required to unlock./"
+        },
+        {
+            "uid": "recBmhpyTREj918V9",
+            "description": ""
+        },
+        {
+            "uid": "recBwlDJTrOyuRGEW",
+            "description": "Liberate one or more of your slaves to gain Obedience. Liberated slaves become workers.  / Note that the Obedience gain has a diminishing return./\n/ Costs no MP if you are already camping./"
+        },
+        {
+            "uid": "recBzprr4HOFns0us",
+            "description": ""
+        },
+        {
+            "uid": "recBzzkV3svi4ClYx",
+            "description": "Cannot be used for (Days): %remainingdays%"
+        },
+        {
+            "uid": "recC5yRLJUsQZcwl6",
+            "description": "Goods: %name% fewer than (%value%) required"
+        },
+        {
+            "uid": "recCCvnCX38dUQeFb",
+            "description": "You do not have a crew to fight for you."
+        },
+        {
+            "uid": "recCG2Kn7VuRtuvFd",
+            "description": "Select your character's Race."
+        },
+        {
+            "uid": "recCHgTAMNGATm1yz",
+            "description": "When selected, this option allows you to save five sets of price history lists made up of five settlements."
+        },
+        {
+            "uid": "recCJUltiYWwPbrOS",
+            "description": "Your Race can not be %name%"
+        },
+        {
+            "uid": "recCW44faWgYdgYQZ",
+            "description": ""
+        },
+        {
+            "uid": "recCX3GXRVcIkIQbB",
+            "description": "No Achievements until establishing connection with your gaming platform at least once."
+        },
+        {
+            "uid": "recCcsucANGTCPT5a",
+            "description": "Display All Goods"
+        },
+        {
+            "uid": "recCmsEBhO1L18UDC",
+            "description": "Vitality (VIT) is how much damage the character can sustain. When depleted, Companions are Downed but most enemies are defeated right away."
+        },
+        {
+            "uid": "recCn09TTz8jAt4K7",
+            "description": "*Locked*\n/Appropriate Leadership Perk is required to unlock./"
+        },
+        {
+            "uid": "recCoFq6g8ZiOK4Nh",
+            "description": ""
+        },
+        {
+            "uid": "recCoKNPoOwyO2RsS",
+            "description": "Armor (ARM) is deducted from damage when the combatant is hit. Some attacks ignore a part of or all of Armor."
+        },
+        {
+            "uid": "recCrkFlBGDh38fqL",
+            "description": "Not enough Insight (%resourcefulnesscost%)"
+        },
+        {
+            "uid": "recCsfnoFWjvcCl48",
+            "description": ""
+        },
+        {
+            "uid": "recD9f0io8y4nV23F",
+            "description": "Displays all changes in crew that occurred the current day."
+        },
+        {
+            "uid": "recDAwOtiW7fedDRY",
+            "description": "Block (BLC) is a defense mode that provides the defender with additional ARM against the current attack. Certain attacks ignore a part of or all of Block."
+        },
+        {
+            "uid": "recDDCsCCDdazajsY",
+            "description": "This Companion *must* be deployed."
+        },
+        {
+            "uid": "recDFzfmbjbKk4vaA",
+            "description": "Try to flee from the encounter. You can increase your chances by offering the enemy what they want."
+        },
+        {
+            "uid": "recDGn3MKiLHmqx1J",
+            "description": "Pin settlement price history list to the leftmost column."
+        },
+        {
+            "uid": "recDHdpqUC87TFVcP",
+            "description": "Sets the length (in minutes) of silent periods between repeating background music tracks."
+        },
+        {
+            "uid": "recDXU8iUtQ27MwB4",
+            "description": ""
+        },
+        {
+            "uid": "recDXXNwrTe1I4yx7",
+            "description": ""
+        },
+        {
+            "uid": "recDapRWWMR9XY0m9",
+            "description": "Toggle Medical Supplies\n/Medical Supplies will be used for healing, raising healing chances and effectiveness but there is a chance to lose Medical Supplies./"
+        },
+        {
+            "uid": "recDq6zjRi3H3j0Da",
+            "description": ""
+        },
+        {
+            "uid": "recDqR4S1uhPGohQy",
+            "description": "Unavailable for the selected Race."
+        },
+        {
+            "uid": "recDsG8GEmByas6F2",
+            "description": "**Combat Objectives**\n/not available/"
+        },
+        {
+            "uid": "recDum53QGOwv9I8K",
+            "description": ""
+        },
+        {
+            "uid": "recE22kKL47ZPgjpl",
+            "description": "Followup New Target\n/This Skill has another phase against a different target:/\n\n%followup%"
+        },
+        {
+            "uid": "recE5gH6lsNMs2WcY",
+            "description": "Armor Piercing\n/This Skill ignores %value% Armor of the target./"
+        },
+        {
+            "uid": "recE7cFd02pwMnSGE",
+            "description": "Your Ambition determines how you win the game."
+        },
+        {
+            "uid": "recEBSHfsK5Vz0VNz",
+            "description": "**Empower**\n\nGive POW to a Companion.\n1 POW \\ %cost% Resourcefulness"
+        },
+        {
+            "uid": "recEBmSa4rNsr98yn",
+            "description": "**Aid**\n\nBring a Companion back from Downed state.\n%cost% Resourcefulness"
+        },
+        {
+            "uid": "recEOkJcXT7v4zMwJ",
+            "description": "Armor"
+        },
+        {
+            "uid": "recEQvdNg4sQN1LQn",
+            "description": "Quality: %name%"
+        },
+        {
+            "uid": "recEUjUEL5X4gxkeY",
+            "description": "Fight the enemy in a bloody battle."
+        },
+        {
+            "uid": "recEd9JlW8HD5EMpo",
+            "description": "_unused_"
+        },
+        {
+            "uid": "recEdsjRi1qXfjZYJ",
+            "description": "Current Defense Mode: Evade"
+        },
+        {
+            "uid": "recEgDbx3L726YWCY",
+            "description": "Butcher one or more of your Beasts of Burden to gain Supplies. /Cargo capacity will drop significantly./"
+        },
+        {
+            "uid": "recEr1WqRytfHyXV2",
+            "description": "Show prices for a single unit."
+        },
+        {
+            "uid": "recEuZsKGMmS15RXo",
+            "description": "*Explore*\nLook for events and encounters on this Node.\nCost: %MP% MPs"
+        },
+        {
+            "uid": "recEwbqUDOu63G6rG",
+            "description": "Send one less scout in this direction."
+        },
+        {
+            "uid": "recEweUoROo2pbZos",
+            "description": "Gear: %name% must be equipped"
+        },
+        {
+            "uid": "recEzxgwpI3z4RL3r",
+            "description": "Set %stopcriteria% criteria for stopping the /comitatus/."
+        },
+        {
+            "uid": "recF7W4zy4wmzGJqM",
+            "description": "Arming your slaves raises your Combat Strength but reduces your Obedience."
+        },
+        {
+            "uid": "recFG6lg1NodnAGJg",
+            "description": ""
+        },
+        {
+            "uid": "recFGKTDnPWWVgY8K",
+            "description": "Outriders can not dismount due to the ambush."
+        },
+        {
+            "uid": "recFWb7IgH4TW520N",
+            "description": "Offer your crew triple wages for the current day (boosts Morale)."
+        },
+        {
+            "uid": "recFYJ9j6RRqDpogJ",
+            "description": "Passenger: %name% required"
+        },
+        {
+            "uid": "recFbI0UL3ynsY6d2",
+            "description": "Send at least one *scout* in this direction to be able to boost the chance of success."
+        },
+        {
+            "uid": "recFcWX4oyGpbLzYG",
+            "description": "Gear: %name% can not be equipped"
+        },
+        {
+            "uid": "recFdAlTovadm9cSW",
+            "description": ""
+        },
+        {
+            "uid": "recFh042PbmhyYUnD",
+            "description": "Target: Characters in a Square\n/Up to four targets in a square of positions can be targeted. A single target is enough to use the Skill./"
+        },
+        {
+            "uid": "recFimxsnIJ0PMICr",
+            "description": "Use Encourage to raise Morale by %effect%.\n/Costs %rf% Resourcefulness and can be done every %freq% days./"
+        },
+        {
+            "uid": "recFkFR0BkkN6vxEj",
+            "description": "You can not use this again until the next round."
+        },
+        {
+            "uid": "recG8qjhDOGqNTIjU",
+            "description": "Adjusts the volume of narration."
+        },
+        {
+            "uid": "recGPQ3goPsWJ9i69",
+            "description": "Your character's Perks are listed here."
+        },
+        {
+            "uid": "recGVNLmiKE36ODP1",
+            "description": ""
+        },
+        {
+            "uid": "recGXK9e2qIXQY5gs",
+            "description": "Story progression required (%level1name%)"
+        },
+        {
+            "uid": "recGeZUBKC30fILqD",
+            "description": "The sum total of your debt to your crew."
+        },
+        {
+            "uid": "recGgc6CHnWd6mIQz",
+            "description": "You have no slaves to arm."
+        },
+        {
+            "uid": "recGlS4Zt47WdjOVX",
+            "description": "*Explore*\nLook for events and encounters on this Node.\nCost: %MP% MPs\n/Unavailable: You do have not enough MP./"
+        },
+        {
+            "uid": "recGmxVgy0L5mkbPV",
+            "description": "Filter: Active"
+        },
+        {
+            "uid": "recGnLHxwdhGKpgTz",
+            "description": "This Companion is mortally wounded and can not be deployed."
+        },
+        {
+            "uid": "recGzEiNxldhARZuc",
+            "description": "Dismount is not available at this time. You may dismount the next morning having fed your beasts and crew."
+        },
+        {
+            "uid": "recH2N1eK9toiJEME",
+            "description": "Accurate\n/This Skill ignores %value% of the target's Evade./"
+        },
+        {
+            "uid": "recH675CdJeu6CwDg",
+            "description": "Not enough *Resourcefulness* to perform this action."
+        },
+        {
+            "uid": "recHGUNrj6bJ5xsT6",
+            "description": ""
+        },
+        {
+            "uid": "recHLeDd9M9SXEDaQ",
+            "description": "Available: Daily"
+        },
+        {
+            "uid": "recHLs8WUf8CVvIXt",
+            "description": "Fight the enemy in a bloody battle."
+        },
+        {
+            "uid": "recHTSbRW48oSIhCd",
+            "description": "Guarantee scouting success in this category by spending two resourcefulness."
+        },
+        {
+            "uid": "recHzKgrQ1eHJ39oO",
+            "description": "TargetOneSideAny"
+        },
+        {
+            "uid": "recIBRd6DPSaY9no4",
+            "description": "Not enough Goods in your hold"
+        },
+        {
+            "uid": "recICxmnsvIEm0pd5",
+            "description": "Equipment: %name% must be equipped"
+        },
+        {
+            "uid": "recIK4ZF6Kq8KSoTx",
+            "description": "Create an Outrider by mounting a Fighter."
+        },
+        {
+            "uid": "recIOBa9TvfJBicTI",
+            "description": "Discard the current Mercenary Tasks for a set of new ones using your sway with the factions. There is no guarantee that the new Tasks will be better.\n/Costs %rf% Resourcefulness and can be done every %freq% days./"
+        },
+        {
+            "uid": "recIQ6KNixZY0vRBD",
+            "description": "Not enough *Resourcefulness* to perform this action."
+        },
+        {
+            "uid": "recISbuAdGk9Sw6f7",
+            "description": "n.a."
+        },
+        {
+            "uid": "recISeZzFl3Ol2cOe",
+            "description": "*Critical Fail* chance \n/Lose one or more of your scouts sent in this direction in case of a *Critical Fail*./"
+        },
+        {
+            "uid": "recIasHj3uNXomGjH",
+            "description": "Switch Goal"
+        },
+        {
+            "uid": "recJ1UbErOLFfA90g",
+            "description": "The chance of a crew combat on this node is %chance%."
+        },
+        {
+            "uid": "recJ2oUAVEbUGI3k9",
+            "description": ""
+        },
+        {
+            "uid": "recJ4Y0f6cnjxTAiv",
+            "description": ""
+        },
+        {
+            "uid": "recJ8crMneWvSl1X6",
+            "description": "You can only mount up if you do not have any Beast of Burden and if you have enough mounts for all your crew members, including your companions, passengers, and yourself.\n\n/You need  %crewCompanionPlus1% mounts. You have %mountQty%.\nYou have %beastQtywName%˛/"
+        },
+        {
+            "uid": "recJAKdqJvs1XrPyF",
+            "description": "Turns the custom cursor on and off."
+        },
+        {
+            "uid": "recJEYNCxs8XboF9g",
+            "description": "Switch Appearance and Background Display"
+        },
+        {
+            "uid": "recJEp6GoI88fpFHl",
+            "description": "Type: Ranged\n/This Skill can target any %side% position./"
+        },
+        {
+            "uid": "recJFQfsY8jTvkPjA",
+            "description": "Shows the version number of the game when switched on."
+        },
+        {
+            "uid": "recJFyuObjydoexcB",
+            "description": "Your Calling must be %name%"
+        },
+        {
+            "uid": "recJL9QBwkH0QNhMq",
+            "description": "How many coins the Companion must be paid daily."
+        },
+        {
+            "uid": "recJNxu9UnO6dZh2n",
+            "description": "Target: Line\n/Both characters in the Line will be targeted but a single target is enough to use the Skill./\n"
+        },
+        {
+            "uid": "recJSmZQc1Z9smqbi",
+            "description": ""
+        },
+        {
+            "uid": "recJZfjS1iKNY8eDd",
+            "description": "MP Cost"
+        },
+        {
+            "uid": "recJamWcBmPg3s85i",
+            "description": "Confirm your choice."
+        },
+        {
+            "uid": "recJhCwlVwqmXFYPV",
+            "description": ""
+        },
+        {
+            "uid": "recJmkZ08py5MTR9X",
+            "description": "Companions"
+        },
+        {
+            "uid": "recJwnCTyIqKXDFxl",
+            "description": "No Achievements due to user id mismatch between the save file and player"
+        },
+        {
+            "uid": "recJxibLIjXfCRQxL",
+            "description": ""
+        },
+        {
+            "uid": "recJyyUfRtaC0T9fS",
+            "description": "Area"
+        },
+        {
+            "uid": "recK1eZHyCufsVJd8",
+            "description": "Objectives"
+        },
+        {
+            "uid": "recK5XFzYI006X2NM",
+            "description": "*Move*"
+        },
+        {
+            "uid": "recKDHtFsaKQaaxjf",
+            "description": "Shattering\n/This Skill ignores %value% Hardness of the target obstacle./"
+        },
+        {
+            "uid": "recKJ4qV2SbP6z4kp",
+            "description": "This Companion is available for deployment."
+        },
+        {
+            "uid": "recKSVJdl32044vXM",
+            "description": "Disable Heal Results"
+        },
+        {
+            "uid": "recKTr029DIzjSiSk",
+            "description": "**Offered Deal**\nSell %qty% %name% %stack% for %money%\n/You own: %actqty%/\n\n%guestimate%"
+        },
+        {
+            "uid": "recKUzBlUq1c6VreD",
+            "description": ""
+        },
+        {
+            "uid": "recKV35R3EzgHVG4g",
+            "description": "Overwatch\n/This Skill is set up and then triggered by enemies moving into the targeted position./\n\n%followup%"
+        },
+        {
+            "uid": "recKXStHRO5g3Y6Pa",
+            "description": "This Companion is wounded but available for deployment."
+        },
+        {
+            "uid": "recKdlfeJLFQOnkpp",
+            "description": "Can not close now. Follow the Tutorial to progress."
+        },
+        {
+            "uid": "recKeY41nDlA3Z1Uv",
+            "description": "Target: Single Position\n/The Skill can target a single empty or occupied position./"
+        },
+        {
+            "uid": "recKrjALtxTaxpX0E",
+            "description": "Only allowed %maxtrigger% times"
+        },
+        {
+            "uid": "recKvNQfoXW50MIzl",
+            "description": "**Imperial Calendar**\n/Indicates the current date./"
+        },
+        {
+            "uid": "recKyOsQ1pMzlx3xS",
+            "description": "Clear Filters"
+        },
+        {
+            "uid": "recL5mPrEUi6G7ndg",
+            "description": "**Command**\n\nUse to unlock advanced actions.\n%cost% Resourcefulness"
+        },
+        {
+            "uid": "recLK8Hs2NjgxpQq0",
+            "description": "Mammal Mounts and Beast of Burden"
+        },
+        {
+            "uid": "recLQZAJ7pTIJYYPB",
+            "description": "TargetLineAny"
+        },
+        {
+            "uid": "recLWJSzDA3AAOHV2",
+            "description": "TargetBothSidesEmpty"
+        },
+        {
+            "uid": "recLhKM40jJBamfSQ",
+            "description": "Incorporeal\n/This Skill ignores all of the target's Block and Evade./"
+        },
+        {
+            "uid": "recLl4DoloyoGPIVi",
+            "description": "Cannot be used for (Days): %remainingdays%"
+        },
+        {
+            "uid": "recLxReuXaKVJb8hE",
+            "description": ""
+        },
+        {
+            "uid": "recM0ElNkcwp4M4tr",
+            "description": "No changes to reset"
+        },
+        {
+            "uid": "recMA31BnAgZ1oy01",
+            "description": "Scout directly in front of the /comitatus/’ current trajectory. "
+        },
+        {
+            "uid": "recMOOwJae8wZuB6B",
+            "description": "Disable Hunting and Foraging Results. "
+        },
+        {
+            "uid": "recMSN2OWv3oN986u",
+            "description": ""
+        },
+        {
+            "uid": "recMYI10nL06ERLWf",
+            "description": "This Companion is unavailable for deployment."
+        },
+        {
+            "uid": "recMZCTje6U8GExIN",
+            "description": "Line"
+        },
+        {
+            "uid": "recMdeYGMNBLWJuOQ",
+            "description": "Not enough *Resourcefulness*."
+        },
+        {
+            "uid": "recMjkXKCya6EuDNP",
+            "description": "Reclaim Effect"
+        },
+        {
+            "uid": "recN3U8iI4q0Zozm8",
+            "description": "Adjusts how fast characters clash in Skill actions."
+        },
+        {
+            "uid": "recNGuHjEi5pMEst8",
+            "description": "%CharacterName% INI %INI% + %RandomINI% for the round"
+        },
+        {
+            "uid": "recNHtMwEzvefSlMd",
+            "description": "Companion loyalty in alignment. (%name%)"
+        },
+        {
+            "uid": "recNMnNeqsAk38a3G",
+            "description": "Story is in alignment (%level1name%)"
+        },
+        {
+            "uid": "recNPs7468c1i0REn",
+            "description": ""
+        },
+        {
+            "uid": "recNTgtfI88RTsUV8",
+            "description": ""
+        },
+        {
+            "uid": "recNdpPVxiEm9pdEG",
+            "description": "Inactive"
+        },
+        {
+            "uid": "recNfwxveU9i6wRqP",
+            "description": "/Unable to switch goal/"
+        },
+        {
+            "uid": "recNgoThJ6esJQQ9K",
+            "description": "No Filter Used\n/Click to select filter./"
+        },
+        {
+            "uid": "recNiYOlpBnaYzCUI",
+            "description": "Mount up your whole crew to travel with your mounts' speed. It also increases the chance to Flee from Crew Combat encounters but raises Mount consumption considerably.\n\n/They automatically dismount if the size of your crew exceeds the number of your mounts or if you have a Beast of Burden./\n\n/You need  %crewCompanionPlus1% mounts. You have %mountQty%.\nYou have %beastQtywName%˛/"
+        },
+        {
+            "uid": "recNmwJOV4TxfgFQt",
+            "description": "Overwhelming\n/This Skill ignores %value% of the target's Block./\n"
+        },
+        {
+            "uid": "recO5Cjrj1sZUnrp0",
+            "description": "*Click*: Sell 1 increment\n*Shift+Click*: Sell 1 stack\n\nTo Sell a specific amount *Shift+Click* on the good's *icon*."
+        },
+        {
+            "uid": "recO8v11B2y1Nvpfx",
+            "description": "Increase Maximum Resourcefulness (%resourcefulnesscost%)"
+        },
+        {
+            "uid": "recOMNZbAlBAhKKzY",
+            "description": "Cannot be used for (Days): %remainingdays%"
+        },
+        {
+            "uid": "recORTVXh9LcqWft1",
+            "description": "Unable to Break Camp"
+        },
+        {
+            "uid": "recOVTTiOqU6QBbo8",
+            "description": "This mansio does not provide any accommodation options."
+        },
+        {
+            "uid": "recOWe7DmZPJhLOWY",
+            "description": "Toggle filtering by Show All, Hide Claimed Tasks, and Show Available Only.\n/Show Available Only hides claimed Tasks as well as those you have not enough Faction Standing for./"
+        },
+        {
+            "uid": "recOXfigcAKV6GTq8",
+            "description": "You do not have enough movement points to increase the distance covered."
+        },
+        {
+            "uid": "recOXgPDUa8DimBMy",
+            "description": "Target: One Side\n/All characters on one side of the battlefield are targeted but a single target is enough to use the Skill./"
+        },
+        {
+            "uid": "recOhznYIdgt2OSLp",
+            "description": "Factions (%hotkey%)"
+        },
+        {
+            "uid": "recOikPPoVVec8VcS",
+            "description": "Row"
+        },
+        {
+            "uid": "recOir21XSHHNsimC",
+            "description": "Power (POW) is used by certain Skills. These Skills can only be used if the character has enough POW to pay for its activation."
+        },
+        {
+            "uid": "recOoHJh0oFSuERW6",
+            "description": "%qty% \\ %currentmax%\nCargo can never exceed 600 (30 slots),\nthe absolute maximum."
+        },
+        {
+            "uid": "recOrVLc5Ucd0rpuS",
+            "description": ""
+        },
+        {
+            "uid": "recOre8a347iFKNLu",
+            "description": "When selected, this option displays actual prices on the tabs."
+        },
+        {
+            "uid": "recOyDLwCJXUrrK8K",
+            "description": "Your Background provides additional advantages and Perks."
+        },
+        {
+            "uid": "recP29vErCXYnG0Hu",
+            "description": "You have to select at least one combat group to fight for you."
+        },
+        {
+            "uid": "recP8G01VWDrlJeN2",
+            "description": "Fewer than %value% Companions"
+        },
+        {
+            "uid": "recPDZ7QRJsHLcLvc",
+            "description": "Turns Quick Camping on and off.\nThis setting will add a Quick Camp option to the radial menu through which you may bypass the camp UI ending the day immediately with camp when you reach your chosen destination.\n\n/This setting is not available early during the tutorial./ "
+        },
+        {
+            "uid": "recPHoCivJKqUsnl4",
+            "description": "TargetRowFrontAny"
+        },
+        {
+            "uid": "recPLIWKBxP48LsuG",
+            "description": "Not enough *Resourcefulness*."
+        },
+        {
+            "uid": "recPLP2L9sl6KlQNn",
+            "description": ""
+        },
+        {
+            "uid": "recPTSJDlrasMXbAJ",
+            "description": "*Critical Success* chance\n/Receive exact information about the node you were Scouting in case of *Critical Success*./"
+        },
+        {
+            "uid": "recPhEsZgtS6z4BQy",
+            "description": "Adjusts the volume of ambient effects."
+        },
+        {
+            "uid": "recPsjsu6NaY4UXzU",
+            "description": "%name% %value%"
+        },
+        {
+            "uid": "recPuQ9nVG6d5JrdW",
+            "description": "Target: Any Side\n/This Skill's target can be from either side of the field./\n"
+        },
+        {
+            "uid": "recQ3Xs4C0iKjSqEo",
+            "description": "This Companion is locked in position on the battlefield."
+        },
+        {
+            "uid": "recQ5lVOzOorq4Eko",
+            "description": "TargetOneSideEmpty"
+        },
+        {
+            "uid": "recQByiL9rD9oV4H6",
+            "description": "Maximum Prowess already reached."
+        },
+        {
+            "uid": "recQCV4XWItJmLs6I",
+            "description": "Display Metals"
+        },
+        {
+            "uid": "recQIiXJ37f3Jpj2a",
+            "description": "%value% %name% required"
+        },
+        {
+            "uid": "recQTC8DO4W599gvS",
+            "description": "No further effect of adding more coins or no coins left to offer."
+        },
+        {
+            "uid": "recQZiG1qTZFSLv9q",
+            "description": "Story is  in alignment"
+        },
+        {
+            "uid": "recQjPD6AoQjRdiJU",
+            "description": ""
+        },
+        {
+            "uid": "recQrg3nMdSDlM8vg",
+            "description": "Your Calling can not be %name%"
+        },
+        {
+            "uid": "recQvvFchwQxOk7Xg",
+            "description": "When switched on, the frame of position bases are only visible when targeting in Companion Combat, instead of all the time."
+        },
+        {
+            "uid": "recQwRkkliwEaGRWJ",
+            "description": "Scouting *Movement Point* cost equals the highest MP cost direction."
+        },
+        {
+            "uid": "recQxTmcJwpFcOBqd",
+            "description": "Filter: Time to Complete - 1 Month"
+        },
+        {
+            "uid": "recQxY469TlebnOhC",
+            "description": "Unknown rumor: %name%"
+        },
+        {
+            "uid": "recRBuxLyStYslX5E",
+            "description": "Not enough Mounts or Fighters to create an Outrider."
+        },
+        {
+            "uid": "recRF2ElFPUzuyOnP",
+            "description": "Adjusts the size of Event texts and Codex entries. Changes will appear the next time an Event or the Codex is loaded."
+        },
+        {
+            "uid": "recRFJc4o4kmf1RKW",
+            "description": "Return to the campaign map.\nClicking the *Eye* icon reopens Scouting results where you can send out your scouts again."
+        },
+        {
+            "uid": "recRH6wpemWaXWFMc",
+            "description": "Not enough Insight (%authoritycost%)"
+        },
+        {
+            "uid": "recRIsDnO3cDTN3w7",
+            "description": "**Comitatus Log** (%hotkey%)"
+        },
+        {
+            "uid": "recRMqjVIlSWy8BNQ",
+            "description": "Filter: Completed"
+        },
+        {
+            "uid": "recRt8wt11Q6zlR5S",
+            "description": "Not yet available"
+        },
+        {
+            "uid": "recRzg1CU4Qojy7hn",
+            "description": "**Prowess**\n\nThe Companion's level of experience and skill (1-9).\n/Click to upgrade Companion./"
+        },
+        {
+            "uid": "recSTAUhMuaHRgNIv",
+            "description": "*Explore*"
+        },
+        {
+            "uid": "recSU7wGmmcQS9pbG",
+            "description": "Perk: %name% (%level%) required"
+        },
+        {
+            "uid": "recSXqzkbS5VXPZEK",
+            "description": ""
+        },
+        {
+            "uid": "recSdFqbcQQigws4L",
+            "description": "**Vagrus** (%hotkey%)"
+        },
+        {
+            "uid": "recSjEcs5RUYmCbpj",
+            "description": "End current day.\n/Consumption, payments, and recreation choices are applied. MP and Resourcefulness replenish at the beginning of the next day./"
+        },
+        {
+            "uid": "recSt1fM3nBsfmHla",
+            "description": "Offer your crew normal wages for the current day."
+        },
+        {
+            "uid": "recT3tK24tcEbZySo",
+            "description": "Not %status%"
+        },
+        {
+            "uid": "recTB8U4oSgpSiULP",
+            "description": "Filter: Time to Complete - 1 Week"
+        },
+        {
+            "uid": "recTBw7TGWCW37mFq",
+            "description": ""
+        },
+        {
+            "uid": "recTBxo4FJIt2GVAR",
+            "description": ""
+        },
+        {
+            "uid": "recTE1OBHCiWyDhkn",
+            "description": "If switched on, characters automatically target the first available enemy after Skill selection and you only need to confirm or cycle through targets."
+        },
+        {
+            "uid": "recTFxwnc99NlfvWe",
+            "description": ""
+        },
+        {
+            "uid": "recTG46gyiHqVZ6Zz",
+            "description": "Can only be used if you have the required standing with at least one faction present in both your current location and the selected settlement. "
+        },
+        {
+            "uid": "recTGvBkPF8WV15PH",
+            "description": "Faction information can be viewed here."
+        },
+        {
+            "uid": "recTLjY9ZF4jQrzjb",
+            "description": ""
+        },
+        {
+            "uid": "recTLw3BP4SfK9EOo",
+            "description": "At least %value% Companions"
+        },
+        {
+            "uid": "recTg6I9KOv2DxHMe",
+            "description": "Toggles between a single-choice or all choices being activated when previewing the \"Enhance Test\" Leadership Perk's effect in Events."
+        },
+        {
+            "uid": "recToL6NK82pBonI3",
+            "description": "No increase to revert"
+        },
+        {
+            "uid": "recTruE2jRMly3mGQ",
+            "description": "Restricted\n/This Skill can only be used when the following requirement is met: %restriction%./\n"
+        },
+        {
+            "uid": "recTtvKnsrgUoNXLi",
+            "description": "**Journal** (%hotkey%)"
+        },
+        {
+            "uid": "recTulpPPtot2rbyG",
+            "description": "Game Settings\n/Settings related to gameplay can be found here./"
+        },
+        {
+            "uid": "recTwbu7Uk3zoa6bB",
+            "description": "Perk levels gained from the /vagrus/ and the related status effects."
+        },
+        {
+            "uid": "recU2CHz3Dm1Q8baD",
+            "description": "You have unsaved changes."
+        },
+        {
+            "uid": "recU41Y8OFPt7S3Wb",
+            "description": ""
+        },
+        {
+            "uid": "recU746MCpscmzbGU",
+            "description": "Heal Companions"
+        },
+        {
+            "uid": "recUI9Kd9JJswIB6v",
+            "description": "Revert"
+        },
+        {
+            "uid": "recUJ2qKrz3RwS9Ht",
+            "description": "Close Codex"
+        },
+        {
+            "uid": "recUPhBaJs6kmpXD4",
+            "description": "Pay all your debt to your crew at the end of the day, including what you offer for the current day."
+        },
+        {
+            "uid": "recUVQcqZStUnJW4P",
+            "description": "Resetting the offer is not available."
+        },
+        {
+            "uid": "recUX229cU6szVo00",
+            "description": "The measure of how many supplies your /comitatus/ consumes each day with standard rations. "
+        },
+        {
+            "uid": "recUg8RPEvnuhd26o",
+            "description": "Sort Cargo\n/Merges stacks and moves the same goods together./"
+        },
+        {
+            "uid": "recUgk7jhnBGeWlpN",
+            "description": ""
+        },
+        {
+            "uid": "recUl6xASKECJAJuo",
+            "description": "Set value to minimum."
+        },
+        {
+            "uid": "recUmrZyHAkdI7rtU",
+            "description": "Immobilize\n/This Skill can cause the target to become Immobilized for %rounds% Round(s). Immobilized characters can not Move and Evade./"
+        },
+        {
+            "uid": "recUpYThD4ktErdhE",
+            "description": "The chance of an event occurring on this node is %chance%."
+        },
+        {
+            "uid": "recUq8tzePtZLxgfJ",
+            "description": ""
+        },
+        {
+            "uid": "recUyzZZwG0UKScXo",
+            "description": "Break Camp"
+        },
+        {
+            "uid": "recUznGzEQu1ZLM6X",
+            "description": "The damage reduction from Lightning damage and the chance to resist Lightning damage over time."
+        },
+        {
+            "uid": "recV3ILOiNvlcQUG8",
+            "description": "Vitality"
+        },
+        {
+            "uid": "recV41pxCGI4T4O0q",
+            "description": "Adjusts graphical effects detail. This includes campaign map animations, decals, and particle effects. A higher setting might impact performance."
+        },
+        {
+            "uid": "recVA6evV8KLRcdMA",
+            "description": "Send out your slaves to forage. They can return with Supplies and sometimes other goods as well.\nResults depend on the Foraging Roll.\n/Critical Success - Supplies gained multiplied\nSuccess - Supplies gained\nFailure - Fewer Supplies gained\nCritical Failure - Might lose Slave and Obedience/"
+        },
+        {
+            "uid": "recVGixUagMBas1AF",
+            "description": "TargetRowAnyAny"
+        },
+        {
+            "uid": "recVImfvNQevEEpZz",
+            "description": "Set conditions relating to ventures (events or tasks) that stop the /comitatus/. "
+        },
+        {
+            "uid": "recVLEUiMBqMMUKB4",
+            "description": "Gear: %name% can not be owned"
+        },
+        {
+            "uid": "recVUhfS4GYypZdVm",
+            "description": "Block"
+        },
+        {
+            "uid": "recVYSJuMCQUBAxTJ",
+            "description": ""
+        },
+        {
+            "uid": "recVZv2scInOw9dQG",
+            "description": "Not enough *Resourcefulness* or *Movement Points* or *Scouts* to perform this action."
+        },
+        {
+            "uid": "recVbYwVJeEXGhjtg",
+            "description": "Displays the current round's number in Companion Combat when switched on."
+        },
+        {
+            "uid": "recVdQxOhNHMDq9zp",
+            "description": "The chance to resist Stun and Immobilize effects."
+        },
+        {
+            "uid": "recVvYUEkRMM85eAc",
+            "description": "Repeating\n/This Skill repeats against the same target until missing. Subsequent repeats incur an Accuracy penalty./\n\n%followup%"
+        },
+        {
+            "uid": "recW1OsWPvcIBm1Vk",
+            "description": "Scouting *Movement Point* cost equals the highest MP cost direction."
+        },
+        {
+            "uid": "recW8obQsTueRcEQr",
+            "description": "Leadership actions are disabled at this time."
+        },
+        {
+            "uid": "recWDJ0coEiEjhWmi",
+            "description": "TargetRowBackAny"
+        },
+        {
+            "uid": "recWEamCqy7BlDg3Z",
+            "description": "*Racial features:*\n%racial feature 1%\n%racial feature 2%\n%racial feature 3%\n..."
+        },
+        {
+            "uid": "recWEt7z45dvJJeOR",
+            "description": "The damage reduction from Energy damage and the chance to resist Magical damage over time as well as Magical effects."
+        },
+        {
+            "uid": "recWFtIWkvitUvXMm",
+            "description": "Display scouting results. "
+        },
+        {
+            "uid": "recWLKXP4Z6Bnaetm",
+            "description": "Not %name% %value%"
+        },
+        {
+            "uid": "recWONv393YIxF5ge",
+            "description": ""
+        },
+        {
+            "uid": "recWRhH92FKWqRmSp",
+            "description": "This slot is locked. You can unlock it by assigning a Deputy to an appropriate role."
+        },
+        {
+            "uid": "recWXaOLBfj3oNLLP",
+            "description": "*Camp*"
+        },
+        {
+            "uid": "recWaF32GmwNgIzxJ",
+            "description": "You can send your scouts out again in hopes of a better result."
+        },
+        {
+            "uid": "recWbhqOEeTKSAs3j",
+            "description": "You will find something story-related in this direction."
+        },
+        {
+            "uid": "recWcjXJg6D48ewiE",
+            "description": "Target: Empty Line\n/The Skill must target an empty Line./"
+        },
+        {
+            "uid": "recWu2NlOJFARBSZS",
+            "description": "Previous stage."
+        },
+        {
+            "uid": "recWvjVDmTpfT2svF",
+            "description": "Total Codex entries collected."
+        },
+        {
+            "uid": "recXHVkhiuNooS4G8",
+            "description": "*Click*: Add 1 increment\n*Shift+Click*: Add 1 stack"
+        },
+        {
+            "uid": "recXZYGLTeggHkgJh",
+            "description": "Reset Perks."
+        },
+        {
+            "uid": "recXdrNVQrziBTmm9",
+            "description": "Spend all Insight Points to progress."
+        },
+        {
+            "uid": "recXnfaztYiXWhFJu",
+            "description": "Discard the current Exploration Tasks for a set of new ones using your sway with the factions. There is no guarantee that the new Tasks will be better.\n/Costs %rf% Resourcefulness and can be done every %freq% days./"
+        },
+        {
+            "uid": "recXsnnlaKM2WbvPC",
+            "description": "Not yet available."
+        },
+        {
+            "uid": "recXxRI3DuYtdCaDU",
+            "description": "Discard the current Trade Tasks for a set of new ones using your sway with the factions. There is no guarantee that the new Tasks will be better.\n/Costs %rf% Resourcefulness and can be done every %freq% days./"
+        },
+        {
+            "uid": "recY6vsJy89viUkZm",
+            "description": "Followup\n/This Skill has another phase against the same target:/\n%followup%"
+        },
+        {
+            "uid": "recYBP1F9RdwnTkCV",
+            "description": "Not enough *Resourcefulness* to perform this action."
+        },
+        {
+            "uid": "recYHJnx0TtezOW2N",
+            "description": "Move on, leaving the encounter without altercation."
+        },
+        {
+            "uid": "recYIEYEctYUzCoKA",
+            "description": "Undiscovered location"
+        },
+        {
+            "uid": "recYIKGynbUSufx4o",
+            "description": "**Chart** (%hotkey%)"
+        },
+        {
+            "uid": "recYhjmTYvfYvO9N9",
+            "description": "You do not have enough Scouts to increase the distance covered."
+        },
+        {
+            "uid": "recYkJHXertZklZf6",
+            "description": "Toggle Sorting by Faction, Task Level, and Reputation relevance.\n/Reputation relevance shows the Tasks that can be taken and grant reputation on top, then those that can be taken but grant no reputation, then the rest of the Tasks./"
+        },
+        {
+            "uid": "recYodW3iaHTU9YMN",
+            "description": "Postpone paying. Your debt will be added to the accrued sum, including what you offer for the current day."
+        },
+        {
+            "uid": "recYpIYXnGcEtT1w5",
+            "description": "You have to select at least one combat group to fight for you."
+        },
+        {
+            "uid": "recYqPGlhSD1B0VX9",
+            "description": "Can not boost Skill further."
+        },
+        {
+            "uid": "recYqVOshQXuRhPdl",
+            "description": "Target: Neighbor\n/This Skill can target friendly characters next to the Skill's user./"
+        },
+        {
+            "uid": "recYsvb4c0ycHeyEZ",
+            "description": "Filter: Time to Complete - 3 Months"
+        },
+        {
+            "uid": "recYxSvfWLlZwXGYI",
+            "description": "Auto-offer not available."
+        },
+        {
+            "uid": "recYyasDf3tgNPIUq",
+            "description": "Not enough Resourcefulness."
+        },
+        {
+            "uid": "recZ4jYepuWiezyYQ",
+            "description": "*March*"
+        },
+        {
+            "uid": "recZEeoq3NrQHZwOp",
+            "description": "Enter a name before proceeding."
+        },
+        {
+            "uid": "recZFvqTefM4zLQz5",
+            "description": "Heal the wounded after the fight."
+        },
+        {
+            "uid": "recZGIyDqFFYqKvyq",
+            "description": "Sort price history by the freshness of price information, starting with the most up-to-date price history on the left."
+        },
+        {
+            "uid": "recZGlRz3zGF4XIJh",
+            "description": "Not available in this settlement\n"
+        },
+        {
+            "uid": "recZI5i0HRpp2jKDK",
+            "description": "Marked locations remain visible regardless of map zoom."
+        },
+        {
+            "uid": "recZTu8mnxDpkTiDs",
+            "description": "Send out your workers to forage. They can return with Supplies and sometimes other goods as well.\nResults depend on the Foraging Roll.\n/Critical Success - Supplies gained multiplied\nSuccess - Supplies gained\nFailure - Fewer Supplies gained\nCritical Failure - Might lose Worker and Morale/"
+        },
+        {
+            "uid": "recZUrbwX0AdPekqo",
+            "description": "Deploying your Passengers raises your Combat Strength but they might become wounded, denying their rewards upon delivery."
+        },
+        {
+            "uid": "recZj7k1SMawzqVHG",
+            "description": "Active Status Effects are listed here."
+        },
+        {
+            "uid": "recZlgwBbMdqaen6g",
+            "description": "March MP Cost"
+        },
+        {
+            "uid": "recZlytST3UjeqCzv",
+            "description": "Video Settings\n/Settings related to display and graphics./"
+        },
+        {
+            "uid": "recZm40HRNjVOhOkY",
+            "description": "*Locked*\n/'Enhance' Leadership Perk is required to unlock./"
+        },
+        {
+            "uid": "recZovhCJ1hVjqNpc",
+            "description": "Not enough Insight to raise Prowess."
+        },
+        {
+            "uid": "recZozLh5CpXmtHrf",
+            "description": "%character% has not %status%"
+        },
+        {
+            "uid": "recZqR84QiDBRQt23",
+            "description": "*Locked*\n/Appropriate Leadership Perk is required to unlock./"
+        },
+        {
+            "uid": "recZwtJtQMzZDggeM",
+            "description": "Scout all adjacent nodes connected to the /comitatus/’ current trajectory. "
+        },
+        {
+            "uid": "reca7Zu7owFnt7JZD",
+            "description": "**Prepare**\n\nBoost the INI of a Companion for the current Round. The Companion moves ahead in the INI order instantly.\nMaximum %useage% per Round.\n%cost% Resourcefulness"
+        },
+        {
+            "uid": "recaGTSWbaPgyAGR5",
+            "description": "Cleanse\n/This Skill cancels %type% effects on the target./"
+        },
+        {
+            "uid": "recaGwWlsTK4iTYQ4",
+            "description": ""
+        },
+        {
+            "uid": "recaHk5olKAbgeHVi",
+            "description": "Not yet available. Coming in a future release."
+        },
+        {
+            "uid": "recaLHwEaKWFq5X8H",
+            "description": ""
+        },
+        {
+            "uid": "recaWbw9L213Xp4e0",
+            "description": "The money you have to pay to your crew each day."
+        },
+        {
+            "uid": "recalnvWWRMu6mONa",
+            "description": "_unused_"
+        },
+        {
+            "uid": "recao1s0Jq2yum712",
+            "description": "A summary of Perks can be found here (from your character, Companions, Gear, Equipment, Status Effects, etc.)."
+        },
+        {
+            "uid": "recaofP1z8H9uz3dN",
+            "description": "Elite Unit"
+        },
+        {
+            "uid": "recatk0ho8BYlBnG0",
+            "description": "Hardness (HRD) is deducted from damage when the obstacle is hit. Some attacks ignore a part of all of Hardness."
+        },
+        {
+            "uid": "recb1TXtCrsMGfqvo",
+            "description": "Offer your crew quadruple wages for the current day (boosts Morale)."
+        },
+        {
+            "uid": "recb3cZRwEl2TSewG",
+            "description": ""
+        },
+        {
+            "uid": "recb5ImdNEkzaC7SY",
+            "description": "*Click*:  Sell 1 stack\n\n/Prices shown for a full stack/"
+        },
+        {
+            "uid": "recbK28BEBCveF2Pb",
+            "description": "This save requires the following DLC:"
+        },
+        {
+            "uid": "recbPnWhhFzTCPa4a",
+            "description": "Target: Positions in a Square\n/Up to four characters or empty positions in a square can be targeted./"
+        },
+        {
+            "uid": "recbdrgCMfhLFnwfQ",
+            "description": "No increase to revert"
+        },
+        {
+            "uid": "recbmaybM0y06FP1z",
+            "description": "End current day.\n/Consumption, payments, and defense orders are applied. MP and Resourcefulness replenish at the beginning of the next day./"
+        },
+        {
+            "uid": "recbntB2XWqM9pvCU",
+            "description": "Inactive"
+        },
+        {
+            "uid": "recbtQ1xXnNgppqdI",
+            "description": "No effect of substracting coins or no coins left."
+        },
+        {
+            "uid": "recbu98IDFUo7YU1d",
+            "description": "Using Skills require a second click to confirm the action."
+        },
+        {
+            "uid": "recbvkeO0I85O8DSv",
+            "description": "Dismount your crew. /Except for your outriders./"
+        },
+        {
+            "uid": "recc3VbZJUaNObAVQ",
+            "description": "*Boost Skill*: Use a Combat Skill at its next tier.\n/Clicking this changes the Skills for this character to their next tier versions. Use the Skills normally afterwards. Clicking the button again cancels Boost./\n%cost% Resourcefulness"
+        },
+        {
+            "uid": "recc4vtD5d64LjL8t",
+            "description": "Not available yet."
+        },
+        {
+            "uid": "recc6fQTpSI2rf9Tr",
+            "description": "Increase your chance of succeeding in the Test by %value%%.\n/Cost: %rf% Resourcefulness./"
+        },
+        {
+            "uid": "reccD9qql5rSOCJw0",
+            "description": ""
+        },
+        {
+            "uid": "reccIvKk83hsM1tc5",
+            "description": "Sets display mode."
+        },
+        {
+            "uid": "reccJ2k1xW94pgIbe",
+            "description": "Target: Two Empty in the Same Row\n/The Skill must target two empty positions./"
+        },
+        {
+            "uid": "reccL3XNDnKAoEgpo",
+            "description": "Enemies lie in wait here."
+        },
+        {
+            "uid": "reccNCzObUXooSO1D",
+            "description": "Reallocate %traverseeffect% March Movement Points to regular Movement Points\n/Costs %rf% Resourcefulness and can be done every %freq% days./\n"
+        },
+        {
+            "uid": "reccaSKQDNmkDnGvh",
+            "description": "The damage reduction from Mental damage and the chance to resist Mental damage over time as well as Mental effects."
+        },
+        {
+            "uid": "reccf5mgU4teEd1qs",
+            "description": "Empty Position"
+        },
+        {
+            "uid": "recchhMTblVEwD3n6",
+            "description": "Control\n/This Skill can cause the target to act under your control for a brief time./\n"
+        },
+        {
+            "uid": "reccuDOwUTIvxbnWf",
+            "description": "Crushing\n/This Skill ignores %value% Hardness of the target obstacle./"
+        },
+        {
+            "uid": "recd3LI3QX7YF1RMB",
+            "description": "Target: Empty Back Row\n/The Skill must target an empty Back Row./"
+        },
+        {
+            "uid": "recd8yj7X5GXbLeSJ",
+            "description": "%name% is not Hurt, Wounded, or Severely Wounded"
+        },
+        {
+            "uid": "recd9hj9BwdywOd6T",
+            "description": "*Open Character Sheet*"
+        },
+        {
+            "uid": "recdAgvvMWfx4Jwt8",
+            "description": "Deputy %name% can not be assigned."
+        },
+        {
+            "uid": "recdEGscNu8HYhEbT",
+            "description": "Victory condition: %victorycondition%"
+        },
+        {
+            "uid": "recdW5fDU4NHUygdG",
+            "description": "*Quick Camp*"
+        },
+        {
+            "uid": "recdgvpxR1aVfSePS",
+            "description": "Not enough *%prop%*"
+        },
+        {
+            "uid": "recdtWT86b5LTqdWz",
+            "description": "Sort price history by the alphabetic order of settlement names."
+        },
+        {
+            "uid": "recdyzLXX9AzZ0bO6",
+            "description": "Generate an offer that might satisfy the foe to allow a successful *Flee*. \nThis might not be the most optimal offer considering your /comitatus/' wealth and options."
+        },
+        {
+            "uid": "rece4CjffQwnDy6ZR",
+            "description": "Filter: Lore and History"
+        },
+        {
+            "uid": "rece6WopVqW53fAEP",
+            "description": ""
+        },
+        {
+            "uid": "receCrbJWnFigiJLX",
+            "description": "Switch Stack Deals\n/While switched on, the +/- buttons add and distract full stacks./"
+        },
+        {
+            "uid": "receEIs5TY02rYobk",
+            "description": "Send out your scouts to hunt. They can return with Supplies and sometimes other goods as well.\nResults depend on the Hunting Roll.\n/Critical Success - Supplies gained multiplied\nSuccess - Supplies gained\nFailure - Fewer Supplies gained\nCritical Failure - Might lose Scouts and Vigor/"
+        },
+        {
+            "uid": "receIbulYtWPAttAC",
+            "description": ""
+        },
+        {
+            "uid": "receRaBjYIfhVuftu",
+            "description": "Actions (ACT) is the number of times a combatant takes their Turn in a Round. Subsequent Turns are taken after all first Turns are taken by every combatant."
+        },
+        {
+            "uid": "receUljPn4gr8vUus",
+            "description": "**Codex** (%hotkey%)"
+        },
+        {
+            "uid": "receUx22zaUIxYHiZ",
+            "description": "+every 3rd: loyalty questline requirement?"
+        },
+        {
+            "uid": "reced1bTeLHEGyddP",
+            "description": ""
+        },
+        {
+            "uid": "reced27vGJAwoGmHR",
+            "description": "You do not have time to spare for healing."
+        },
+        {
+            "uid": "receeEs1bOaZQ5fKY",
+            "description": "Not enough *March Movement Points* to perform this action."
+        },
+        {
+            "uid": "recejJcfpDhq4WSbx",
+            "description": "Select portrait."
+        },
+        {
+            "uid": "recemWxWQE9LSfJWa",
+            "description": ""
+        },
+        {
+            "uid": "recerUK7wnFcPAkYf",
+            "description": "Send out your workers to earn some coins working odd jobs. They might return with additional goods.\nResults depend on the Odd Jobs Roll.\n/Critical Success - Decent earnings\nSuccess - Mediocre earnings\nFailure - Poor earnings\nCritical Failure - Might lose Worker and Morale/\n"
+        },
+        {
+            "uid": "recf3NFxTuOdMGCVF",
+            "description": "Not yet available"
+        },
+        {
+            "uid": "recf9P7BWHbdohEaa",
+            "description": "Send your scouts in the chosen directions.\n/You can not change your orders afterwards but you may send them again./"
+        },
+        {
+            "uid": "recfCJ89zTERxRqmq",
+            "description": "News from %node%"
+        },
+        {
+            "uid": "recfErkSvHikkDnYm",
+            "description": ""
+        },
+        {
+            "uid": "recfFRsk1073NPMp6",
+            "description": "No news from %node%"
+        },
+        {
+            "uid": "recfMtAUgr2xbxDoI",
+            "description": "Maximum Authority (%maxauthority%) reached."
+        },
+        {
+            "uid": "recfNlenu7ACFT0nl",
+            "description": ""
+        },
+        {
+            "uid": "recfS4uWFTI0rbISg",
+            "description": "Not %name% %value%"
+        },
+        {
+            "uid": "recfT7nfHM2EZyfvl",
+            "description": "Passenger: %name% can not be present"
+        },
+        {
+            "uid": "recfX3OaB0c4BY3cs",
+            "description": "Quality: %name% (Need %value% or more. You have %valueplayer%.)"
+        },
+        {
+            "uid": "recfZ79EkengMTCxh",
+            "description": "Turns Automarch on and off. \nToggling this on will cause your comitatus to automatically expend march points when you choose a node outside the range that your movement points\ncan take you.\n\n/This setting is not available early during the tutorial./"
+        },
+        {
+            "uid": "recfbzrgQPUdWqxVR",
+            "description": "Increase your standing to gain access to this Faction Offer. \n\nFaction Offer Tiers are dependent on your standing with the given Faction and their specializations. Trading Houses typically have higher tier Faction Offers\navailable, while Churches and Criminal organizations only give access to their faction reserves."
+        },
+        {
+            "uid": "recfxmg95VBhslkwk",
+            "description": ""
+        },
+        {
+            "uid": "recg0A4g3GsKB3Kc0",
+            "description": "Not enough *Resourcefulness*."
+        },
+        {
+            "uid": "recg634HcnnQmaZCO",
+            "description": "Target: Empty Square\n/The Skill must target four neighboring empty positions./"
+        },
+        {
+            "uid": "recgHBTIBHLawUuF9",
+            "description": "**Inspire**\n\nBoost the defenses of a Companion for 3 Rounds.\n%cost% Resourcefulness"
+        },
+        {
+            "uid": "recgJGKa4ydqDWJK4",
+            "description": "View related Codex entries (if already unlocked)."
+        },
+        {
+            "uid": "recgRLoQlZb2T2fYQ",
+            "description": "%name% value cannot exceed the requirement."
+        },
+        {
+            "uid": "recgUFZfX3xBsfVBp",
+            "description": "*Change Defense Mode*\nCurrent Defense Mode: Block"
+        },
+        {
+            "uid": "recgUcJqsAEctTtBM",
+            "description": "Unknown faction"
+        },
+        {
+            "uid": "recgVuD1OTcyaEPro",
+            "description": "Story is in alignment"
+        },
+        {
+            "uid": "recgjIFPpZ418Cmie",
+            "description": "Select your silhouette and confirm your name. "
+        },
+        {
+            "uid": "recgkmAwexTE70898",
+            "description": "Actions"
+        },
+        {
+            "uid": "rech6sNtnlAY5goGZ",
+            "description": "%value% Rations required"
+        },
+        {
+            "uid": "rech7ZqB2vB4gfRPs",
+            "description": "When switched on, the nodes you have already visited in the world get marked."
+        },
+        {
+            "uid": "rechAMTgWvadM8zX1",
+            "description": "Penetrating\n/This Skill ignores all of the target's Armor./"
+        },
+        {
+            "uid": "rechIa5oMTK2izKMw",
+            "description": ""
+        },
+        {
+            "uid": "rechVQpWOU1ytbnJS",
+            "description": ""
+        },
+        {
+            "uid": "rechf5t8txGd4Evkh",
+            "description": "Adjusts the volume of sound effects."
+        },
+        {
+            "uid": "rechkLZNXC8uRXrrb",
+            "description": "Clear Filters"
+        },
+        {
+            "uid": "rechrfReEDf3toyWi",
+            "description": "Target: Neighbor or Self\n/This Skill can target friendly characters next to the Skill's user as well as the user themselves./"
+        },
+        {
+            "uid": "rechy9xyG3W29QbF9",
+            "description": "Not available at the moment. Wait %freq% day(s) for Traverse to become available again."
+        },
+        {
+            "uid": "reci4SzuT7PdKDt1W",
+            "description": "The damage reduction from Fire damage and the chance to resist Fire damage over time."
+        },
+        {
+            "uid": "reciNp20OuiJdZaLa",
+            "description": "**Resourcefulness**\n%max% \\ %current%"
+        },
+        {
+            "uid": "reciPdLuPeXyuYs6O",
+            "description": "EvadeTriggered"
+        },
+        {
+            "uid": "reciUJ8GyLugG4y3U",
+            "description": "/Not available yet./"
+        },
+        {
+            "uid": "reciXf7bhwt7wxSOR",
+            "description": "Companion: %name% can not be present"
+        },
+        {
+            "uid": "reciYdO68xcgoaQK3",
+            "description": "*Forfeit active turn and replenish 2 Power. *"
+        },
+        {
+            "uid": "reciluIj2RBVFQkn1",
+            "description": "Target: Single Empty\n/The Skill must target a single empty position./"
+        },
+        {
+            "uid": "recinnxmKl8ZuH6eB",
+            "description": "Finalize changes"
+        },
+        {
+            "uid": "recioy7EweeEc0G6q",
+            "description": "Send out your slaves to earn some coins working odd jobs. They might return with additional goods.\nResults depend on the Odd Jobs Roll.\n/Critical Success - Decent earnings\nSuccess - Mediocre earnings\nFailure - Poor earnings\nCritical Failure - Might lose Slave and Obedience/"
+        },
+        {
+            "uid": "reciuXST0ZJM65eAk",
+            "description": "*Enter*"
+        },
+        {
+            "uid": "recivcRGM2pWVhbCk",
+            "description": "Available: Every %freq% - %freq2% days"
+        },
+        {
+            "uid": "recj0kolbnxg7TvN7",
+            "description": "**Glossary** (%hotkey%)"
+        },
+        {
+            "uid": "recj1KbQlI2s4ZXj9",
+            "description": "Disabled"
+        },
+        {
+            "uid": "recj7mKpUShcpSsT2",
+            "description": "Accuracy (ACC) is the chance for the Skill to successfully hit the target. Defenses are rolled after hitting the target."
+        },
+        {
+            "uid": "recjHaaq4Q2mXfw38",
+            "description": "You can not afford to rest in the mansio.\n/Leave the settlement to camp outside or get %money% to pay for the mansio./"
+        },
+        {
+            "uid": "recjXj39sKl5hSkha",
+            "description": "Cost: %insightcost% Insight and %RFcost% Resourcefulness"
+        },
+        {
+            "uid": "recjc4oqBKgj3Bgr2",
+            "description": "At least %value% Companions"
+        },
+        {
+            "uid": "recjjUhDApilpsRsC",
+            "description": "Debuff\n/This Skill can place an ongoing negative effect on the target./"
+        },
+        {
+            "uid": "recjqmlj4hchlsTqq",
+            "description": "*Change Defense Mode*\nCurrent Defense Mode: Evade"
+        },
+        {
+            "uid": "recjrSXZIBreMGbsP",
+            "description": ""
+        },
+        {
+            "uid": "recjt1FU6mHOS46cg",
+            "description": "Butcher one or more Mounts to gain Supplies. /Cargo capacity will be lowered./"
+        },
+        {
+            "uid": "reck0aFKNgLSskpmm",
+            "description": "%name% %value%"
+        },
+        {
+            "uid": "reck40yCWz57LFP47",
+            "description": "Codex Entry: %name% can not be unlocked"
+        },
+        {
+            "uid": "reck4klNXIXkF6vKV",
+            "description": "Precise\n/This Skill ignores all of the target's Evade./"
+        },
+        {
+            "uid": "reck589VIw82yGMB0",
+            "description": "Rumor: %name%"
+        },
+        {
+            "uid": "reck8pCGVZavmoXmm",
+            "description": "Your Calling determines additional starting Perks, possessions, and crew."
+        },
+        {
+            "uid": "reckCZdfFlelNEqmp",
+            "description": "Reset changes"
+        },
+        {
+            "uid": "reckIqVyh52T39JRv",
+            "description": "The number of POW the character regains each round."
+        },
+        {
+            "uid": "reckKQ5rrvs8dDolx",
+            "description": "*Click*:  Buy 1 stack\n\n/Prices shown for a full stack/"
+        },
+        {
+            "uid": "reckVOlCjCjVpGoAT",
+            "description": "Target: Any Row\n/All characters in the Row will be targeted but a single target is enough to use the Skill./"
+        },
+        {
+            "uid": "reckYIjIwvCorGnT6",
+            "description": "*[red]VIT %vit% \\ %maxvit%[]*\n*[yellow]POW %pow% \\ %maxpow%[]*"
+        },
+        {
+            "uid": "reckhxHnTAoO4r9KV",
+            "description": ""
+        },
+        {
+            "uid": "reckiCrSVO9AXAfUg",
+            "description": "Reptile Mounts and Beast of Burden"
+        },
+        {
+            "uid": "recklvIbiL2yoLPbf",
+            "description": "No changes to reset."
+        },
+        {
+            "uid": "reckvDazhVM8UZDEu",
+            "description": "Available: Every %freq% days"
+        },
+        {
+            "uid": "reckyYt4sY7wawkdE",
+            "description": "Spend %Tweak.HealResourcefulnessCost% Resourcefulness to increase the chances of successfully healing your crew. Costs no Resourcefulness if you are already camping."
+        },
+        {
+            "uid": "reckzQ6VR5j6TLssn",
+            "description": "This Companion is a non-combatant hireling and can not be deployed."
+        },
+        {
+            "uid": "recl5GyZdDN2wmzJR",
+            "description": ""
+        },
+        {
+            "uid": "reclE5u0z0E8MsLVe",
+            "description": "You must swap to this beast type first."
+        },
+        {
+            "uid": "reclFBcgxEiDzyGqS",
+            "description": "Close Journal"
+        },
+        {
+            "uid": "reclRnZtaQc57opJv",
+            "description": "Your story is not in alignment. Something else is required to happen."
+        },
+        {
+            "uid": "recleh8nJBuo5m9K8",
+            "description": "Type: Melee\n/This Skill can only be used from the Front Row. It can target the enemy Front Row or unblocked targets in the enemy Back Row./"
+        },
+        {
+            "uid": "reclhM9Cx7Prup4Uk",
+            "description": "%character% has %status%"
+        },
+        {
+            "uid": "recln4sQHRIINQkdW",
+            "description": "Save passed the time limit of the game"
+        },
+        {
+            "uid": "reclqVG8UglPZ76tT",
+            "description": "Target: Two Characters in the Same Row\n/A single target is enough to use the Skill./"
+        },
+        {
+            "uid": "reclvCXEe6MrTE0Di",
+            "description": "Tasks and Passengers"
+        },
+        {
+            "uid": "recm6tILj9WStcL9c",
+            "description": "Fewer than %value% %name% required (you have %count%)"
+        },
+        {
+            "uid": "recmMBS6X66iGnLwn",
+            "description": ""
+        },
+        {
+            "uid": "recmQ2M7DifIVrB0Z",
+            "description": "Filter: Nature"
+        },
+        {
+            "uid": "recmb7iduamiDgG1J",
+            "description": "Adjusts how fast the camera follows your /comitatus/ on the campaign map."
+        },
+        {
+            "uid": "recmcb5bW85T9XF95",
+            "description": "Show prices for a full stack."
+        },
+        {
+            "uid": "recmg7jg1CecRHkhJ",
+            "description": "Not available in this settlement\n"
+        },
+        {
+            "uid": "recmhIF4AJdjrHvHT",
+            "description": ""
+        },
+        {
+            "uid": "recmjkHvgvpEp3YOf",
+            "description": " Allocate Perks using your starting Insight"
+        },
+        {
+            "uid": "recmqerWPuf6pLch9",
+            "description": "Your Ambition can not be %name%"
+        },
+        {
+            "uid": "recmvIpMy7xJmfgx5",
+            "description": "Add Outrider\n/Requires 1 Mount and 1 Fighter./"
+        },
+        {
+            "uid": "recmwEumWE0WDMJYB",
+            "description": "Qualities"
+        },
+        {
+            "uid": "recmwKlJZpEuNNgRj",
+            "description": "**Retreat**\n/not available/"
+        },
+        {
+            "uid": "recn7kDAJrNCSlfDz",
+            "description": "_unused_"
+        },
+        {
+            "uid": "recn9reY5f8AC6Wx2",
+            "description": "Price History"
+        },
+        {
+            "uid": "recnHtQMnKtrQOD5H",
+            "description": "Push\n/This Skill can push Front Row targets into the Back Row./"
+        },
+        {
+            "uid": "recnLOHJ7N6GbaTTy",
+            "description": ""
+        },
+        {
+            "uid": "recnNW64w0VcNrfPy",
+            "description": "*Locked*\n/Appropriate Leadership Perk is required to unlock./"
+        },
+        {
+            "uid": "recnQlqpHoqhUc5ZF",
+            "description": "Target: Battlefield\n/All characters on both sides of the battlefield are targeted but a single target is enough to use the Skill./"
+        },
+        {
+            "uid": "recnYwK6u0MA82v3y",
+            "description": "TargetBothSidesAny"
+        },
+        {
+            "uid": "recndCc2c6iEN8S7n",
+            "description": "VagrusCreateGenerateName"
+        },
+        {
+            "uid": "recndSpKxrt59dI7q",
+            "description": ""
+        },
+        {
+            "uid": "recnpfyc6f4swzdQj",
+            "description": "Save in Dissonance Mode"
+        },
+        {
+            "uid": "recnrPhotKBJ599TK",
+            "description": "Adjusts the volume of background and combat music."
+        },
+        {
+            "uid": "recnrdFD1uGdMJTg5",
+            "description": "At least %value% Companions"
+        },
+        {
+            "uid": "recnukriRMfPNFU1W",
+            "description": "Not yet available."
+        },
+        {
+            "uid": "recnxEOqptdtnu3Jo",
+            "description": "The chance to resist Bleed damage over time."
+        },
+        {
+            "uid": "reco3D7xwwRGZsiUB",
+            "description": "Each additional direction after the first (with Scout Master: after the second) costs *Resourcefulness*. \nBoosting the chance of a success also cost one *Resourcefulness* per direction."
+        },
+        {
+            "uid": "recoBACv1AFeB5t50",
+            "description": "Type: Ranged (Line of Sight)\n/This Skill can target any enemy position but incurs a Cover penalty on Accuracy when the target is blocked./"
+        },
+        {
+            "uid": "recoIWMZ1toI0N0V5",
+            "description": "Equipment: %name% must be owned"
+        },
+        {
+            "uid": "recoNgq946NbDd2c4",
+            "description": "%value% %name% required (you have %count%)"
+        },
+        {
+            "uid": "recoOOp1v4GiuopkP",
+            "description": "Enchanted\n/This Skill is able to damage enemies with the Impervious Trait./\n"
+        },
+        {
+            "uid": "recoOpsBr1tnwk5Mr",
+            "description": "%status%"
+        },
+        {
+            "uid": "recofsDPo8A69m9Y0",
+            "description": "Fewer than %value% Companions"
+        },
+        {
+            "uid": "recolw81ZIXKoq0fN",
+            "description": "Set conditions relating to hunting and foraging that stop the /comitatus/. "
+        },
+        {
+            "uid": "recomQ3MI9e0S7Ls6",
+            "description": "Stories Pane"
+        },
+        {
+            "uid": "recowSgpU2VKpzao0",
+            "description": "Tooltips.LeaderBackDisabledButton"
+        },
+        {
+            "uid": "recozVapsuhgtMVX8",
+            "description": "%name% is Hurt, Wounded, or Severely Wounded"
+        },
+        {
+            "uid": "recozqppGjAZJtlFo",
+            "description": "Send one more scout in this direction."
+        },
+        {
+            "uid": "recp0BveWCn0Npk6N",
+            "description": ""
+        },
+        {
+            "uid": "recpB87Url4lSfxKJ",
+            "description": "Open Settlement Rest Window"
+        },
+        {
+            "uid": "recpC9bJQtjo6UKIe",
+            "description": "Spend %Tweak.StopForHealMoveCost% MP to increase the chances of successfully healing your crew. Costs no MP if you are already camping."
+        },
+        {
+            "uid": "recpINcKFyhM5sAPK",
+            "description": "Target: Two Positions in the Same Row\n/The Skill can target two empty or occupied positions in the same row./"
+        },
+        {
+            "uid": "recpJBF8PZ0EDhCCE",
+            "description": "Reset Companion Perks and Skills"
+        },
+        {
+            "uid": "recpLiWq40tMTtDTF",
+            "description": "Goods: %name% (%value%) required"
+        },
+        {
+            "uid": "recpMr3hPwiiWfHM9",
+            "description": ""
+        },
+        {
+            "uid": "recpRsUvoBEidSXnS",
+            "description": "Evade (EVD) is a defense mode that allows the defender to avoid damage and effects from an attack entirely. Certain attacks ignore a part of or all of Evade. A successful Evade moves the defender to a random adjacent position."
+        },
+        {
+            "uid": "recpSQXEREftt9Mtm",
+            "description": "Taunt\n/This Skill compels the target to attack the Skill's user./"
+        },
+        {
+            "uid": "recpTkicoLKKVL5z5",
+            "description": "%name% is %healthstatus%"
+        },
+        {
+            "uid": "recpcEaylSZ5a0N6a",
+            "description": "Assign Deputies outside of camping and settlements."
+        },
+        {
+            "uid": "recpfhTuA4iYZFgps",
+            "description": "Unable to mark."
+        },
+        {
+            "uid": "recpkFmerJyc35CED",
+            "description": "Accuracy"
+        },
+        {
+            "uid": "recppewvUrbsyW9vr",
+            "description": "Back to Factions Summary"
+        },
+        {
+            "uid": "recpuO6hTHMMV6e6R",
+            "description": "Quality: %name% (Need %value% or less. You have %valueplayer%.)"
+        },
+        {
+            "uid": "recpxz0dbm31L77iA",
+            "description": "When selected, this option displays price differences on the tabs compared to the pinned (leftmost) list."
+        },
+        {
+            "uid": "recq5LkGEngtys7mw",
+            "description": "Filter: People"
+        },
+        {
+            "uid": "recqE5EFIVhuf3EJQ",
+            "description": "Deputy %name% has to be assigned."
+        },
+        {
+            "uid": "recqKddWmh3QapVrB",
+            "description": "Fighters can not mount due to the ambush."
+        },
+        {
+            "uid": "recqMDC7puLlLqGmy",
+            "description": "The base foraging chance on this node is %chance%."
+        },
+        {
+            "uid": "recqOm7HnIIMhEw9Y",
+            "description": ""
+        },
+        {
+            "uid": "recqPw6vqpXJVFioJ",
+            "description": "%name%"
+        },
+        {
+            "uid": "recqSQeJvQfirGBpu",
+            "description": "Talk to Companion"
+        },
+        {
+            "uid": "recqcMRtOv4rWugOP",
+            "description": "Not available yet."
+        },
+        {
+            "uid": "recqgdgpxtgRrTdoz",
+            "description": "You have no Passengers who could fight."
+        },
+        {
+            "uid": "recqm3sW1D7E0xX7J",
+            "description": "Close"
+        },
+        {
+            "uid": "recr1Xkmow4oNimh9",
+            "description": ""
+        },
+        {
+            "uid": "recr1w4ZFDd9FuT6z",
+            "description": "Display Edibles"
+        },
+        {
+            "uid": "recrKgh5CoTrf1kuW",
+            "description": "The chance to resist Poison damage over time."
+        },
+        {
+            "uid": "recrNsdPUJeZEnRwj",
+            "description": "Your Race must be %name%"
+        },
+        {
+            "uid": "recrRKZnOU4JfDxvq",
+            "description": "Not enough *Scouts* or *MP* to perform this action."
+        },
+        {
+            "uid": "recrZOoabNsAJjOYr",
+            "description": "Codex Entry: %name% required"
+        },
+        {
+            "uid": "recrdrffSYzSgIYks",
+            "description": "Male;Female;Any Gender"
+        },
+        {
+            "uid": "recreXsOXhiVePW7R",
+            "description": ""
+        },
+        {
+            "uid": "recrrQneASBfyFoIt",
+            "description": "When selected, this option allows for sorting settlement price history by distance, price date, or name."
+        },
+        {
+            "uid": "recrtjsn1P1RtrqRS",
+            "description": "Raise the chance of a successful Scouting in this direction. Costs 1 *Resourcefulness*."
+        },
+        {
+            "uid": "recsCiEwuSNL06tNk",
+            "description": "*Acquire Supplies*"
+        },
+        {
+            "uid": "recsCkdvMcy53ytRG",
+            "description": "Your Background must be %name%"
+        },
+        {
+            "uid": "recsKEDnEqHxjF7Fo",
+            "description": "*Acquire Supplies*\nManual Supply Acquisition can override your auto-acquire settings."
+        },
+        {
+            "uid": "recsqFgs8fXZW3fFD",
+            "description": "Story is in alignment."
+        },
+        {
+            "uid": "recsxSQi0qqhXYyAM",
+            "description": "Target: Self\n/This Skill always targets the character who uses it./"
+        },
+        {
+            "uid": "rect7QdJU270fMI4I",
+            "description": "Subtract Outrider\n/Adds 1 Mount and 1 Fighter./"
+        },
+        {
+            "uid": "rectIH4uLPC4C4uGb",
+            "description": "Prowess indicates how powerful and experienced the Companion is. \nEach time their Prowess is raised, they gain Proficiency points you can spend on improving them. \n/To unlock Prowess levels 4, 6, and 8, you need to progress the Companion's storyline to a certain point. Prowess is capped at 3 in 'Pilgrims of the Wasteland'./"
+        },
+        {
+            "uid": "rectQpQ7vSSmHqUEw",
+            "description": "(Halved against Marksmen)"
+        },
+        {
+            "uid": "rectWXptog8I546yx",
+            "description": "Goods: Random (%value%) required"
+        },
+        {
+            "uid": "rectarMqCu9iugBfP",
+            "description": "The loyalty of your companion to the /comitatus/ and you in particular. Your choices and actions influence this standing but each companion likes and dislikes different things. Talk to them to find out more. Better Loyalty can open up new story options with your companion, while low Loyalty can lead to them abandon the crew eventually. Levels of Loyalty are as follows:\n3 - Amicable\n2 - Friendly\n1 - Congenial\n0 - Neutral\n-1 - Disgruntled\n-2 - Resentful"
+        },
+        {
+            "uid": "rectdtjqRlLYqLJh3",
+            "description": "Click: Subtract 1 Lyrg\nShift+Click: Subtract 1 Bross\nCtrl+Click: Subtract 10 Bross"
+        },
+        {
+            "uid": "rectex0e03QE41Qof",
+            "description": ""
+        },
+        {
+            "uid": "recttcXnVaNuC3IGQ",
+            "description": "Target: Single Character\n/The Skill must target a single character./\n"
+        },
+        {
+            "uid": "rectw8O9yXrSYbIXO",
+            "description": "Turns on instant crew combat animations."
+        },
+        {
+            "uid": "rectw995FAcvA4f58",
+            "description": "Item: %name% fewer than (%value%) required\n"
+        },
+        {
+            "uid": "recu0Ts4bNXKDKIuC",
+            "description": ""
+        },
+        {
+            "uid": "recuDELTAC1Tp9S42",
+            "description": "Target: Back Row\n/All characters in the Back Row will be targeted but a single target is enough to use the Skill./"
+        },
+        {
+            "uid": "recuOWxPjzM76BWwm",
+            "description": "Buff\n/This Skill places an ongoing positive effect on the target./"
+        },
+        {
+            "uid": "recuQsqefO2dSBRGV",
+            "description": "The chance of nothing happening on this node is %chance%."
+        },
+        {
+            "uid": "recuVFU7tl0hgDASl",
+            "description": "Throw Out\n/Select and discard cargo goods to make room./"
+        },
+        {
+            "uid": "recuhVoRVyWAWLDeq",
+            "description": "Filter: Unread"
+        },
+        {
+            "uid": "recui4tgcNE2BGGK0",
+            "description": ""
+        },
+        {
+            "uid": "recuqyr85Ts8YIzdN",
+            "description": "Sets screen resolution."
+        },
+        {
+            "uid": "recuubCRfl2nGUvrM",
+            "description": "Type: Ranged (Unrestricted)\n/This Skill can target any %side% position./"
+        },
+        {
+            "uid": "recuukrGU9wYKsXfS",
+            "description": "The damage reduction from Cold damage and the chance to resist Cold damage over time."
+        },
+        {
+            "uid": "recuw3V4WbVOpqGHP",
+            "description": "No more Outriders to dismount."
+        },
+        {
+            "uid": "recuy9wE0u8oUBLUf",
+            "description": "Turn on \\ off Area targeting."
+        },
+        {
+            "uid": "recv0ObWYe1AMhY1T",
+            "description": ""
+        },
+        {
+            "uid": "recvRYuwN4hqsm9es",
+            "description": "You need to own the '%dlc%' DLC to select this."
+        },
+        {
+            "uid": "recvTcwzq8BzOt5Nr",
+            "description": ""
+        },
+        {
+            "uid": "recvdTL9oSqk66jll",
+            "description": "Leader Unit"
+        },
+        {
+            "uid": "recvemOkTn1RyZjzU",
+            "description": "Display Raw Materials"
+        },
+        {
+            "uid": "recvi4YOfvd3nnX5J",
+            "description": "Heal Companions"
+        },
+        {
+            "uid": "recvnAbQmkJUiu92h",
+            "description": "Equipment: %name% can not be equipped"
+        },
+        {
+            "uid": "recvq74zStBGGJR90",
+            "description": "Set to maximum available value."
+        },
+        {
+            "uid": "recvzI2QGt10KfJCh",
+            "description": "Combat Settings\n/Settings related to Companion Combat./"
+        },
+        {
+            "uid": "recw5qUNd2d1b1NAv",
+            "description": "Use your faction contacts to gain up-to-date price information from the settlement. Costs faction reputation. Can only be used if you have the required standing with at least one faction present in both your current location and the selected settlement. "
+        },
+        {
+            "uid": "recw8NU6odoXLWDsP",
+            "description": "No changes to finalize"
+        },
+        {
+            "uid": "recwGzCUrziKjm0q4",
+            "description": "Target: Empty Front Row\n/The Skill must target an empty Front Row./"
+        },
+        {
+            "uid": "recwPrVQCkQ5S0T6i",
+            "description": ""
+        },
+        {
+            "uid": "recwTHTHIyZMziltP",
+            "description": "Current Defense Mode: Block"
+        },
+        {
+            "uid": "recwU9FDOieO8OlpU",
+            "description": "Critical Hit Chance (CRT) is the chance of dealing a critical hit with the Skill. Critical hits cause x1.5 Damage."
+        },
+        {
+            "uid": "recwYmkknI3uqIvTV",
+            "description": ""
+        },
+        {
+            "uid": "recwvHm4HuDe4fya7",
+            "description": "Known location"
+        },
+        {
+            "uid": "recx1Ze3kfxwoiXR8",
+            "description": ""
+        },
+        {
+            "uid": "recx6arhTgCwvDjp0",
+            "description": "Perk levels gained from companions, their gear, and related status effects."
+        },
+        {
+            "uid": "recxFM99L7jmnN9cz",
+            "description": "Not available yet."
+        },
+        {
+            "uid": "recxLUjygT478X8Gb",
+            "description": "*Success* chance\n/Receive reliable information about the node you were Scouting in case of *Success*./"
+        },
+        {
+            "uid": "recxYIOaCzT1CtB05",
+            "description": ""
+        },
+        {
+            "uid": "recxdQwiTKFEVuxKl",
+            "description": "Revert"
+        },
+        {
+            "uid": "recxq4D6zA89wjwQN",
+            "description": "You are not on the right screen for the pointer to appear.\nNavigate to the UI that the tutorial is describing."
+        },
+        {
+            "uid": "recxtlOFuYHVVHRYK",
+            "description": "Fewer than %value% Companions"
+        },
+        {
+            "uid": "recxz5RkSXK6jj0kh",
+            "description": "Durability (DUR) is how much damage the obstacle can sustain before being destroyed."
+        },
+        {
+            "uid": "recxzp0MmNIQ5l6IV",
+            "description": "Expected Damage is the extent of VIT loss that the selected Skill will cause if it hits the target. Mitigation and damage avoidance is not calculated."
+        },
+        {
+            "uid": "recy5cO2lpLZH2Zk0",
+            "description": "See how this fight concludes."
+        },
+        {
+            "uid": "recy9p4UkvdTDrUaq",
+            "description": "Reset your offer."
+        },
+        {
+            "uid": "recyFCYzSkTvNcL1i",
+            "description": "Audio Settings\n/Settings related to music and sound effects./"
+        },
+        {
+            "uid": "recyH1YJLtIz3EQ6Q",
+            "description": "%name% is not %healthstatus%"
+        },
+        {
+            "uid": "recyIeZdQAOzZGycy",
+            "description": "Increase your chance of succeeding in the Test by %value%%.\n/Cost: %rf% Resourcefulness./"
+        },
+        {
+            "uid": "recySzQerisj3cmYi",
+            "description": "Increase Authority (%authoritycost%)"
+        },
+        {
+            "uid": "recyV7KQL6GeZXN11",
+            "description": "Less than %value% %name% required"
+        },
+        {
+            "uid": "recyVk0Rr0veMzXyO",
+            "description": "Target: Front Row\n/All characters in the Front Row will be targeted but a single target is enough to use the Skill./"
+        },
+        {
+            "uid": "recyjRXdWAChne0jN",
+            "description": "Filter: Locations"
+        },
+        {
+            "uid": "recynVo4Uo24B0FAn",
+            "description": "Your true calling as a /vagrus/.\n*Features:*\n%calling feature 1%\n%calling feature 2%\n%calling feature 3%\n..."
+        },
+        {
+            "uid": "recyo588BEkt1ZDk7",
+            "description": "Offer your crew double wages for the current day (boosts Morale)."
+        },
+        {
+            "uid": "recypjjxEjT4C5XJM",
+            "description": "Not enough Morale or Vigor to pursue the enemy."
+        },
+        {
+            "uid": "recyuHzQtE93JpIx8",
+            "description": "The number of VIT the character regains each round."
+        },
+        {
+            "uid": "recz6yETRRhuasCyV",
+            "description": "Deputies"
+        },
+        {
+            "uid": "reczGkzyBXLUkOh5y",
+            "description": ""
+        },
+        {
+            "uid": "reczIGwkndknj2BAM",
+            "description": "Refresh the news from this location and share your news for coin."
+        },
+        {
+            "uid": "reczM4f9YaKvPuKuY",
+            "description": "Turns idle animations in Companion Combat on and off. Turning it on might impact performance."
+        },
+        {
+            "uid": "reczTTmlPO7413gbB",
+            "description": ""
+        },
+        {
+            "uid": "reczdnbqlCE16kQBm",
+            "description": "While a Companion is Downed, they receive their Downed Vitality. If Downed Vitality is depleted, the Companion is defeated and is out of action."
+        },
+        {
+            "uid": "reczeLbo3lGESx8jP",
+            "description": "Mark the settlement on your chart."
+        },
+        {
+            "uid": "reczfNNa2UxKzcAae",
+            "description": "maximum %max1% - %max2%"
+        },
+        {
+            "uid": "reczyqbg0Tbpyvn3Y",
+            "description": ""
+        }
+    ]
+}

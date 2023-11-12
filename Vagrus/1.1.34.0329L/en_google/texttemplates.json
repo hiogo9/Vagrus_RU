@@ -1,0 +1,1056 @@
+{
+    "texttemplates": [
+        {
+            "uid": "recmC8IPDoycjSqVf",
+            "description": "*Lost Pilgrims Studio*\n\nCharacter and UI Art % Szonja Tóth\nLead Writer, Narrative and Game Design % Gergely Mácsai\nProgramming % Norbert Biri (Nobo)\nProgramming % László Petrovánszki\nProgramming % Viktor Majoros\nProgramming % Benjámin Sólyom-Tisza\nProject Lead and Game Design % Gábor Szutorisz (Sztaszov)\nQuality Assurance % Csaba Opra-Szabó\nUser Interface, Video, and Social Media % Ákos Porcsin\n\n*Main Contributors*\n\nCharacter and Environment Art % Bazsó Lossonczy\nCharacter and Environment Art % Attila G. Varga\nEnvironment Art % Péter Kovács\nMusic % Humming Composer\nNarrative Designer % Iván Kemenes\nNarrative Designer % Robert James Pugsley\nNarrative Designer % Gábor Zeller\nNarrative Designer % Zoltán Demendy\nNarration % Charles H. W.\nSound Editing and Effects % Gábor Szabó\n\n*Contributors*\n\nAdditional Programming % Marcell Lesch \nAdditional Artwork % Tamás Z.\nAdditional Artwork % János Kiss\nAdditional Artwork % Zsolt Szabados\nAdditional Artwork % Sándor D.\nAdditional Quality Assurance % Viktor M.\nAdditional Video Editing % Péter Makai\n\n*Our Principal Sponsors*\n\nCo-Sponsor % Emőke T. \n% Julianna SzM.\n% Erika B-T.\n% Vera Sz. & Károly P.\n% István Cs.\n% Balázs B.\n% Bálint V.\n% Levente Sz.\n% Tamás F.\n% Szabolcs Zs.\n\n*Our Supporters via Patreon*\n\nSponsor tier % Chauncey St John\n% Deviant\nPatron tier % Károly P.\n% Sage Pirotess\nBenefactor tier % Erika Macsai-Balog\n% Austin Anderson\n% Mason Dillon\n% Matei Opris\n% Peter Jeaiem\n% Péter Kiss\n% Péter László \n% Solus\n% TheSpookyWarrior\nLong time patrons on other tiers % Ábel Szerepi\n% Anna Holló\n% Attila Kerekes\n% Csongor Szutorisz\n% Lukasz Cyran\n% Máté Nemes\n% Norbert Biri\n% Norman Földvári\n\n*Special Thanks To*\n\n% Atcsi | Maci\n% Dinó |  Nerg\n% Szabi | Balázs V.\n% Richard Cobbett\n% GoFig\n% CCCP (Dead in Vinland)\n% Dark Crystal Games (Encased)\n% Iron Tower Studio (Age of \n% Decadence)\n% Muha Games (Thea I-II)\n% Poetic Studio (Sacred Fire)\n% Sharkbomb Studios (Nowhere Prophet)\n% Stoic Studio (The Banner Saga)\n% Worldwalker Games\n% (Wildermyth)\n\n*Creative Commons Sound Effects Licensed*\n\nUnder Attribution 3\n'Whip' % Mike Koenig\n'Opening Casket' % Mike Koenig\n'Party Crowd' % Daniel Simion\n'Campfire1' % matucha\n\nUnder Sampling Plus 1.0 \n'Psycho Scream' % FreqMan\n\nUnder CC 0 (all rights waived)\nFrom Freesound.org % Zott820 | thefilmbakery\n% amoyssiadis | SilverIllusionist\n\n*Our Fig.co Campaign Supporters*\n\nDread Reaver tier % Callum\n% Matthew T Campbell\n% Revek\nGrim Scavenger tier % Andrew Yeats\n% Ankur Butala\n% Brad Kirkwood\n% Christoph Licht\n% Chryseus Ensis\n% Devudu\n% Elliott Lansdown-Bridge\n% Glen 'Autobahn' Bucher\n% Hayden Basick\n% Inghalaz\n% Jared 'Cabrill' Bagley\n% Kreationko\n% Le Xander DeusNightFire\n% Martin Schuster\n% Pegana\n% Ralph G\n% Shard Halyard\n% Sharon Eun\nDark Scout tier % AC Hawke\n% Adam Cowie\n% Adam Goeske\n% Aldilenn\n% Alloni Kramer\n% Amir Jonis\n% Annella_dawn99\n% Anthony Previtera \n% Asymmetric\n% B Emord\n% Beau Moylan\n% Big Chungus\n% Blackjack Barret\n% Blaine 'Big Game' Atkinson\n% BourbonTrail\n% Chris Frazier \n% Chris Pagano\n% Christian Otto\n% Damian Zaj\n% Dane Milne\n% Danejar\n% Daniel Ruiz 'TheBrightKing'\n% DarthTurk\n% Dragonus\n% Elaine Barlow\n% Flávio 'Flasa' Stresser\n% Grems\n% Hommel\n% Hubert (3mp0ri0)\n% Icepick Majere\n% Jan Holtrichter\n% Jason C. Dodge\n% JBJoyner\n% Jeff Davis\n% Jim Saartia\n% John Glindeman\n% Jordan Dubiel\n% Julien Maria\n% Kartan Arkus\n% Kasoroth\n% kormakrtv\n% Lavi O'matic\n% Mika und seine 3 Ms\n% Mythilt\n% Na-cia bell\n% Ommariuolo\n% Peter B. Frisman\n% Peter Jeaiem\n% Peter Szuromi\n% Piotr Kociubiński\n% Puppy\\Pupps\n% Reddrake\n% Sean McPherson\n% ShelbyZ\n% Sienma\n% SilverishRibbon\n% Soeren Damnitz\n% Stephanos Antoniou\n% Steve Noel\n% Susie Patterson\n% Tatu Tikkanen\n% Thomas Tang\n% Tim 'Kal' Rawlins\n% Tim Aldridge\n% Tyrann O. Saurus\n% Unidentified Coward\n% Werewolf\n% Wholly Mindless\n% Xultun\n% Y. K. Lee\nDemonic Mercenary tier % A. Mak\n% A. R. Jackson\n% Abhilash Sarhadi\n% Abyssiel\n% Alan Barton (stylusnix)\n% Alek Sharma\n% Aleksandr Biriukov\n% Alexis Walker\n% Amanda Lea Erickson\n% BackgroundLogic\n% Balázs Géczi\n% Barzai The Wise\n% Bash Coder\n% Bjoernulf\n% Brian Edwards\n% Bryan Graham\n% Byron Callan\n% Callipygian\n% Chris 'CKinWoodstock' Knight\n% Christian Zarate\n% Christopher A Howland\n% Chupacabra\n% CL2X10\n% Clayton Riggins\n% Cpt_Flatbird\n% Dan Masters\n% David 'Murfdog' Murphy\n% Dominik Oshowski\n% Dr. N. Nicholls\n% Drakeeh\n% drnate29\n% Ed Sob\n% Eric Ross Smith\n% Falcon SilverWing\n% Francesca Ang\n% Franklin E. Powers, Jr.\n% FrazzzYT\n% Gannon Short\n% Guido Rößling\n% Haldor\n% Hank Heyming\n% ildorad\n% James Dyer\n% Jarad Shannon\n% Jeffrey L. Swaney\n% Jerker Måntelius\n% Jerod 'Redeye' Dunn\n% Jesper Musa\n% Joao de Oliveira\n% John Conibear\n% jsev\n% Jules in the sky\n% KAI YAN\n% Kenneth Kruse\n% Khartuin\n% Kris 'Joryl' Chambers\n% Kristian Kramer\n% Krzysztof Dabrzalski\n% Ksenia Zuy\n% Kuro Fin\n% Lan\n% Larry Lindenbaum\n% Lenurd the Joke Gnome\n% Lisa Homstad\n% Lollipop Soda\n% Lord_Nemchinov\n% Luke christmas\n% Mario Flagiello\n% Markus Laurila\n% Marnilo C\n% Matryoshka The Wanderer\n% Matthew John Hinz\n% Matthias\n% Maximilian Soucy\n% Mikael Johansson\n% Miquel Ramirez\n% Mitchell Stankowski\n% Mr. Slaught3r\n% MrHappy579\n% Neried\n% Nicolas Mignon \n% Owen Delryn\n% Panfuricus\n% Patrick Dean\n% Patrick Dougherty\n% R.S. Robinson\n% RangerBoyADC\n% Robert Carnel\n% Robert Durant\n% Robert Masterson\n% Ruzsin Orsolya\n% Scar Glamour\n% Scott Aldinger\n% Scott Tooker\n% Shaun C Harvey\n% Steve Parmelee\n% Talcom\n% Theodore W. Wills\n% Thomas A. Byrd\n% Thomas Aeschbacher\n% Thomas Darlington\n% Thuffir Hawat\n% Tiberius Reign\n% Todd S.\n% TothAL\n% Tyrbeard\n% Václav 'Luckystroker' Švec\n% Vella M\n% Viktor Mácsai\n% Volker G.\n% Whitemane\n% Will Bunce\n% Wisdom-iCoP\n% Wolfsbrigadeur\n% Yaroslav Sklabinsky\n"
+        },
+        {
+            "uid": "recbhDooANy5arlWV",
+            "description": "If you run into glitches, issues, or errors, please help us iron them out by sending \nin reports using F1 or contacting us on our %discord%.\n\n*What’s Coming Next:*\n- Controller support /'beta'/ refinements\n- Obstacles in Companion Combat\n\n*Currently Known Issues (%version%):*\n- Escort tasks related anomalies\n- Crew combat chance percentages are sometimes shown in reverse\n\nIf you enjoy the game and would like to support us to continue expanding and improving\n*Vagrus*, leaving a review on Steam\\GOG is a great way to do that. Thanks in advance!"
+        },
+        {
+            "uid": "rec7aVHhM0Gxu93rG",
+            "description": "<color=#d2a14d><align=center><b>DISCLAIMER</b></align></color>\n\nVagrus is a game that involves a fair amount of reading if it is to be enjoyed and experienced as intended by the developers. It is also a difficult game with little hand-holding, where success is by no means guaranteed. You will probably lose everything several times before getting the hang of leading your traveling company.\n\nVagrus is also a labor of love, created by a tiny team that dared dream big with the support of an amazing little community. We are extremely grateful to all those that helped us along the way with constructive criticism.\n\n\n<color=#d2a14d>Hold Space."
+        },
+        {
+            "uid": "recqJPahshDLvh3Qw",
+            "description": "Manual saving is unavailable in the standalone story 'Pilgrims of the Wasteland'. The game saves your progress automatically each time you reach a checkpoint in the story, when leaving a settlement, and also at the start of every new in-game day.\n\nIn the open-world main campaign, manual saving is available, except during combat and Events."
+        },
+        {
+            "uid": "recocv3IeX5mdDwRe",
+            "description": "Thank you for playing 'Pilgrims of the Wasteland', \nthe introductory story to <color=#d2a14d>Vagrus - The Riven Realms!</color>"
+        },
+        {
+            "uid": "recJRJyz0Tahgpzfr",
+            "description": "Conquer the Wasteland"
+        },
+        {
+            "uid": "recBe0dl2IdV5eaDW",
+            "description": "At this point in the final game, you’ll be able to create your own <i>vagrus</i>  and set out to wander across  the forsaken continent of Xeryn to explore its farthest reaches and darkest secrets. That experience will be open-world like the second half of 'Pilgrims of the Wasteland' but on a much larger scale.\nThat said, 'Pilgrims of the Wasteland' will also be updated and improved during our Open Access campaign at Fig. Look for upcoming milestones and content at <link=fig><color=#d2a14d>fig.co/vagrus</color></link>. So be sure to keep check on our progress at one of these links:\n\n<link=vagrus><color=#d2a14d>Vagrus.com</color></link>"
+        },
+        {
+            "uid": "recYxF5NZKqybesG9",
+            "description": ""
+        },
+        {
+            "uid": "recrFDPwH54iAfLuz",
+            "description": "Select game mode. This choice can not be altered later."
+        },
+        {
+            "uid": "recjoXgoYANoUOpmx",
+            "description": "This is the way Vagrus was intended to be played by the developers. The setting is a cruel, harsh, unforgiving place and so the game will not pull any punches. Expect a steep difficulty curve and little to no hand holding. Save often because you will probably run into dead ends and deaths from time to time."
+        },
+        {
+            "uid": "recOC79fuN2ddDEpq",
+            "description": "This game mode is tailored more towards a narrative experience. Combat, management, and almost all other aspects of gameplay are less challenging. The result is a smoother difficulty at the cost of alignment with the setting, causing a certain dissonance. Achievements are turned off in this mode."
+        },
+        {
+            "uid": "recznyGqNa2rZEboj",
+            "description": "You have reached the end of the playable era. You can continue this playthrough but Achievements will become unavailable and the passing of time ceases to have an effect on characters, events, and stories."
+        },
+        {
+            "uid": "rectknWoNqR6qFdwe",
+            "description": "At least *%scouts% scouts* are required to initiate scouting."
+        },
+        {
+            "uid": "recci51c4BlXy2I3Q",
+            "description": "Not enough *MP* to initiate scouting."
+        },
+        {
+            "uid": "rec6RCmroJ2SRIERS",
+            "description": "/Auto-Scouting is turned off. Scouts are not being sent forward to notify the comitatus about surrounding threats and opportunities./"
+        },
+        {
+            "uid": "reclOYLhP4Qm6wHog",
+            "description": "--/Missing translation./--"
+        },
+        {
+            "uid": "recvYWt6eRMDnukV8",
+            "description": "The text in the game is machine translated, and it may not be the same quality as in English. Please consider this."
+        },
+        {
+            "uid": "recgI4wYqbbSl9YzO",
+            "description": "This choice can not be altered later."
+        },
+        {
+            "uid": "rec3ROk5BseFvosDM",
+            "description": "Tasks unavailable until debt is paid"
+        },
+        {
+            "uid": "rec0dE2UDPKSJUwaU",
+            "description": "All prices are shown for full stacks"
+        },
+        {
+            "uid": "recw4gnPXJkbp2aCy",
+            "description": "Buy Price shown for the partial stack available"
+        },
+        {
+            "uid": "rec0YbP8P9giwaUb7",
+            "description": "Buy Price shown for a full stack"
+        },
+        {
+            "uid": "rec1XjzPNMlplqZF7",
+            "description": "Sell Price shown for the partial stack you own"
+        },
+        {
+            "uid": "recKtaQZWnWzndJ2q",
+            "description": "Sell Price shown for a full stack"
+        },
+        {
+            "uid": "rec0H5veoyKOEz4ey",
+            "description": "No scouts harmed"
+        },
+        {
+            "uid": "recrdIg2Xf2iWM4qT",
+            "description": "No foragers harmed"
+        },
+        {
+            "uid": "recrc9Ah6ONKAWb6P",
+            "description": "near %node%"
+        },
+        {
+            "uid": "recPVr9KYZyOC5cYp",
+            "description": "Swap from %beast1% to %beast2% Beast type"
+        },
+        {
+            "uid": "recvMfTNxS5rMtc8r",
+            "description": "Swap not available."
+        },
+        {
+            "uid": "recuKloeQdiXsqf2X",
+            "description": "Not enough money"
+        },
+        {
+            "uid": "recCe8zDm2r0PAoJa",
+            "description": "Not enough Mounts to swap (%qty1% vs %qty2% in your comitatus)"
+        },
+        {
+            "uid": "recySECeIb80PmHUp",
+            "description": "Not enough Beasts to swap (%qty1% vs %qty2% in your comitatus)"
+        },
+        {
+            "uid": "reclxdGuGHxU9ADxr",
+            "description": "Please log *typos/wording* flaws in our online tracker. Register using this button:"
+        },
+        {
+            "uid": "recYoyjL2MUqPE2DU",
+            "description": "/The following information is automatically attached to your bug report. You do *NOT* need to specify these:/\n"
+        },
+        {
+            "uid": "recseN3sB655GCTMh",
+            "description": "%insight% Insight awarded for gaining %entries% new Codex entries"
+        },
+        {
+            "uid": "recH6ke3DCnURgBtP",
+            "description": "%insight% Insight awarded for discovering %location%"
+        },
+        {
+            "uid": "recrRXHlrU93ki4uh",
+            "description": "%equipment%' unmounted from '%slot%' due to Deputy changes"
+        },
+        {
+            "uid": "recdidLakcs2Ly8Mp",
+            "description": "%characters% lost Loyalty"
+        },
+        {
+            "uid": "recWFHRwevlXHkxz1",
+            "description": "%characters% gained Loyalty"
+        },
+        {
+            "uid": "recPMRIXThpzxRxrB",
+            "description": "%renown% Renown gained for increasing reputation with the faction '%faction%' to tier %tierLevel%"
+        },
+        {
+            "uid": "rec45m806bIiKFfKG",
+            "description": "%character% has succumbed to %charpronoun% wounds"
+        },
+        {
+            "uid": "recDuBYcqRev4B7vB",
+            "description": "%amount% Outriders dismounted due to cargo space loss"
+        },
+        {
+            "uid": "recCVc7Z2mKxPoHwH",
+            "description": "%icon% %amount% with %faction%"
+        },
+        {
+            "uid": "recgi00MDZLQI0920",
+            "description": "Codex updated (%codexname%)"
+        },
+        {
+            "uid": "recNggLEMToujQEFl",
+            "description": "Chart location revealed (%locationname%)"
+        },
+        {
+            "uid": "rec7ow1D6lIixwFop",
+            "description": "Journal updated (%questname%)\n"
+        },
+        {
+            "uid": "rec142ackTwljWnHY",
+            "description": "News refreshed (%sourcelocation%)"
+        },
+        {
+            "uid": "recrnyzyWPunZO8Qa",
+            "description": "Task completed %delivertime%: %icon%%reputationreward% with %faction%"
+        },
+        {
+            "uid": "reczsJUPE7DU0ZYKQ",
+            "description": "Task completed %delivertime%: %icon%%reputationreward% with %faction% and %icon%%reputationpenalty% with %opposingfaction%"
+        },
+        {
+            "uid": "recxz4vitYMSRXV8Z",
+            "description": "Task failed: %icon%%reputationpenalty% with %faction%"
+        },
+        {
+            "uid": "recAdv38WVUhAj3uY",
+            "description": "%character% is no longer affected by %status%"
+        },
+        {
+            "uid": "recJ4N7cSEybEJTB2",
+            "description": "%character% healed from %wound1% to %wound2%"
+        },
+        {
+            "uid": "rec9hJCPrucSx1qIc",
+            "description": "%character% healed from %wound1%"
+        },
+        {
+            "uid": "recdGu84MJ0U7b1eS",
+            "description": "%deputy% unassigned due to Authority decrease"
+        },
+        {
+            "uid": "rec7FhgMemzkAGdXz",
+            "description": "Game saved automatically: %savefilename%"
+        },
+        {
+            "uid": "rec7gsv3rtFMyDTDX",
+            "description": "Game saved manually"
+        },
+        {
+            "uid": "recp3ABeqAtrKCSZ3",
+            "description": "You regain %icon%%debt% with %faction%"
+        },
+        {
+            "uid": "rec9W9Bsxn5wxSlTY",
+            "description": "You now owe %money% to %faction%"
+        },
+        {
+            "uid": "recfvkOZiJWwk3DMf",
+            "description": "You now owe an additional %money% to %faction% (%totaldebt% in total)"
+        },
+        {
+            "uid": "recT7J230zSnyxLcI",
+            "description": "%quantity% %property% due to %statustext%"
+        },
+        {
+            "uid": "recSkkIekjlzoiJn2",
+            "description": "Rumor added (%rumortitle%)"
+        },
+        {
+            "uid": "recP8L04aoIon6kuL",
+            "description": "Quality added (%qualitytitle%)"
+        },
+        {
+            "uid": "recEROBr7XMG7XAQk",
+            "description": "Quality changed (%qualitytitle%)"
+        },
+        {
+            "uid": "rec5uDks63mk9OAJs",
+            "description": "%equipment% unmounted due to requirements not met."
+        },
+        {
+            "uid": "recRgZRsNyWQLdCFA",
+            "description": "%curse% removed. The %achievement%, Defiant, and Vagrus Supreme achievements can no longer be unlocked."
+        },
+        {
+            "uid": "recOAoHvkMiwNKa19",
+            "description": "Manual save loaded. The '%achi%' achievement can no longer be unlocked."
+        },
+        {
+            "uid": "reclisy1jd4UaZOnc",
+            "description": "Some crew members are showing the signs of Black Rot."
+        },
+        {
+            "uid": "recu07Irnyda2Uw1V",
+            "description": "%casualties% died due to Black Rot."
+        },
+        {
+            "uid": "reczJ3TbC3erE7EaM",
+            "description": "%companion% lost %vitality% Vitality due to Black Rot\n"
+        },
+        {
+            "uid": "rec2g0XROlulija0G",
+            "description": "%scouts% %scouttext% died"
+        },
+        {
+            "uid": "rec1H59vLr3nqOEmS",
+            "description": "Your crew stands down following your order"
+        },
+        {
+            "uid": "rechiN362rl98Zlox",
+            "description": "You used %RF% Resourcefulness to %resourcefulness% %target%"
+        },
+        {
+            "uid": "recrCKzWc7KjyvHwB",
+            "description": "DOT (%resisttype%) inflicts %damage% to %target%"
+        },
+        {
+            "uid": "recsBJcgbqu3zQIZE",
+            "description": "DOT (%resisttype%) drains %damage% from %target%"
+        },
+        {
+            "uid": "recGCXW0bD6jMBX1v",
+            "description": "%target% %value% due to %skill%"
+        },
+        {
+            "uid": "recFtjeYp1R5bsTb8",
+            "description": "%skill% inflicts %damage% to %target% (Crit: %random% to %test%)"
+        },
+        {
+            "uid": "recI6HIwfhiwgOFEo",
+            "description": "%skill% inflicts %damage% to %target% (Crit: %random% to %test%)"
+        },
+        {
+            "uid": "recss6BYMTGZKd4tA",
+            "description": "%skill% %healing% on %target%"
+        },
+        {
+            "uid": "recRVbEq0uWuqFeWs",
+            "description": "%target% is affected by %effect% for %remain%"
+        },
+        {
+            "uid": "recqNPoOkWIYeERFq",
+            "description": "%attacker% misses with %skill% (%random% to %test%)"
+        },
+        {
+            "uid": "recW6VvueeWDhaY2g",
+            "description": "%attacker% misses with %skill% (%random% to %test%) against %target%"
+        },
+        {
+            "uid": "recpyoph61JIX51CB",
+            "description": "%attacker% uses %skill% - Blocked by %target% (ACC %random1% to %test1% | BLC %random2% to %test2%)"
+        },
+        {
+            "uid": "recWTJhrQJyq3jCkY",
+            "description": "%attacker% uses %skill% - Evaded by %target% (ACC %random1% to %test1% | EVD %random2% to %test2%)"
+        },
+        {
+            "uid": "recRDq9zISSEH7IiM",
+            "description": "%target% resists %resisttype% effect of %skill% (%random% to %test%)"
+        },
+        {
+            "uid": "recP70VGGWEKT3wZG",
+            "description": "%target% fails %resisttype% resist against %skill% (%random% to %test%)"
+        },
+        {
+            "uid": "recAyyr0iLKNObwFp",
+            "description": "%target% is immune to %immunetype% of %skill%"
+        },
+        {
+            "uid": "recG3qc5DHXVANBr2",
+            "description": "%attacker% uses %skill% on %target% successfully (ACC %random1% to %test1% | BLC %random2% to %test2%)"
+        },
+        {
+            "uid": "rec6JaMqcqMl2B7XN",
+            "description": "%attacker% uses %skill% on %target% successfully (ACC %random1% to %test1% | EVD %random2% to %test2%)"
+        },
+        {
+            "uid": "recCYG4MDkinbayAQ",
+            "description": "%attacker% uses %skill% on %field% position"
+        },
+        {
+            "uid": "recTVywqs1qv26OWv",
+            "description": "%attacker% uses %skill%"
+        },
+        {
+            "uid": "recYKv0Ga4bmEo3YO",
+            "description": "%skill% applies effect on %target% : %effectlist%"
+        },
+        {
+            "uid": "recddrWu84kcDtALo",
+            "description": "%field% position is affected by %skill% for %remain%"
+        },
+        {
+            "uid": "recUQne7nuWHyRKi5",
+            "description": "%field% position uses %skill% on %target%"
+        },
+        {
+            "uid": "recxzO0CaZlw0lA4M",
+            "description": "%target% is affected by %skill% on %field% position"
+        },
+        {
+            "uid": "recgkOfN19fnATeBX",
+            "description": "%skill% is applied on %target%"
+        },
+        {
+            "uid": "rec2JTBGswBn4REpL",
+            "description": "%attacker% receives: %effectlist%"
+        },
+        {
+            "uid": "recjo5V4OjUAmhv5K",
+            "description": "%character% is Stunned"
+        },
+        {
+            "uid": "reck8n3mvhzhZ7RL5",
+            "description": "%character% is Downed"
+        },
+        {
+            "uid": "recV9bewIERhvmxmV",
+            "description": "%character% begins %pronoun% turn"
+        },
+        {
+            "uid": "recQFTR8w11Nz5Ikf",
+            "description": "%character% skips %pronoun% turn"
+        },
+        {
+            "uid": "recZrYCPJEDN0AU9z",
+            "description": "ROUND %round%"
+        },
+        {
+            "uid": "recElhUeQDwEchmOK",
+            "description": "You are defeated"
+        },
+        {
+            "uid": "receK7Nq3qwyw6JsF",
+            "description": "You are victorious"
+        },
+        {
+            "uid": "recdhHbZKCOOgehDC",
+            "description": "%character% is Out of Action"
+        },
+        {
+            "uid": "recQxYQdaNwfxqUJH",
+            "description": "%character% is Downed"
+        },
+        {
+            "uid": "recoIALYYeROH9NEy",
+            "description": "%character% is awakened"
+        },
+        {
+            "uid": "recsAKvsEmiONKZIk",
+            "description": "%character% moves to %field%"
+        },
+        {
+            "uid": "recePlgqnubDKUhut",
+            "description": "%character% is forced to move to %field%"
+        },
+        {
+            "uid": "recj6chag3wOkbebp",
+            "description": "%character% spawned in the %field% position"
+        },
+        {
+            "uid": "recQEbJIi4n5zrFqH",
+            "description": "%character% avoids being Downed due to Diehard (%random% to %test%)"
+        },
+        {
+            "uid": "recmxdg49j5omyxnp",
+            "description": "Diehard fails to protect %character% (%random% to %test%)"
+        },
+        {
+            "uid": "recbQRUW9Le3QZsdX",
+            "description": "%target% can't counter %skill% due to range"
+        },
+        {
+            "uid": "reck82M774ZFujqFW",
+            "description": "Deploy maximum %max% Companion(s)"
+        },
+        {
+            "uid": "recxN6GzCGyY4GhCS",
+            "description": "%rf1% Resourcefulness (%rf2% as second action)"
+        },
+        {
+            "uid": "recPT1U5hqKwSORtP",
+            "description": "%total% Items offered"
+        },
+        {
+            "uid": "recbDusSORH2wILur",
+            "description": "Consult the Price History feature for known market prices."
+        },
+        {
+            "uid": "recxAVOfNqAhJOd3a",
+            "description": "%characters% cannot be deployed."
+        },
+        {
+            "uid": "recZzZp6y8onvO6ln",
+            "description": "%character% is pushed to %field% by %attacker%"
+        },
+        {
+            "uid": "recE2Ut0s6WikssSX",
+            "description": "%attacker% pushes %character% into occupied %field% causing %damage%"
+        },
+        {
+            "uid": "reczyknUHdLm9Oj3Q",
+            "description": "%character% already occupies a back field"
+        },
+        {
+            "uid": "recCV1izmf4fiM1rs",
+            "description": "%character% is pulled from %field% by %attacker%"
+        },
+        {
+            "uid": "recTrbAUbHHB5OE3x",
+            "description": "%attacker% pulls %character% into occupied %field% causing %damage%"
+        },
+        {
+            "uid": "rec4mPP0vZEC3mwTk",
+            "description": "%character% already occupies front field"
+        },
+        {
+            "uid": "recBviYrQ2nn04YJo",
+            "description": "%characterFront% and %characterBack% were forced to switch places by %attacker%"
+        },
+        {
+            "uid": "recpaH66UMJvlxbPU",
+            "description": "How many do you want to buy?"
+        },
+        {
+            "uid": "rec116tN6QKnOT8Wh",
+            "description": "How many do you want to sell?"
+        },
+        {
+            "uid": "recpNawPcFgIjTEKP",
+            "description": "How many do you want to split?"
+        },
+        {
+            "uid": "recBzlzx8aA24a64p",
+            "description": "How many do you want to sacrifice?"
+        },
+        {
+            "uid": "recFhWlufOlnbato4",
+            "description": "How many do you want to sacrifice?"
+        },
+        {
+            "uid": "recPlE6s7y6rtJhii",
+            "description": "Liberate some or all of your slaves"
+        },
+        {
+            "uid": "recpx4p5MpfVtzBOH",
+            "description": "Discipline some or all of your slaves"
+        },
+        {
+            "uid": "recrL9G1Tr3OhxvHH",
+            "description": "Butcher some or all of your mounts"
+        },
+        {
+            "uid": "recsLzrrwCZaoRkdh",
+            "description": "Butcher some of your beasts of burden"
+        },
+        {
+            "uid": "rece8TzHu5d37zRna",
+            "description": "This action will cause you to have excess cargo that you need to get rid of."
+        },
+        {
+            "uid": "rechzUqu4fTA581fp",
+            "description": "The selected Gear is already equipped on another Companion. Are you sure you want to move it?"
+        },
+        {
+            "uid": "recloPF215MayFxEL",
+            "description": "Some passengers part ways thanking your services."
+        },
+        {
+            "uid": "recTmJahHA7JllPLh",
+            "description": "Some passengers are removed from the /comitatus/."
+        },
+        {
+            "uid": "recup4igzNhiMbuuf",
+            "description": "%delivername% %payment% %repu%"
+        },
+        {
+            "uid": "recfWItxhwsaNKZEa",
+            "description": "Some passengers had enough of roaming around, and departed your /comitatus/."
+        },
+        {
+            "uid": "recSwqyKvo2twYnsJ",
+            "description": "%delivername%  after %expires% days."
+        },
+        {
+            "uid": "rec5KCH7xb6xjKSzK",
+            "description": "Arming your slaves will raise your Combat Strength but reduce your slaves' Obedience slightly."
+        },
+        {
+            "uid": "recNnSEHQpPHcupt0",
+            "description": "Deploying your passengers raises your Combat Strength but they might become wounded, forfeiting their rewards upon delivery."
+        },
+        {
+            "uid": "recelyP2v5M4azdo8",
+            "description": "‘Ah yes, a vagrus, what a profession! Daring and savvy, always watching the horizon, always looking for an opportunity, and of course, for what is best for his comitatus, eh? And you are a vagrus, too, are you not? Many of your kind I have seen in my long life as a vagabond. Care to listen to a story about your exquisite occupation, good master? It is a tale of woe and terror, but it is also a tale that is true, as I have seen it with mine own eyes.’"
+        },
+        {
+            "uid": "recY8H1NNo44sq8cG",
+            "description": "‘Wise you are, good master. My tale is of a vagrus such as yourself, but one whose fate was cursed and wrought with ill-fortune. It all happened a long time ago, ten years, maybe more. I was but a passenger, traveling rough roads and forgotten ways with this comitatus, south along the feet of the great mountains of the West…’"
+        },
+        {
+            "uid": "reccCTAC1SJwO7bUM",
+            "description": "I was among the few that survived that encounter with the Pilgrims but only because I wasn’t there - I fled the night before. Making my way to the town of Ash alone, I was feverish with terror. But at least I escaped with my life.'\n\n'Not a pretty story, eh? Yet it speaks so well of this land and the damned souls that journey through its forsaken reaches. Just like you, for that matter. Tell me, have you been long at it, good master? And where do you come from? It is not often that I can talk to one of your kind.'"
+        },
+        {
+            "uid": "rec0fLcjojLytIc6t",
+            "description": "Fair enough, good master, fair enough. You don’t want to hear tales of trusts betrayed and of bad decisions. (chuckles) It makes sense to me, with you also being a vagrus and all that. Tell me, have you been long at it? And where do you come from? It is not often that I can talk to one of your kind.'"
+        },
+        {
+            "uid": "recW4TMh5xgYFi8Cq",
+            "description": "Curious, curious. I am humbled to have made your acquaintance, good master. I am sure that many great adventures await you on your journeys.'\n\n'It was an honor talking to you, good master. But these old bones are aching and I must rest now, oh yes. Perhaps we will talk in the morning, perhaps we will. May the Gods guard your sleep.'"
+        },
+        {
+            "uid": "reciueUsGjL592Ami",
+            "description": ""
+        },
+        {
+            "uid": "recfdxlubLZr4DVIS",
+            "description": ""
+        },
+        {
+            "uid": "recNnGW6xe2aHqRV6",
+            "description": "*'Tell us your tale, old man. It'll at least help kill the time.'*\n   /(Play 'Pilgrims of the Wasteland')/"
+        },
+        {
+            "uid": "receH9I7G09DLwdXU",
+            "description": "*'We don't want any ghost stories, old-timer.'*\n   /(Skip 'Pilgrims of the Wasteland')/"
+        },
+        {
+            "uid": "recZkOpK6RMzk37kI",
+            "description": "\n   Start 'Pilgrims of the Wasteland'"
+        },
+        {
+            "uid": "recMkfWfLwaj1DkVG",
+            "description": "\n   Create your vagrus"
+        },
+        {
+            "uid": "recOP8RY1dDB0o8HU",
+            "description": "\n   Continue"
+        },
+        {
+            "uid": "recBpV4HSWafeuinG",
+            "description": ""
+        },
+        {
+            "uid": "recUlQ1hBoEbAltfO",
+            "description": "Your Background provides additional advantages and Perks."
+        },
+        {
+            "uid": "recb4K9rEH90YvCIk",
+            "description": "Your Calling determines additional starting Perks, possessions, and crew."
+        },
+        {
+            "uid": "rec54dy4x1zkHscnx",
+            "description": "Your Ambition determines how you win the game."
+        },
+        {
+            "uid": "recQyoWqphtMKjrOc",
+            "description": ""
+        },
+        {
+            "uid": "recnRbGXjy5mGmDQb",
+            "description": "Select your silhouette and confirm your name."
+        },
+        {
+            "uid": "recTmjXePqTGK1VYp",
+            "description": "Select the Race of your vagrus"
+        },
+        {
+            "uid": "recK0vu7GuvqG4ahP",
+            "description": "Select your Background"
+        },
+        {
+            "uid": "recaazIYDzScGI73v",
+            "description": "Select your Calling"
+        },
+        {
+            "uid": "recasI641HBjG0cz3",
+            "description": "Select your Ambition"
+        },
+        {
+            "uid": "rec5j0jtb9s5nZyMo",
+            "description": "Allocate Perks using your starting Insight"
+        },
+        {
+            "uid": "recMsmJp0hIiCdZdS",
+            "description": "Select a portrait and name your vagrus"
+        },
+        {
+            "uid": "rece32nm8EvCnd2u1",
+            "description": "<i><b>Comitatus</b> (noun; pl - comitati)</i> - An armed traveling company. It usually carries cargo and passengers across the wastelands of the continent. It can get involved in a variety of jobs ranging from trading to mercenary work.\n\n<i><b>Vagrus</b> (noun; pl - vagri)</i> - A venturer, a vagabond, a captain. The leader of a <i>comitatus.</i>\n"
+        },
+        {
+            "uid": "reccUDteqawLLuFc0",
+            "description": "‘Nothing beside remains. Round the decay\nOf that colossal Wreck, boundless and bare\nThe lone and level sands stretch far away.’\n               - from <i>Ozymandias</i> by Percy Bysshe Shelley (1818)\n"
+        },
+        {
+            "uid": "recKmcj8Ok5pIT636",
+            "description": "Sleep slowly but steadily begins to overwhelm you. Is it the late hour, the exhausting journey, or the mesmerizing voice of the old man? You faintly recall stumbling to your tent and crawling inside, then it is only darkness."
+        },
+        {
+            "uid": "rechvqF7KsF47J00o",
+            "description": "You can not save during Events and\\or Combat."
+        },
+        {
+            "uid": "recNYNjo1BjKovRes",
+            "description": "Are you sure you want to delete this save?"
+        },
+        {
+            "uid": "rec701u8wrxsaovH5",
+            "description": "Save file already exists. Are you sure you want to overwrite?"
+        },
+        {
+            "uid": "recBps3n47mnMjcOE",
+            "description": "Yes, delete it"
+        },
+        {
+            "uid": "recVYC8gJ7J7o5fM1",
+            "description": "No, keep it"
+        },
+        {
+            "uid": "rectDrS9W19XHGVRo",
+            "description": "Yes, overwrite it"
+        },
+        {
+            "uid": "recI1UPBvW6RhxsHK",
+            "description": "Cancel"
+        },
+        {
+            "uid": "recfi3QWgqShAPyc6",
+            "description": "This key is already used for '%keytype%'. Do you want to assign\nit to this action? You will need to assign a new key to the\noverwritten action."
+        },
+        {
+            "uid": "rec9R8U5yswuX2iqM",
+            "description": "Deputies can only be assigned during *camping*, in *settlements*, or by *spending resourcefulness*."
+        },
+        {
+            "uid": "recXeEjVKpeHxZpTi",
+            "description": "You are about to accept a Task that involves the delivery of contraband. Once you take it, contraband becomes your responsibility, including getting it to its destination without alerting the authorities. Do you accept the Task?"
+        },
+        {
+            "uid": "recS8fXxc1vxgoZXc",
+            "description": "Giving up a Task means that you will lose reputation with the faction that gave it to you and you might have to pay a fine for lost cargo.\nReputation loss: %reputation% \nRecompense: %money%\nAre you sure you want to give up the Task?"
+        },
+        {
+            "uid": "recqPwkUvQWzgU555",
+            "description": "Faction Banner removed due to Standing lost with %faction%"
+        },
+        {
+            "uid": "recS35GkdttswcGWa",
+            "description": "No matter how harsh the wasteland is, no matter how cruel its vast expense proves, those that enter it with purpose and zest will see their journey to its end. So say the monks of Irafons, Saint of Roads, who graces all travelers with good fortune in his infinite wisdom and compassion.\n\nAnd so, after many trials and tribulations, the /vagrus/ and the /comitatus/ prevailed and accomplished what they set out to do. Mortals are gifted that way, having been granted the freedom to see their potential to fruition even in such unspeakable desolation as the ravaged Cradle of Man."
+        },
+        {
+            "uid": "recyi2ParjWq9LY7o",
+            "description": "What the /vagrus/ wanted was fame and recognition above all else. Elusive, transient things, often bitter as ash once achieved - but craved madly all the same. After arduous work, many adventures, and countless roads taken, fame and recognition came at last. Doors opened and opportunities were presented - Trading Houses, Imperial agents, Draconic emissaries, sorcerers, criminals, politicians, beggars, savages, and vagabonds all knew who the /vagrus/ was, and the deeds of the /comitatus/ lived on as stories for many years to come."
+        },
+        {
+            "uid": "recfwqpZa2A17PLdW",
+            "description": "What the /vagrus/ wanted was wealth and prosperity above all else. Temporary, vulnerable things, often more curse than boon, ultimately lost like dust in the wind - but craved madly all the same. But after arduous work, many adventures, and countless roads taken, wealth and prosperity did come. With the right assets and a stable venture, the /vagrus/ slowly forsook the road for the imagined security of an office and many sought employment at the budding enterprise. A /comitatus/ is a business venture, all things considered. And this one, well, this one was very successful."
+        },
+        {
+            "uid": "rec7Xj0wYcdX452xR",
+            "description": "What the /vagrus/ wanted was knowledge and lore above all else. Fleeting, shifting things, forgotten by many and not believed by most - but craved madly all the same. And so after arduous work, many adventures, and countless roads taken, knowledge and lore were amassed to a grand extent. The /vagrus/ unveiled many secrets that promised dark wisdom. Where all this knowledge led, or if the /vagrus/ ever stopped the quest to learn more, nobody knows. Perhaps the journey ended abruptly in one of the forsaken ruins or out in the wasteland. But what the /vagrus/ left behind served as a source of knowledge for many inquisitive souls to come."
+        },
+        {
+            "uid": "rechxEJK4DaDXwo8O",
+            "description": "The journeys the /vagrus/ has undertaken have touched and changed the lives of many - some for the better, others for the worse."
+        },
+        {
+            "uid": "recOvLleQjUHMt3N4",
+            "description": "Carrying out the will of the entity that wore the guise of the fallen High Praeceptor Lelitheassin, the /vagrus/ was eventually able to uncover the truth of the horror that beset the once proud denizens of the Tower of Akarius, vanquishing the emissary from beyond before it could manifest unspeakable horrors upon the Realms through the eldritch Star Garden. The /vagrus/ was thus burdened with one of the most coveted secrets of the Fourth Age, but it is unclear if those secrets were ever revealed to others. Even now, the Sunken Tower and its shifting marble halls remain, a place of knowledge and peril beyond the comprehension of all but a chosen few. None, however, would ever delve as deeply as the /vagrus/, no matter how carelessly they gave their lives in the pursuit of its treasures or secrets."
+        },
+        {
+            "uid": "recVjGRM7DWm3LuOt",
+            "description": "Fort Larius has always drawn lost souls who then preyed on others while rotting away among its crumbling walls. This decade saw the rise of a coterie of outlaws there, led by a bitter man who wanted to strike back at the Empire that spurned him.\nThe /vagrus/ infiltrated these outlaws and sold them out to the Imperials who - once growing displeased by their interference - eliminated the malcontents. Fort Larius is a silent ruin again but one never knows for how long. These realms have lost souls in abundance."
+        },
+        {
+            "uid": "recERC0w5PEsIwGAd",
+            "description": "Fort Larius has always drawn lost souls who then preyed on others while rotting away among its crumbling walls. This decade saw the rise of a coterie of outlaws there, led by a bitter man who wanted to strike back at the Empire that spurned him.\nThe /vagrus/ joined these outlaws and drew the Imperials hunting the malcontents into a trap that saw their downfall. And so the Thirsty Maggots eke out a difficult existence in the no-man’s land that is Hargad Tuul, tolerated by the Dragons and scorned by the Imperials. For now."
+        },
+        {
+            "uid": "recs0y79u8x4u5xD8",
+            "description": "While investigating the eerie phenomena and strange disease plaguing Salum’s vicinity, the /comitatus/ uncovered the secret of the Great Machine below the salt lakebed. And even though the conspirators in control of the ancient contraption did their best to prevent it, the /vagrus/ escaped and revealed their dark secret to the Draconic wardens of the region. The Scythichnis Covenant retook control of the Great Machine in the end but its purpose, design, and even its future remain uncertain. Perhaps some secrets are better left buried and forgotten."
+        },
+        {
+            "uid": "rechODTBbvBYSfnhj",
+            "description": "They say that ignorance is bliss, and that often, knowing half the truth is more dangerous than not knowing anything at all. Certainly, this can not be truer than in the case of the Leviathan, whose dark origins the /comitatus/ began discovering in the employ of the researcher and rogue mage Kandake. But despite her boons and rewards, she was abandoned by the /vagrus/ when the dangers of her enterprise were revealed. Whatever happened to the obsessed mage and her mad venture into forbidden knowledge was lost to history but one can safely assume that she never reached her goal or found her coveted proof."
+        },
+        {
+            "uid": "rect37cpcEgxcKNDy",
+            "description": "They say that ignorance is bliss, and that often, knowing half the truth is more dangerous than not knowing anything at all. Certainly, this can not be truer than in the case of the Leviathan, whose dark origins the /comitatus/ began discovering in the employ of the researcher and rogue mage Kandake. The vagrus stood by the often eccentric scholar despite the dangers of the enterprise but could not save her when her ritual awakened the entity residing in those ancient bones. The spectacular failure of Kandake unleashed an evil into the Riven Realms that caused great peril in the years to follow, but nobody learned who was responsible for the calamity."
+        },
+        {
+            "uid": "recql9Rs8RtVDSzc6",
+            "description": "They say that ignorance is bliss, and that often, knowing half the truth is more dangerous than not knowing anything at all. Certainly, this can not be truer than in the case of the Leviathan, whose dark origins the /comitatus/ began discovering in the employ of the researcher and rogue mage Kandake. The /vagrus/ stood by the often eccentric scholar despite the dangers of the enterprise and even saved her when the ritual awakened the entity residing in those ancient bones. Her eyes opened to the dark truth, Kandake finally gave up on her theory and turned her considerable intellect to nobler goals."
+        },
+        {
+            "uid": "recpLeNRJvS1KPaaB",
+            "description": "The /vagrus/ was present at the feast where the young patrician Daneram Xevaris announced his intentions of entering the arena of Imperial politics in order to rekindle his ailing noble dynasty and guide the Empire toward a brighter future. Sadly, it turns out that there are many who would see these hopes snuffed out. The subsequent attempt on the young aristocrat’s life was ultimately thwarted by his allies, including the /vagrus/ and the Dread Reavers mercenaries. Forsaking his plans but alive at least, Daneram Xevaris went back into hiding."
+        },
+        {
+            "uid": "recW4SVvgXFla2lEs",
+            "description": "Shortly before the /vagrus/ began leading the /comitatus/ across the scorched wasteland of terra supra, the unceasing winds went mad following a foreboding set of inexplicable disasters. The gales from then on brought nightmares and insanity, furthering the chaos. This echo of the Calamity tore the Empire apart and bewildered simple folk and powerful leaders alike. But thanks in part to the diligent investigation of the /vagrus/, some of the mystery was unraveled. The source of discord was revealed to be Carravhon, the Howling City, its ancient confines infiltrated and defiled, its slumbering specters awakened to scream and whisper insanity into the wasteland winds. Those most invested in the investigation knew not when or if these phenomena would cease."
+        },
+        {
+            "uid": "recQzy8TrbXsWTAXF",
+            "description": "One of the greatest challenges that the inhabitants of the Searing Plains had to face was the sudden invasion of the Sand Wyrms. The vile abominations swarmed out of the desert in previously unseen numbers to fall upon everyone, marauding and slaying indiscriminately. The focal point of the battles became the distant town of Tectum Carvos and as fate or the Gods would have it, the /vagrus/ played a pivotal role in forging an unlikely alliance against the Wyrms.\n\nOnce a decisive battle was won, the Wyrmslayers braved the Lost City of Vratluk, whence the burrowing horrors came, expecting to find answers to why and how the Sand Wyrms’ resurgence had occurred. There they discovered the great slumbering Chthonian, the progenitor of the Wyrms. The Sadirar shamans wrested control of the creature from its insane guardian and poisoned it so that it will not threaten future generations but in doing so, they destroyed any chance of studying it, learning where it came from and what its vast, ancient mind contained.\n"
+        },
+        {
+            "uid": "recmIipGvZzYrYaHR",
+            "description": "One of the greatest challenges that the inhabitants of the Searing Plains had to face was the sudden invasion of the Sand Wyrms. The vile abominations swarmed out of the desert in previously unseen numbers to fall upon everyone, marauding and slaying indiscriminately. The focal point of the battles became the distant town of Tectum Carvos and as fate or the Gods would have it, the /vagrus/ played a pivotal role in forging an unlikely alliance against the Wyrms.\n\nOnce a decisive battle was won, the Wyrmslayers braved the Lost City of Vratluk, whence the burrowing horrors came, expecting to find answers to why and how the Sand Wyrms’ resurgence had occurred. There they discovered the great slumbering Chthonian, the progenitor of the Wyrms. The Sadirar shamans wrested control of the creature from its insane guardian and vowed to guard it while studying its vast mind. Such undertakings are never without risks, however, and there is no telling if the Chthonian will threaten the Riven Realms ever again.\n"
+        },
+        {
+            "uid": "reczUrQMiQQvc4zwt",
+            "description": "None were more affected by the /vagrus/ than the companions joining the comitatus on the road. Their fates intertwined with the venture, leading them to unexpected paths and opportunities."
+        },
+        {
+            "uid": "rec3WTaXFmt4lMSwG",
+            "description": "The Tainted mercenary Harvek was a cruel man but perhaps thanks to the time spent with the /comitatus/, he put his broken relationship with his estranged son back together. They parted amicably, with the hope of seeing each other again. It is said that they worked together, later on, father and son going on dangerous adventures in the wasteland."
+        },
+        {
+            "uid": "rec3ulgXo5zbn6bV1",
+            "description": "The Tainted mercenary Harvek was a cruel man and the time he spent traveling with the /vagrus/ did not thaw his cold heart. He took vengeance on those he deemed responsible for his long incarceration but in doing so, he sacrificed his relationship with his estranged son. It is said that he remained forever a loner, working only for the highest bidder until his untimely death. Live by the blade, die by the blade."
+        },
+        {
+            "uid": "recoCeHMxtA8fLJzV",
+            "description": "The Dark Elven scout Renkailon had been searching for his courage for a long time and in his desperation, he hoped to find it at the end of a dark path. The /vagrus/ guided him away from it, however, and he forfeited the pursuit of Life Drain in the end. The newfound serenity suited Renkailon well, and he spent his remaining days traveling the world in the company of fellow wanderers."
+        },
+        {
+            "uid": "recM8oiowMqpZlkV6",
+            "description": "The Dark Elven scout Renkailon had been searching for his courage for a long time and in his desperation, he delved into darkness to find something that would fill the void. With the help of the /vagrus/, he unlocked the secrets of Life Drain. The price, however, was great, and Renkailon was no longer the Dark Elf wanderer he used to be, and so in time, he left the company of others altogether. Some say that he perished in obscurity. Others claim that he devolved into a true horror, a shadow, a hunter of the living."
+        },
+        {
+            "uid": "recc2RxawzCu9vmYP",
+            "description": "The Tainted bounty hunter Criftaa was forever haunted by her past that was drenched in violence, abuse, and fear. Although she was ashamed by the deeds her Imperial masters made her do, she kept her word and assassinated her targets with impunity. More than anything, this series of massacres locked her into a path that she walked in bitterness to the very end, never truly free, but always feared and renowned."
+        },
+        {
+            "uid": "recZMBY4mmGtDnN69",
+            "description": "The Tainted bounty hunter Criftaa was forever haunted by her past that was drenched in violence, abuse, and fear. When her Imperial masters sent her on a mission to assassinate Abolitionist cells and their leaders, she turned on her overseers and with the help of the /vagrus/, she finally liberated herself from servitude. They say that Criftaa disappeared soon afterward, living out her days in solitude, living off of hunting and trapping."
+        },
+        {
+            "uid": "recKpw6g3Jy0F9JAg",
+            "description": "Gor’Goro’s path crossed that of the /comitatus/ for a while, and the two of them rekindled the warrior’s love of the arena before the veteran Orc fighter got embroiled in the death of the last of his tribe. In the end, he rose above his doubts concerning his purpose thanks in part to the /vagrus/. Gor’Goro’s future brought more conflict but also renown and glory, eventually elevating him to fame rivaled only by legends of the past like Warleader Tor’Zag or Dra’Skarr Skullcrusher."
+        },
+        {
+            "uid": "reclBN9NCtGjaRG0o",
+            "description": "The Dwarven smuggler Garrik, always an opportunist, was successful in turning his ill fortune around with the aid of the /vagrus/. After he recovered his smuggling business, he kept on expanding it for many years to come. His journeys with the /comitatus/ had little effect on the Dwarf - he remained good old Garrik, mean and belligerent until one day, he tried to reach too far and grab too much.\n"
+        },
+        {
+            "uid": "reccoX2TxMqTx9Fe4",
+            "description": "The former diplomatic attaché and promising Dragonmage Finndurarth found companionship with the /comitatus/ by chance. Although she was considered naive and inexperienced by many, she was eventually successful in discovering a dark conspiracy as well as in laying the foundations of an alliance with the Oghres. She went above and beyond, revealing the true culprits behind the clandestine machinations, which sadly caused distress and distrust in her homeland. Years later, she took up the mantle of a Voice of the Dragonlord Doranmathar."
+        },
+        {
+            "uid": "recQZi6VDG7rSXOkz",
+            "description": "The former diplomatic attaché and promising Dragonmage Finndurarth found companionship with the /comitatus/ by chance. Although she was considered naive and inexperienced by many, she was eventually successful in discovering a dark conspiracy as well as in laying the foundations of an alliance with the Oghres. In the end, she kept the identity of the true culprits to herself, hoping to prevent a schism between her homeland’s factions. Years later, she took up the mantle of a Voice of the Dragonlord Doranmathar."
+        },
+        {
+            "uid": "recVK3PF4Iy2ixpef",
+            "description": "The ruthlessness of the sorceress Nedir kept her grabbing for more magical power throughout the years. When the /vagrus/ met her, she was being hunted by a Demonic entity due to her recklessness involving the arcane and it was only with the help of the /comitatus/ that she could break the curse. True to herself, she imprisoned the entity and used its essence to bolster her own power. It is said that she learned much and used many people to have her way but in the end, her ambitions and cruelty cost her everything."
+        },
+        {
+            "uid": "rec8eqOglLBYt9SvI",
+            "description": "The former kingpin and marauder Skornar came to realize soon after he joined the company of the /vagrus/ that his years on the continent, so far away from his homeland, were coming to an end. Nothing was the same anymore. While traveling with the /comitatus/, he found his cousin a broken man and decided to take him home, however unlikely the success of such a venture might be. They set sail in a boat they had built but whether or not they made it, nobody knows."
+        },
+        {
+            "uid": "recMddttNSKmPK3GR",
+            "description": "Eylani, the Half-Elven wanderer, joined forces with the /vagrus/ when they pledged themselves to the defense of Tectum Carvos against the invasion of the resurgent Sand Wyrms. Once the crisis was averted, she ended up finding out that her husband had been unfaithful. Disheartened by learning the truth, Eylani wished to abandon him but the /vagrus/ convinced her to forgive the man and to start anew."
+        },
+        {
+            "uid": "recUpVXjumXECxXZK",
+            "description": "Eylani, the Half-Elven wanderer joined forces with the /vagrus/ when they pledged themselves to the defense of Tectum Carvos against the invasion of the resurgent Sand Wyrms. Once the crisis was averted, she ended up finding out that her husband had been unfaithful. Disheartened by learning the truth and encouraged by the /vagrus/, she decided to leave that selfish man and start a new chapter in her life."
+        },
+        {
+            "uid": "recrDX7X5n4PccyRD",
+            "description": "As for Vorax, his travels alongside the /vagrus/ ended up being a journey of self-discovery. Upon learning of his dark past and of the tragedy he caused, the Undead chef decided to make things right as much as he could so long after the fact. In the end, he broke the curse that bound him and his unfortunate victims to a deathless existence and was free to decide his own fate. Some say that Vorax then disappeared, others that he went on fantastic journeys across the Realms."
+        },
+        {
+            "uid": "recH6Opi40sPge62L",
+            "description": "There were more, of course, people whose lives or fortunes changed due to the deeds of the /comitatus/. And what was the ultimate fate of the /vagrus/? Well, as they say, the journey never truly ends."
+        },
+        {
+            "uid": "recQaI3N9M8joTW0h",
+            "description": "Save often. Vagrus is a difficult game and sometimes bad decisions can have delayed consequences."
+        },
+        {
+            "uid": "recwRxWdxnGSNzpmo",
+            "description": "Taking Trade Tasks in settlements is the best way to gain a baseline income when starting out."
+        },
+        {
+            "uid": "reccg2OYtq9R7jFtI",
+            "description": "Giving gifts to your Companions can go a long way in reconciling them with a /vagrus/ that makes choices they do not approve of."
+        },
+        {
+            "uid": "recu4rf4H8J9ftfQo",
+            "description": "Butchering a Beast of Burden can save your life when you run out of Supplies while traversing one of the many desolate landscapes of the Riven Realms."
+        },
+        {
+            "uid": "recHsgMaQIHDH6j6F",
+            "description": "You can not Hunt on roads, only Forage, albeit with reduced efficiency."
+        },
+        {
+            "uid": "recHHdKMzJrjoskUa",
+            "description": "Gaining Reputation with a Faction reduces your Reputation with their enemy factions."
+        },
+        {
+            "uid": "recS9RtAp1iKFYH1V",
+            "description": "Higher Faction Standing can unlock new options, opportunities, rewards, stories, and quests in places you have already visited."
+        },
+        {
+            "uid": "recU2fDDdC54jxOEW",
+            "description": "Higher Perk levels can unlock hidden options in Events and Settlements."
+        },
+        {
+            "uid": "recK7atFIlk4AB39l",
+            "description": "Allowing your /comitatus/ to grow too large too quickly can have serious delayed consequences, usually related to Consumption."
+        },
+        {
+            "uid": "recoQqaa5Oy2V0oK7",
+            "description": "It is better to pack more Supplies for a journey than to run out of them in the wastelands."
+        },
+        {
+            "uid": "rec0YwB8I5FyshnUT",
+            "description": "Downsizing your /comitatus/ can be very useful, especially when striking out to explore new regions, or when trying to bounce back from a dire financial predicament."
+        },
+        {
+            "uid": "recnABHyPpt2g6pQh",
+            "description": "Workers allow you to Forage with more efficiency while Scouts enable you to Hunt. These can provide a constant influx of free Supplies."
+        },
+        {
+            "uid": "recsxFvg36qfgaYO8",
+            "description": "Keep an eye on your Obedience if you own slaves, as a low value can sabotage your /comitatus/ in sudden and unexpected ways."
+        },
+        {
+            "uid": "recXT8AOxSz89Lzhl",
+            "description": "Keeping a high Morale will grant your /comitatus/ constant, useful bonuses for world map movement and crew combat statistics."
+        },
+        {
+            "uid": "recxKoCCiMOq1GUzG",
+            "description": "If you have a few Movement Points when striking camp, Hunting and Foraging costs no Vigor."
+        },
+        {
+            "uid": "recUsMl7xpVR2G3ka",
+            "description": "Exploration is the key to your success: it opens up new trade opportunities, services, and quests. Do not settle on a location but strike out once you have the means and discover more of the Riven Realms."
+        },
+        {
+            "uid": "recPkRp7LhyGDoOSk",
+            "description": "You can try to avoid Crew Combat encounters that are too difficult by using the Flee\\Buy Off\\Lure Away buttons. The latter two only work with certain enemy types and allow you to get away more successfully."
+        },
+        {
+            "uid": "recPS0CXwV7r90sxT",
+            "description": "Learning new Leadership Perks with your /vagrus/ allows you to spend your Resourcefulness in new and useful ways every in-game day."
+        },
+        {
+            "uid": "rec0wZkENCM3vWNlQ",
+            "description": "Insight can be spent on your /vagrus/ as well as your Companions. Be wary though, as upgrades are mostly final and Insight is difficult to come by."
+        },
+        {
+            "uid": "recAtcJfSykrfC1vw",
+            "description": "By assigning Deputies, you can attain strong bonuses and abilities. Your Authority limits how many Deputies can be assigned at the same time."
+        },
+        {
+            "uid": "recTE1IJABBYcrPhr",
+            "description": "Venture off the beaten path from time to time. More interesting things can be found out there."
+        },
+        {
+            "uid": "recomZmlX7yOwGEpC",
+            "description": "You can use the Chart to get a rough estimate on travel times by clicking on a point of interest. The estimate will be indicated on the bottom left."
+        },
+        {
+            "uid": "recgBvU8A9bw0gJ8h",
+            "description": "Every tenth unlocked Codex entry awards you Insight."
+        },
+        {
+            "uid": "recToa8xrRZkP3xLq",
+            "description": "Attribute and Profession levels are the most common to provide bonuses on Tests."
+        },
+        {
+            "uid": "recu4ZJXDWnnaa91q",
+            "description": "Resting in settlements can be a good way to boost your Morale and Vigor if you can pay for better recreational activities."
+        },
+        {
+            "uid": "recSAO0KIznQSeQ7L",
+            "description": "You can find specialized merchants all around the Realms who will buy and sell specific (often rare) wares at great prices."
+        },
+        {
+            "uid": "recNgm8zohKjn0qDN",
+            "description": "Take your time to overview the camping screen in order to toggle rations, healing, and wages. These can make a large difference in the long run to balance your /comitatus/."
+        },
+        {
+            "uid": "reccWeroVABS8GnP3",
+            "description": "Insight is awarded for discovering regions and locations for the first time."
+        },
+        {
+            "uid": "recGEkyN2PnIkuOeg",
+            "description": "Not all settlements are equipped or stocked to serve larger /comitati/. Bringing extra rations for backwater areas may be necessary at times."
+        },
+        {
+            "uid": "recWEBcGAL6fLBASC",
+            "description": "Your Companions heal over time, so you want to avoid frequent combat encounters. Using Medical Supplies while resting and investing in the Heal Perk improve their healing rate."
+        },
+        {
+            "uid": "recZB0dPMqoo0aPNb",
+            "description": "Sometimes withholding wounded Companions from a fight is the wise thing to do."
+        },
+        {
+            "uid": "reciLpoerBOLQ685s",
+            "description": "Forcing melee-focused opponents to the back line in Companion Combat steals their chances to deal damage to your Companions."
+        },
+        {
+            "uid": "rectkmWTi9QC9lCD0",
+            "description": "Using Forced March points can be useful when you are rushing to a settlement before your /comitatus/ collapses but use it sparingly - overdoing it can have serious consequences."
+        },
+        {
+            "uid": "recBuvTeLARWoAODM",
+            "description": "Market prices update over time as well as whenever you discover a new settlement. Make sure to check them regularly on the price history."
+        },
+        {
+            "uid": "recIu13lECeiOOccV",
+            "description": "Check on the passenger tab in settlements before leaving - some passengers might be interested in hiring you to take them to their chosen destination."
+        },
+        {
+            "uid": "rectLkRUs3v0ouUG9",
+            "description": "Passengers consume Supplies. Only take on passengers whose destination is along the way you are traveling. Trying to make a living solely by delivering passengers is a sure way to go bankrupt."
+        },
+        {
+            "uid": "rec4poHbREN8UMw79",
+            "description": "Your Journal is a great tool to track storylines, Rumors, Passengers, and Tasks. Use it often to remind yourself of your active objectives."
+        },
+        {
+            "uid": "recWiCmuMycuOe4BR",
+            "description": "Tasks have a time limit - completing them early grants you a Reputation and reward boost but doing so late reduces the rewards and can even fail the Task."
+        },
+        {
+            "uid": "rec8VjC8GfvjWtyxe",
+            "description": "Pilgrims of the Wasteland' is a story with a fixed protagonist and a more controlled narrative. It does not have to be completed before the open-world part, so feel free to skip it if you are more interested in freedom of choice and creating your own character. You can go back to it later."
+        },
+        {
+            "uid": "reca9rbJflmoq3QgO",
+            "description": "Bounties, Tasks, Passengers and most other avenues of profit are rarely sufficient to keep your /comitatus/ afloat by themselves. Try to combine trading routes with such other activities or plan routes around such tasks."
+        },
+        {
+            "uid": "recq1xMx1UvlhNBjr",
+            "description": "All Deputies unlock a specific Equipment slot for your /comitatus/ when assigned to their positions."
+        },
+        {
+            "uid": "recJBM5TrfKOokPqH",
+            "description": "You can enter Companion Combat while fighting a Crew Combat encounter and choose to face the foe's leaders or regular fighters. Getting rid of fighters this way removes them from the subsequent Crew Combat while winning this combat provides additional advantages."
+        },
+        {
+            "uid": "recJcTlpyWSlGRZzc",
+            "description": "Market prices on goods are dynamic - by buying or selling a large amount of a certain item, you move the prices accordingly. For this reason, it is generally more beneficial to trade in a combination of goods than a single one in bulk."
+        },
+        {
+            "uid": "recDsTMjJIWxwCGr9",
+            "description": "Different beast types have different advantages and disadvantages for both Mounts as well as Beasts of Burden, including their price. Consider which type suits your playstyle best."
+        },
+        {
+            "uid": "recoYwgqg92G5VKDn",
+            "description": "Once you encounter a Faction, you can consult its pane under the Leader UI to see the benefits (or penalties) of your current standing with them, identify their allies and adversaries, as well as the locations where they have a prominent presence."
+        },
+        {
+            "uid": "rechKx3ARCK46Z98m",
+            "description": "The market price history tool next to your chart can be used to gain essential trading information. Use it often if you are looking for good trade opportunities."
+        },
+        {
+            "uid": "recDJxEJ83dSgGDs9",
+            "description": "Common Undead tend to be stubborn opponents - having no mind of their own - so only take them on in combat if you believe you can defeat them decisively because it is unlikely that they will relent."
+        },
+        {
+            "uid": "recQJKipPWquekzqy",
+            "description": "If you enjoy the game and would like to support us to continue expanding and improving *Vagrus*, leaving a review on Steam\\GOG is a great way to do that. Thanks in advance!"
+        },
+        {
+            "uid": "recJMmbG4lwrv8xJq",
+            "description": "Usually, your /vagrus/ is aided by all the available Companions during Tests in Events but some Tests only involve a select group or just the /vagrus/. Therefore, it behooves you to be mindful of everyone's Perks if you want to succeed at Tests."
+        }
+    ]
+}

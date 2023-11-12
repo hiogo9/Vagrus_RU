@@ -1,0 +1,781 @@
+Description
+Vitality (VIT) is how much damage the character can sustain. When depleted, Companions are Downed but most enemies are defeated right away.
+Power (POW) is used by certain Skills. These Skills can only be used if the character has enough POW to pay for its activation.
+Evade (EVD) is a defense mode that allows the defender to avoid damage and effects from an attack entirely. Certain attacks ignore a part of or all of Evade. A successful Evade moves the defender to a random adjacent position.
+Armor (ARM) is deducted from damage when the combatant is hit. Some attacks ignore a part of or all of Armor.
+Actions (ACT) is the number of times a combatant takes their Turn in a Round. Subsequent Turns are taken after all first Turns are taken by every combatant.
+Hardness (HRD) is deducted from damage when the obstacle is hit. Some attacks ignore a part of all of Hardness.
+Durability (DUR) is how much damage the obstacle can sustain before being destroyed.
+*Forfeit active turn and replenish 2 Power. *
+*Open Character Sheet*
+"*Change Defense Mode*
+Current Defense Mode: Evade"
+Expected Damage is the extent of VIT loss that the selected Skill will cause if it hits the target. Mitigation and damage avoidance is not calculated.
+Accuracy (ACC) is the chance for the Skill to successfully hit the target. Defenses are rolled after hitting the target.
+Critical Hit Chance (CRT) is the chance of dealing a critical hit with the Skill. Critical hits cause x1.5 Damage.
+Initiative (INI) determines in what order characters receive their turn in a round. Higher INI means the character is likely to act faster.
+While a Companion is Downed, they receive their Downed Vitality. If Downed Vitality is depleted, the Companion is defeated and is out of action.
+The number of VIT the character regains each round.
+Block (BLC) is a defense mode that provides the defender with additional ARM against the current attack. Certain attacks ignore a part of or all of Block.
+The number of POW the character regains each round.
+How many coins the Companion must be paid daily.
+%CharacterName% INI %INI% + %RandomINI% for the round
+The chance to resist Stun and Immobilize effects.
+The chance to resist Bleed damage over time.
+The damage reduction from Cold damage and the chance to resist Cold damage over time.
+The damage reduction from Mental damage and the chance to resist Mental damage over time as well as Mental effects.
+The damage reduction from Fire damage and the chance to resist Fire damage over time.
+The damage reduction from Energy damage and the chance to resist Magical damage over time as well as Magical effects.
+The chance to resist Poison damage over time.
+The damage reduction from Lightning damage and the chance to resist Lightning damage over time.
+"**Aid**
+Bring a Companion back from Downed state.
+%cost% Resourcefulness"
+"**Empower**
+Give POW to a Companion.
+1 POW \ %cost% Resourcefulness"
+"**Inspire**
+Boost the defenses of a Companion for 3 Rounds.
+%cost% Resourcefulness"
+"**Prepare**
+Boost the INI of a Companion for the current Round. The Companion moves ahead in the INI order instantly.
+Maximum %useage% per Round.
+%cost% Resourcefulness"
+"**Resourcefulness**
+%max% \ %current%"
+Assign Deputies outside of camping and settlements.
+Cannot be used for (Days): %remainingdays%
+Cost: %cost% Resourcefulness
+You can only add %entries% entries per Point of Interest.
+**Main Menu** (F10)
+"**Combat Objectives**
+/not available/"
+"**Retreat**
+/not available/"
+The money you have to pay to your crew each day.
+%name%
+People you agreed to take to their travel destinations.
+The measure of how many supplies your /comitatus/ consumes each day with standard rations.
+The sum total of your debt to your crew.
+"Add Outrider
+/Requires 1 Mount and 1 Fighter./"
+"Subtract Outrider
+/Adds 1 Mount and 1 Fighter./"
+"Sort Cargo
+/Merges stacks and moves the same goods together./"
+"**Prowess**
+The Companion's level of experience and skill (1-9).
+/Click to upgrade Companion./"
+Switch Appearance and Background Display
+"The loyalty of your companion to the /comitatus/ and you in particular. Your choices and actions influence this standing but each companion likes and dislikes different things. Talk to them to find out more. Better Loyalty can open up new story options with your companion, while low Loyalty can lead to them abandon the crew eventually. Levels of Loyalty are as follows:
+3 - Amicable
+2 - Friendly
+1 - Congenial
+0 - Neutral
+-1 - Disgruntled
+-2 - Resentful"
+**Codex** (%hotkey%)
+**Vagrus** (%hotkey%)
+**Journal** (%hotkey%)
+**Chart** (%hotkey%)
+**Comitatus Log** (%hotkey%)
+**Glossary** (%hotkey%)
+*Move*
+*March*
+*Camp*
+*Quick Camp*
+*Scout*
+*Acquire Supplies*
+*Enter*
+"*Explore*
+Look for events and encounters on this Node.
+Cost: %MP% MPs"
+"*Explore*
+Look for events and encounters on this Node.
+Cost: %MP% MPs
+/Unavailable: You do have not enough MP./"
+MP Cost
+March MP Cost
+Displays all changes in crew that occurred the current day.
+"End current day.
+/Consumption, payments, and defense orders are applied. MP and Resourcefulness replenish at the beginning of the next day./"
+"Feed %rations%% rations to the /comitatus/ at the end of the day.
+Consumption: %consumption%
+You have %supply% supplies."
+Pay all your debt to your crew at the end of the day, including what you offer for the current day.
+Offer your crew normal wages for the current day.
+Open Settlement Rest Window
+Heal Companions
+Talk to Companion
+Leave Settlement (%hotkey%)
+Story (%hotkey%)
+Market (%hotkey%)
+Mansio (%hotkey%)
+Factions (%hotkey%)
+Out of range MP Cost
+"*[red]VIT %vit% \ %maxvit%[]*
+*[yellow]POW %pow% \ %maxpow%[]*"
+"End current day.
+/Consumption, payments, and recreation choices are applied. MP and Resourcefulness replenish at the beginning of the next day./"
+Vitality
+Evade
+Block
+Power
+Armor
+Actions
+Expected Damage
+Accuracy
+Critical Hit Chance
+"*Change Defense Mode*
+Current Defense Mode: Block"
+Offer your crew double wages for the current day (boosts Morale).
+Postpone paying. Your debt will be added to the accrued sum, including what you offer for the current day.
+Heal Companions
+Current Defense Mode: Evade
+Current Defense Mode: Block
+Story is in alignment
+Story is  in alignment
+%value% %name% required
+Less than %value% %name% required
+Companion: %name% required
+Companion: %name% can not be present
+Perk: %name% (%level%) required
+Less than Perk: %name% (%level%) required
+%character% requires %name% (%level%)
+%character% requires lower than %name% (%level%)
+Passenger: %name% required
+Passenger: %name% can not be present
+Goods: %name% (%value%) required
+Goods: %name% fewer than (%value%) required
+"Item: %name% fewer than (%value%) required
+"
+"Item: %name% (%value%) required
+"
+Average price of own stock: %price%
+%value% %name% required (you have %count%)
+maximum %max1% - %max2%
+Available: Daily
+Available: Every %freq% days
+Fewer than %value% %name% required (you have %count%)
+Story is in alignment (%level1name%)
+Story progression required (%level1name%)
+unused
+Quality: %name%
+No Quality: %name%
+Story progressed beyond (%level1name%)
+Finalize changes
+Reset changes
+Deputies
+Companions
+Quality: %name% (Need %value% or more. You have %valueplayer%.)
+Quality: %name% (Need %value% or less. You have %valueplayer%.)
+Gear: %name% must be owned
+Gear: %name% can not be owned
+Equipment: %name% must be owned
+Equipment: %name% can not be owned
+"%value% have passed since journey's beginning
+"
+Double Payment promised
+You can only assign deputies during camp or rest, or by spending resourcefulness.
+%value% Rations required
+Less than %value% Rations required
+Codex Entry: %name% can not be unlocked
+Codex Entry: %name% required
+Your Race must be %name%
+Your Calling can not be %name%
+Your Calling must be %name%
+Your Background must be %name%
+Your Ambition can not be %name%
+Your Ambition must be %name%
+Your Race can not be %name%
+Available: Every %freq% - %freq2% days
+unused
+unused
+Goods: Random (%value%) required
+Not enough Goods in your hold
+At least %value% Companions
+Fewer than %value% Companions
+At least %value% Companions
+Fewer than %value% Companions
+"*Boost Skill*: Use a Combat Skill at its next tier.
+/Clicking this changes the Skills for this character to their next tier versions. Use the Skills normally afterwards. Clicking the button again cancels Boost./
+%cost% Resourcefulness"
+Increase Maximum Resourcefulness (%resourcefulnesscost%)
+"*Click*: Buy 1 increment
+*Shift+Click*: Buy 1 stack
+To Buy a specific amount *Shift+Click* on the good's *icon*."
+"*Click*: Sell 1 increment
+*Shift+Click*: Sell 1 stack
+To Sell a specific amount *Shift+Click* on the good's *icon*."
+"*Click*: Remove 1 increment
+*Shift+Click*: Remove 1 stack"
+"*Click*: Add 1 increment
+*Shift+Click*: Add 1 stack"
+Set value to minimum.
+Set to maximum available value.
+Display All Goods
+"Increase your standing to gain access to this Faction Offer. 
+Faction Offer Tiers are dependent on your standing with the given Faction and their specializations. Trading Houses typically have higher tier Faction Offers
+available, while Churches and Criminal organizations only give access to their faction reserves."
+"*Locked*
+/Appropriate Leadership Perk is required to unlock./"
+Not enough *Resourcefulness*.
+No available target.
+View related Codex entries (if already unlocked).
+Marked locations remain visible regardless of map zoom.
+Not enough *%prop%*
+This Companion *must* be deployed.
+This Companion has been deployed.
+This Companion is locked in position on the battlefield.
+This Companion is wounded but available for deployment.
+This Companion is mortally wounded and can not be deployed.
+This Companion is unavailable for deployment.
+Not enough Insight to raise Prowess.
+You need to progress this Companion's story to unlock the next Prowess tier.
+Maximum Prowess already reached.
+"You can not afford to rest in the mansio.
+/Leave the settlement to camp outside or get %money% to pay for the mansio./"
+Leadership actions are disabled at this time.
+You can not use this again until the next round.
+Can not boost Skill further.
+Not %name% %value%
+%name% %value%
+Rumor: %name%
+Unknown rumor: %name%
+Not %name% %value%
+%name% %value%
+No news from %node%
+News from %node%
+%status%
+Not %status%
+%character% has not %status%
+%character% has %status%
+%name% is Hurt, Wounded, or Severely Wounded
+%name% is not Hurt, Wounded, or Severely Wounded
+%name% is %healthstatus%
+%name% is not %healthstatus%
+Only allowed %maxtrigger% times
+This Companion is available for deployment.
+Raise the chance of a successful Scouting in this direction. Costs 1 *Resourcefulness*.
+"Indicates if you have an assigned Scout Master. You can assign Deputies on the Deputy pane.
+An assigned Scout Master provides the following bonuses:
+- One additional direction without Resourcefulness cost
+- Raises Critical Success chance
+- Lower Critical Failure change"
+Refresh the news from this location and share your news for coin.
+/Expires in %days% days./
+Display scouting results.
+Guarantee scouting success in this category by spending two resourcefulness.
+Scout directly in front of the /comitatus/’ current trajectory.
+Scout all adjacent nodes connected to the /comitatus/’ current trajectory.
+Set conditions relating to hunting and foraging that stop the /comitatus/.
+Set conditions relating to combat encounters that stop the /comitatus/.
+Set conditions relating to ventures (events or tasks) that stop the /comitatus/.
+Set %stopcriteria% criteria for stopping the /comitatus/.
+You have the latest local news already and have nothing new to share.
+"Send your scouts in the chosen directions.
+/You can not change your orders afterwards but you may send them again./"
+Not enough *Resourcefulness* or *Movement Points* or *Scouts* to perform this action.
+"Return to the campaign map.
+Clicking the *Eye* icon reopens Scouting results where you can send out your scouts again."
+"Each additional direction after the first (with Scout Master: after the second) costs *Resourcefulness*. 
+Boosting the chance of a success also cost one *Resourcefulness* per direction."
+Scouting *Movement Point* cost equals the highest MP cost direction.
+Send one more scout in this direction.
+The chance of an event occurring on this node is %chance%.
+You will find something story-related in this direction.
+You can send your scouts out again in hopes of a better result.
+Not enough *Scouts* or *MP* to perform this action.
+Enemies lie in wait here.
+Send at least one *scout* in this direction to be able to boost the chance of success.
+"Each additional direction after the first (with Scout Master: after the second) costs *Resourcefulness*. 
+Boosting the chance of a success also cost one *Resourcefulness* per direction."
+Scouting *Movement Point* cost equals the highest MP cost direction.
+"*Critical Fail* chance 
+/Lose one or more of your scouts sent in this direction in case of a *Critical Fail*./"
+"*Critical Success* chance
+/Receive exact information about the node you were Scouting in case of *Critical Success*./"
+"*Success* chance
+/Receive reliable information about the node you were Scouting in case of *Success*./"
+"*Fail* chance
+/May lose one or more scouts sent in this direction in case of a *Fail*./"
+Send one less scout in this direction.
+Not enough *Resourcefulness* to perform this action.
+You do not have enough Scouts to increase the distance covered.
+You do not have enough movement points to increase the distance covered.
+Story is in alignment.
+Story is in alignment.
+Coming soon
+At least %value% Companions
+Fewer than %value% Companions
+"Discipline one or more of your slaves to gain Obedience. /Note that disciplining your slaves has a diminishing return and may have the opposite effect on Obedience./
+/ Costs no MP if you are already camping./"
+"Liberate one or more of your slaves to gain Obedience. Liberated slaves become workers.  / Note that the Obedience gain has a diminishing return./
+/ Costs no MP if you are already camping./"
+Butcher one or more Mounts to gain Supplies. /Cargo capacity will be lowered./
+Butcher one or more of your Beasts of Burden to gain Supplies. /Cargo capacity will drop significantly./
+Your Background can not be %name%
+See how this fight concludes.
+Try to flee from the encounter. You can increase your chances by offering the enemy what they want.
+Not yet available
+Make demands in return for letting the enemy go. The more you ask for, the less likely they will accept it without a fight.
+Not yet available
+Move on, leaving the encounter without altercation.
+You can only choose this if you are the Attacker and the encounter was not initiated by an Event.
+Fight the enemy in a bloody battle.
+You do not have a crew to fight for you.
+Heal the wounded after the fight.
+You have to select at least one combat group to fight for you.
+Pursue the enemy.
+You have to select at least one combat group to fight for you.
+Fight the enemy in a bloody battle.
+Not available yet.
+You do not have time to spare for healing.
+Spend %Tweak.StopForHealMoveCost% MP to increase the chances of successfully healing your crew. Costs no MP if you are already camping.
+Not enough Resourcefulness.
+Spend %Tweak.HealResourcefulnessCost% Resourcefulness to increase the chances of successfully healing your crew. Costs no Resourcefulness if you are already camping.
+Arming your slaves raises your Combat Strength but reduces your Obedience.
+You have no Passengers who could fight.
+You have no slaves to arm.
+Deploying your Passengers raises your Combat Strength but they might become wounded, denying their rewards upon delivery.
+Select your character's Race.
+Your Background provides additional advantages and Perks.
+Your Ambition determines how you win the game.
+Your Calling determines additional starting Perks, possessions, and crew.
+Not yet available. Coming in a future release.
+Select your silhouette and confirm your name.
+Allocate Perks using your starting Insight
+Unavailable for the selected Race.
+Male;Female;Any Gender
+You need to own the '%dlc%' DLC to select this.
+You have unsaved changes.
+Previous stage.
+Select portrait.
+Spend all Insight Points to progress.
+Reset Perks.
+Confirm your choice.
+No changes to reset.
+VagrusCreateGenerateName
+Revert
+Not enough Insight (%authoritycost%)
+Increase Authority (%authoritycost%)
+Not enough Insight (%resourcefulnesscost%)
+No increase to revert
+Revert
+No increase to revert
+Enter a name before proceeding.
+No changes to reset
+No changes to finalize
+Inactive
+Inactive
+Can not close now. Follow the Tutorial to progress.
+Close
+Not available yet.
+Active Status Effects are listed here.
+Not available yet.
+Faction information can be viewed here.
+Not available yet.
+A summary of Perks can be found here (from your character, Companions, Gear, Equipment, Status Effects, etc.).
+Disabled
+Your character's Perks are listed here.
+"**Offered Deal**
+Sell %qty% %name% %stack% for %money%
+/You own: %actqty%/
+%guestimate%"
+"**Offered Deal**
+Buy %qty% %name% %stack% for %money%
+/You own: %actqty% %cargospace%/
+%guestimate%"
+Deputy %name% can not be assigned.
+Deputy %name% has to be assigned.
+"Prowess indicates how powerful and experienced the Companion is. 
+Each time their Prowess is raised, they gain Proficiency points you can spend on improving them. 
+/To unlock Prowess levels 4, 6, and 8, you need to progress the Companion's storyline to a certain point. Prowess is capped at 3 in 'Pilgrims of the Wasteland'./"
+Tooltips.LeaderBackDisabledButton
+Back to Factions Summary
+Known location
+Undiscovered location
+Unknown faction
+"Use Encourage to raise Morale by %effect%.
+/Costs %rf% Resourcefulness and can be done every %freq% days./"
+Lock Settings
+Lock Settings
+"Toggle Medical Supplies
+/Medical Supplies will be used for healing, raising healing chances and effectiveness but there is a chance to lose Medical Supplies./"
+Lock Settings
+Disable Heal Results
+Disable Hunting and Foraging Results.
+"Claim Reward
+"
+Unavailable
+Reclaim Effect
+"Send out your scouts to hunt. They can return with Supplies and sometimes other goods as well.
+Results depend on the Hunting Roll.
+/Critical Success - Supplies gained multiplied
+Success - Supplies gained
+Failure - Fewer Supplies gained
+Critical Failure - Might lose Scouts and Vigor/"
+"Send out your workers to forage. They can return with Supplies and sometimes other goods as well.
+Results depend on the Foraging Roll.
+/Critical Success - Supplies gained multiplied
+Success - Supplies gained
+Failure - Fewer Supplies gained
+Critical Failure - Might lose Worker and Morale/"
+"Send out your slaves to forage. They can return with Supplies and sometimes other goods as well.
+Results depend on the Foraging Roll.
+/Critical Success - Supplies gained multiplied
+Success - Supplies gained
+Failure - Fewer Supplies gained
+Critical Failure - Might lose Slave and Obedience/"
+"Send out your workers to earn some coins working odd jobs. They might return with additional goods.
+Results depend on the Odd Jobs Roll.
+/Critical Success - Decent earnings
+Success - Mediocre earnings
+Failure - Poor earnings
+Critical Failure - Might lose Worker and Morale/
+"
+"Send out your slaves to earn some coins working odd jobs. They might return with additional goods.
+Results depend on the Odd Jobs Roll.
+/Critical Success - Decent earnings
+Success - Mediocre earnings
+Failure - Poor earnings
+Critical Failure - Might lose Slave and Obedience/"
+Not yet available.
+The chance of a crew combat on this node is %chance%.
+Not yet available.
+The chance of nothing happening on this node is %chance%.
+"*Acquire Supplies*
+Manual Supply Acquisition can override your auto-acquire settings."
+"*Auto-Acquire Supplies*
+Set conditions through which supplies are automatically acquired with Camp or Quick Camp. "
+"*Allow Vigor Use*
+Highlighting this will use 1 Vigor instead of 2 MP when no MP are available."
+The base foraging chance on this node is %chance%.
+The base hunting chance on this node is %chance%.
+"%qty% \ %currentmax%
+Cargo can never exceed 600 (30 slots),
+the absolute maximum."
+"Throw Out
+/Select and discard cargo goods to make room./"
+Perk levels gained from the /vagrus/ and the related status effects.
+Perk levels gained from equipment and status effects applied to the /comitatus/.
+Perk levels gained from companions, their gear, and related status effects.
+"Click: Subtract 1 Lyrg
+Shift+Click: Subtract 1 Bross
+Ctrl+Click: Subtract 10 Bross"
+"Click: Add 1 Lyrg
+Shift+Click: Add 1 Bross
+Ctrl+Click: Add 10 Bross"
+No effect of substracting coins or no coins left.
+No further effect of adding more coins or no coins left to offer.
+Reset your offer.
+"Generate an offer that might satisfy the foe to allow a successful *Flee*. 
+This might not be the most optimal offer considering your /comitatus/' wealth and options."
+Resetting the offer is not available.
+Reset Companion Perks and Skills
+Break Camp
+Unable to Break Camp
+No more Outriders to dismount.
+Dismount - separates an Outrider into a Fighter and a Mount.
+Not enough Mounts or Fighters to create an Outrider.
+Create an Outrider by mounting a Fighter.
+/Unable to switch goal/
+Switch Goal
+Not enough Morale or Vigor to pursue the enemy.
+Let the enemy flee.
+n.a.
+Fighters can not mount due to the ambush.
+Outriders can not dismount due to the ambush.
+"*Locked*
+/Appropriate Leadership Perk is required to unlock./"
+"**Command**
+Use to unlock advanced actions.
+%cost% Resourcefulness"
+Not enough *Resourcefulness*.
+"Switch Stack Deals
+/While switched on, the +/- buttons add and distract full stacks./"
+Display Edibles
+Display Raw Materials
+Display Metals
+Display Crafted Goods
+"Switch Wholesale Deals
+/While switched on, the quantity selector always comes up when buying and selling./"
+/Not available yet./
+Price History
+"Discard the current Trade Tasks for a set of new ones using your sway with the factions. There is no guarantee that the new Tasks will be better.
+/Costs %rf% Resourcefulness and can be done every %freq% days./"
+Cannot be used for (Days): %remainingdays%
+"Discard the current Mercenary Tasks for a set of new ones using your sway with the factions. There is no guarantee that the new Tasks will be better.
+/Costs %rf% Resourcefulness and can be done every %freq% days./"
+Cannot be used for (Days): %remainingdays%
+"Discard the current Exploration Tasks for a set of new ones using your sway with the factions. There is no guarantee that the new Tasks will be better.
+/Costs %rf% Resourcefulness and can be done every %freq% days./"
+Not available yet.
+"Toggle Sorting by Faction, Task Level, and Reputation relevance.
+/Reputation relevance shows the Tasks that can be taken and grant reputation on top, then those that can be taken but grant no reputation, then the rest of the Tasks./"
+"Toggle filtering by Show All, Hide Claimed Tasks, and Show Available Only.
+/Show Available Only hides claimed Tasks as well as those you have not enough Faction Standing for./"
+Not enough *Resourcefulness*.
+Not enough *Resourcefulness*.
+Not enough *Resourcefulness*.
+When selected, this option displays price differences on the tabs compared to the pinned (leftmost) list.
+Sort price history by distance from the pinned location (leftmost). Settlement distance goes from closest to farthest (from left to right).
+When selected, this option allows for sorting settlement price history by distance, price date, or name.
+When selected, this option displays actual prices on the tabs.
+When selected, this option allows you to save five sets of price history lists made up of five settlements.
+Sort price history by the alphabetic order of settlement names.
+Sort price history by the freshness of price information, starting with the most up-to-date price history on the left.
+Mark the settlement on your chart.
+Use your faction contacts to gain up-to-date price information from the settlement. Costs faction reputation. Can only be used if you have the required standing with at least one faction present in both your current location and the selected settlement.
+Can only be used if you have the required standing with at least one faction present in both your current location and the selected settlement.
+Unable to mark.
+Pin settlement price history list to the leftmost column.
+Show prices for a full stack.
+Show prices for a single unit.
+**Price History** (%hotkey%)
+This slot is locked. You can unlock it by assigning a Deputy to an appropriate role.
+"Not available in this settlement
+"
+Reptile Mounts and Beast of Burden
+"Not available in this settlement
+"
+Mammal Mounts and Beast of Burden
+"Not available in this settlement
+"
+Insectoid Mounts and Beast of Burden
+This Companion is severely wounded and can not be deployed.
+"Mount up your whole crew to travel with your mounts' speed. It also increases the chance to Flee from Crew Combat encounters but raises Mount consumption considerably.
+/They automatically dismount if the size of your crew exceeds the number of your mounts or if you have a Beast of Burden./
+/You need  %crewCompanionPlus1% mounts. You have %mountQty%.
+You have %beastQtywName%/"
+Dismount your crew. /Except for your outriders./
+"You can only mount up if you do not have any Beast of Burden and if you have enough mounts for all your crew members, including your companions, passengers, and yourself.
+/You need  %crewCompanionPlus1% mounts. You have %mountQty%.
+You have %beastQtywName%/"
+*Click*:  Buy a specific amount
+*Click*:  Sell a specific amount
+"*Click*:  Buy 1 stack
+/Prices shown for a full stack/"
+"*Click*:  Sell 1 stack
+/Prices shown for a full stack/"
+This mansio does not provide any accommodation options.
+Leader Unit
+Elite Unit
+"*Locked*
+/'Enhance' Leadership Perk is required to unlock./"
+Not enough %rf% Resourcefulness to increase your chance of succeeding in the Test by %value%%.
+"Increase your chance of succeeding in the Test by %value%%.
+/Cost: %rf% Resourcefulness./"
+"Reallocate %traverseeffect% March Movement Points to regular Movement Points
+/Costs %rf% Resourcefulness and can be done every %freq% days./
+"
+This Companion is a non-combatant hireling and can not be deployed.
+Not enough *Resourcefulness* to perform this action.
+"*Locked*
+/'Traverse' Leadership Perk is required to unlock./"
+Not enough *March Movement Points* to perform this action.
+Not available at the moment. Wait %freq% day(s) for Traverse to become available again.
+You can only turn Traverse off until you have at least %traverseeffect% Movement Points to turn them back into March Movement Points.
+Your story is in alignment.
+Your story is not in alignment. Something else is required to happen.
+"Increase your chance of succeeding in the Test by %value%%.
+/Cost: %rf% Resourcefulness./"
+Not available at the moment. Wait %freq% day(s) for Encourage to become available again.
+Not enough *Resourcefulness* to perform this action.
+"*Locked*
+/'Encourage' Leadership Perk is required to unlock./"
+(Halved against Marksmen)
+Dismount is not available at this time. You may dismount the next morning having fed your beasts and crew.
+Companion loyalty in alignment. (%name%)
+Companion loyalty in alignment. (%name%)
+Maximum Authority (%maxauthority%) reached.
+Offer your crew triple wages for the current day (boosts Morale).
+Offer your crew quadruple wages for the current day (boosts Morale).
+No Achievements while playing in Dissonance More or after passing the time limit
+No Achievements until establishing connection with your gaming platform at least once.
+No Achievements due to user id mismatch between the save file and player
+Save in Dissonance Mode
+Save passed the time limit of the game
+You cannot trade slaves in this settlement.
+You must swap to this beast type first.
+Cost: %insightcost% Insight and %RFcost% Resourcefulness
+"Type: Melee
+/This Skill can only be used from the Front Row. It can target the enemy Front Row or unblocked targets in the enemy Back Row./"
+"Type: Ranged
+/This Skill can target any %side% position./"
+"Type: Ranged (Unrestricted)
+/This Skill can target any %side% position./"
+"Type: Ranged (Line of Sight)
+/This Skill can target any enemy position but incurs a Cover penalty on Accuracy when the target is blocked./"
+"Target: Neighbor or Self
+/This Skill can target friendly characters next to the Skill's user as well as the user themselves./"
+"Target: Neighbor
+/This Skill can target friendly characters next to the Skill's user./"
+"Target: Self
+/This Skill always targets the character who uses it./"
+"Target: Any Side
+/This Skill's target can be from either side of the field./
+"
+"Target: Any Side (Not Self)
+/This Skill's target can be from either side of the field except the Skill's user./"
+"Target: Single Character
+/The Skill must target a single character./
+"
+"Target: Two Characters in the Same Row
+/A single target is enough to use the Skill./"
+"Target: Characters in a Square
+/Up to four targets in a square of positions can be targeted. A single target is enough to use the Skill./"
+"Target: Any Row
+/All characters in the Row will be targeted but a single target is enough to use the Skill./"
+"Target: Front Row
+/All characters in the Front Row will be targeted but a single target is enough to use the Skill./"
+"Target: Back Row
+/All characters in the Back Row will be targeted but a single target is enough to use the Skill./"
+"Target: Line
+/Both characters in the Line will be targeted but a single target is enough to use the Skill./
+"
+"Target: One Side
+/All characters on one side of the battlefield are targeted but a single target is enough to use the Skill./"
+"Target: Battlefield
+/All characters on both sides of the battlefield are targeted but a single target is enough to use the Skill./"
+"Target: Single Empty
+/The Skill must target a single empty position./"
+"Target: Two Empty in the Same Row
+/The Skill must target two empty positions./"
+"Target: Empty Square
+/The Skill must target four neighboring empty positions./"
+"Target: Any Empty Row
+/The Skill must target an empty Row./"
+"Target: Empty Front Row
+/The Skill must target an empty Front Row./"
+"Target: Empty Back Row
+/The Skill must target an empty Back Row./"
+"Target: Empty Line
+/The Skill must target an empty Line./"
+TargetOneSideEmpty
+TargetBothSidesEmpty
+"Target: Single Position
+/The Skill can target a single empty or occupied position./"
+"Target: Two Positions in the Same Row
+/The Skill can target two empty or occupied positions in the same row./"
+"Target: Positions in a Square
+/Up to four characters or empty positions in a square can be targeted./"
+TargetRowAnyAny
+TargetRowFrontAny
+TargetRowBackAny
+TargetLineAny
+TargetOneSideAny
+TargetBothSidesAny
+"Overwhelming
+/This Skill ignores %value% of the target's Block./
+"
+"Overpowering
+/This Skill ignores all of the target's Block./
+"
+"Armor Piercing
+/This Skill ignores %value% Armor of the target./"
+"Penetrating
+/This Skill ignores all of the target's Armor./"
+"Accurate
+/This Skill ignores %value% of the target's Evade./"
+"Precise
+/This Skill ignores all of the target's Evade./"
+"Incorporeal
+/This Skill ignores all of the target's Block and Evade./"
+"Crushing
+/This Skill ignores %value% Hardness of the target obstacle./"
+"Shattering
+/This Skill ignores %value% Hardness of the target obstacle./"
+"Enchanted
+/This Skill is able to damage enemies with the Impervious Trait./
+"
+"Immobilize
+/This Skill can cause the target to become Immobilized for %rounds% Round(s). Immobilized characters can not Move and Evade./"
+"Pull
+/This Skill can draw Back Row targets into the Front Row./"
+"Push
+/This Skill can push Front Row targets into the Back Row./"
+"Stun
+/This Skill can cause Stun to the target. Stunned characters skip their activations./
+"
+"Control
+/This Skill can cause the target to act under your control for a brief time./
+"
+"Overwatch
+/This Skill is set up and then triggered by enemies moving into the targeted position./
+%followup%"
+"Restricted
+/This Skill can only be used when the following requirement is met: %restriction%./
+"
+"Followup New Target
+/This Skill has another phase against a different target:/
+%followup%"
+"Followup
+/This Skill has another phase against the same target:/
+%followup%"
+"Repeating
+/This Skill repeats against the same target until missing. Subsequent repeats incur an Accuracy penalty./
+%followup%"
+"Cleanse
+/This Skill cancels %type% effects on the target./"
+"Taunt
+/This Skill compels the target to attack the Skill's user./"
+"Summon
+/This Skill spawns a %summon% to the target empty position./"
+"Buff
+/This Skill places an ongoing positive effect on the target./"
+Row
+Line
+Area
+Empty Position
+"Debuff
+/This Skill can place an ongoing negative effect on the target./"
+"Damage Over Time
+/This Skill can place an effect on the target that damages the target at the start of each Round./"
+"Game Settings
+/Settings related to gameplay can be found here./"
+Adjusts the size of Event texts and Codex entries. Changes will appear the next time an Event or the Codex is loaded.
+Regulates the time it takes for a tooltip to appear after hovering over something.
+Determines how fast the smoothing is when scrolling in an Event.
+Determines the scrolling speed in Events.
+Toggles between a single-choice or all choices being activated when previewing the "Enhance Test" Leadership Perk's effect in Events.
+Turns Event scroll arrows on the Event page on and off.
+Adjusts how fast the camera follows your /comitatus/ on the campaign map.
+If switched on, the Main Menu opens by right-clicking.
+Turns the custom cursor on and off.
+"Turns Automarch on and off. 
+Toggling this on will cause your comitatus to automatically expend march points when you choose a node outside the range that your movement points
+can take you.
+/This setting is not available early during the tutorial./"
+"Turns Quick Camping on and off.
+This setting will add a Quick Camp option to the radial menu through which you may bypass the camp UI ending the day immediately with camp when you reach your chosen destination.
+/This setting is not available early during the tutorial./ "
+When switched on, the nodes you have already visited in the world get marked.
+Turns tutorials on and off in the open world campaign.
+"Video Settings
+/Settings related to display and graphics./"
+Sets screen resolution.
+Sets display mode.
+Turns Vertical Synchronization on and off. Turning this on results in less screen tearing but might impact performance.
+Adjusts graphical effects detail. This includes campaign map animations, decals, and particle effects. A higher setting might impact performance.
+Shows the version number of the game when switched on.
+"Audio Settings
+/Settings related to music and sound effects./"
+Adjusts the master volume.
+Adjusts the volume of background and combat music.
+Adjusts the volume of sound effects.
+Adjusts the volume of ambient effects.
+Adjusts the volume of narration.
+Sets the length (in minutes) of silent periods between repeating background music tracks.
+"Combat Settings
+/Settings related to Companion Combat./"
+Turns idle animations in Companion Combat on and off. Turning it on might impact performance.
+Turns on instant crew combat animations.
+Displays the current round's number in Companion Combat when switched on.
+Adjusts how fast characters clash in Skill actions.
+If switched on, characters automatically target the first available enemy after Skill selection and you only need to confirm or cycle through targets.
+If switched on, targets get selected immediately when you hover over them.
+Using Skills require a second click to confirm the action.
+When switched on, the frame of position bases are only visible when targeting in Companion Combat, instead of all the time.
+"Community-reviewed machine translations are planned but we're still looking for language coordinators and volunteers for almost all languages, especially: CN, DE, ES, FR, HU, PL, and PT-BR. 
+Join our Discord server and get involved to help bring Vagrus to players in your own language."
